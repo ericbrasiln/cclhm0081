@@ -8,6 +8,7 @@ date: 08/06/2024
 description: "Plano de Ensino da disciplina História da América Independente, ministrada pelo Prof. Eric Brasil, no semestre 2024.1, no curso de Licenciatura em História da UNILAB. Contato: profericbrasil@unilab.edu.br"
 lang: pt-BR
 logo: logo.png
+toc: true
 ---
 
 | Código   | Disciplina                       | CH  | Dia | Horário | Sala |
@@ -17,6 +18,8 @@ logo: logo.png
 # Ementa
 
 A crise do sistema colonial; Processos de independência e formação dos Estados Nacionais: história e historiografia; A revolução haitiana; Resistência negra, abolicionismos e luta pela cidadania; Povo e revolução na América Central e no Caribe; Populismo, autoritarismo e democracia no século XX; A construção do conceito de “América Latina”. O ensino de história e historiografia da América Latina na escola básica.
+
+[Clique aqui para acessar a versão em pdf](http://ericbrasil.com.br/cclhm0081/ementa.pdf)
 
 ---
 
