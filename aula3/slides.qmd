@@ -1,0 +1,155 @@
+---
+title: "Revolução Americana e a Formação da República dos EUA"
+subtitle: "CCLHM0081 - História da América independente"
+author: Eric Brasil
+date: 2024-08-20
+lang: pt-br
+format:
+  revealjs: 
+    theme: black
+    slide-number: true
+    incremental: true 
+    chalkboard: 
+      buttons: true
+    preview-links: auto
+    #logo: logo.png
+    #css: styles.css
+    footer: "<a href=https://ericbrasil.com.br/>Eric Brasil</a> | <a href=https://ericbrasil.com.br/contact/>Entre em contato</a>"
+---
+
+<iframe src="https://www.youtube.com/embed/VYOjWnS4cMY" width="1090" height="618" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+---
+
+## 1. Colonia de Povoamento X Colonia de Exploração? {.center}
+
+- Ibéricos x Anglos-Saxões
+- Clima e geografia
+- Origens do "atraso" ou "sucesso" das colônias
+
+---
+
+## 2. Inglaterra no século XVII {.center}
+
+- Ausência de um projeto colonial sistemático
+    - Tensões entre a Coroa e o Parlamento, entre nobreza e burguesia
+    - Tensões religiosas
+    - Inflação, fome, peste
+    - Aumento da população
+
+---
+
+## 3. Colonos ingleses na América {.center}
+
+- Companhias de comércio: empresas privadas e capitalistas
+- Órfãos, mulheres pobres
+- Servos por contrato (_indentured servants_)
+- Peregrinos (_pilgrims_) e puritanos: perseguição religiosa
+- Escravos africanos
+- Crescimento populacional
+
+---
+
+## {.center}
+
+![13 colônias](13col.jpg)
+
+---
+
+## 4. Diferenças regionais {.center}
+
+---
+
+## 4. Diferenças regionais {.center}
+
+### Norte {.center}
+
+- Clima temperado
+- Policultura
+- Consumo interno
+- Trabalho familiar
+- produção de navios
+- comércio triangular
+- Pesca / Peles
+
+---
+
+## 4. Diferenças regionais {.center}
+
+### Sul {.center}
+
+- Clima tropical
+- Monocultura (tabaco, arroz, algodão)
+- Escravidão
+- Mercado externo
+
+---
+
+## 5. Transformações do século XVIII {.center}
+
+- Explosão demográfica + movimento populacional + busca por terras
+- Governos coloniais perdem controle sobre novos assentamentos
+- Grande pressão sobre as populações indígenas
+- Maior demanda por grãos na Grã-Bretanha e por alimentos em geral no Caribe = aumenta produção, comércio,
+manufaturas, transporte e comunicações.
+
+::: notes
+Maior atenção por 'racionalizar' o controle imperial sobre esses territórios.
+
+Reservas indígenas = arma para afastar os povos ainda mais para oeste.
+
+Violência nas fronteiras. Grande resistência indígena.
+
+Ocupações a Oeste: longe do controle colonial, sem representatividade nas casas legislativas coloniais.
+:::
+
+---
+
+## 5. Transformações do século XVIII {.center}
+
+- Reforma colonial com o final da Guerra dos Sete Anos (1763)
+- Reorganização do território adquirido da França e Espanha
+- Despesas: gastos, juros, exército, marinha
+- Aumento de impostos
+- Fim da 'salutar negligência' (_salutary neglect_)
+
+---
+
+## 6. A resistência dos colonos {.center}
+
+- Criação de uma série de leis e impostos que afetavam diretamente a economia das colônias
+- Lei do Selo (1765): "ameaça à autonomia colonial"
+- Reação: boicote, protestos, motins, violência, jornais, panfletos, clubes
+- Filhos de liberdade
+- Medidas da coroa pós-1765: tropas, novos tribunais, leis, repressão
+
+---
+
+## 6. A resistência dos colonos {.center}
+
+- Boston Tea Party (1773): reação à Lei do Chá
+- Leis coercitivas (1774): fechamento do porto de Boston, intervenção militar
+
+---
+
+## {.center}
+
+![Nathayel Corrier "Tea sabotage in Boston Port", 1846](tea.jpg)
+
+---
+
+## 7. Debate imperial sobre política, representação e autonomia {.center}
+
+- O Papel da Representação: No centro do debate imperial estava a questão da "representação virtual," defendida pelos britânicos, que afirmava que o Parlamento representava todos os súditos do Império, mesmo sem representantes eleitos. Os colonos americanos, porém, consideravam essa representação insuficiente e argumentavam que a imposição de impostos sem representação direta era ilegítima, resumindo sua demanda no slogan "no taxation without representation."
+
+---
+
+## 7. Debate imperial sobre política, representação e autonomia {.center}
+
+- Diferenças Ideológicas entre Colonos e Britânicos: Enquanto os britânicos consideravam as reformas e impostos necessários para manter o império, os colonos viam essas medidas como um ataque a seus direitos e liberdades. Essas divergências ampliaram o distanciamento entre colônias e metrópole, dificultando a reconciliação e pavimentando o caminho para a independência.
+
+---
+
+## Continua... {.center}
+
+<iframe src="https://www.youtube.com/embed/-pUhraVG7Ow" width="1090" height="618" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
