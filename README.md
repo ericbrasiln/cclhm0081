@@ -1,12 +1,14 @@
-![ihl](imgs/logos.png)
+# História da América Independente - CCLHM0081
 
-# CCLHM0081
+Curso de Licenciatura em História da Universidade da Integração Internacional da Lusofonia Afro-Brasileira (UNILAB).
+ 
+| Docente     | Período | CH  | Horário          | Sala | Contato |
+|:-----------:|:-------:|:---:|:----------------:|:----:|:---------------------------:|
+| Eric Brasil | 2024.1  | 60h | Quartas, 8h-11h  | 5    | profericbrasil@unilab.edu.br|
+
+**Site com o material da disciplina História da América Independente.**
 
 ![ai](imgs/img10.jpeg)
-
----
-
-Site com o material da disciplina História da América Independente.
 
 ## Ementa
 
@@ -23,3 +25,5 @@ Se preferir, acesse o cronograma em formato PDF [aqui](https://ericbrasil.com.br
 ## Licença
 
 CC-BY-SA-4.0 © [Eric Brasil](https://ericbrasil.com.br)
+
+![ihl](imgs/logos.png)
