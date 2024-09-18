@@ -1,0 +1,131 @@
+---
+title: "Independências da América Hispânica: História e Historiografia"
+subtitle: "CCLHM0081 - História da América independente"
+author: Eric Brasil
+date: 2024-09-18
+lang: pt-br
+format:
+  revealjs: 
+    theme: black
+    slide-number: true
+    incremental: true 
+    chalkboard: 
+      buttons: true
+    preview-links: auto
+    #logo: logo.png
+    #css: styles.css
+    footer: "<a href=https://ericbrasil.com.br/>Eric Brasil</a> | <a href=https://ericbrasil.com.br/contact/>Entre em contato</a>"
+---
+
+## Transformações no Mundo Espanhol (Século XVII - Início do XIX) {.center}
+
+---
+
+### **Transformações Econômicas**
+- **Crise das Minas de Prata**: A produção de prata, especialmente no Peru e no México, diminuiu drasticamente, afetando a economia colonial espanhola.
+- **Mudança no Comércio Internacional**: O monopólio comercial espanhol foi desafiado por outras potências europeias, como Inglaterra e França, e o comércio ilícito com as colônias aumentou.
+- **Reformas Bourbon**: A partir de meados do século XVIII, a dinastia Bourbon implementou reformas econômicas para revitalizar o império, como a liberação do comércio e a criação de novos impostos.
+
+---
+
+### **Transformações Políticas**
+- **Centralização do Poder**: As Reformas Bourbon buscaram centralizar o poder nas mãos da coroa espanhola, enfraquecendo as elites locais e aumentando o controle sobre as colônias.
+- **Criação de Novos Vice-Reinos**: Para administrar melhor os territórios coloniais, novos vice-reinos, como o do Rio da Prata (1776), foram criados, fragmentando as unidades administrativas existentes.
+- **Crise de 1808**: A invasão napoleônica da Espanha e a deposição de Fernando VII levaram à criação de Juntas em várias regiões da América Hispânica, iniciando o processo de independência.
+
+---
+
+### **Transformações Sociais**
+- **Mudança no Papel da Elite Crioula**: Os crioulos começaram a questionar o monopólio dos cargos públicos pelos peninsulares, gerando tensões sociais e políticas.
+- **Reformas na Educação**: Houve um aumento na criação de instituições de ensino e o surgimento de uma elite intelectual crioula que começou a questionar a ordem colonial.
+- **Conflitos Sociais**: O crescente descontentamento das classes populares, indígenas e escravizados com as políticas coloniais e a exploração intensificada pelas reformas econômicas.
+
+::: notes
+O período entre o final do século XVII e o início do XIX viu profundas mudanças econômicas, políticas e sociais no Império Espanhol, preparando o terreno para as revoluções de independência na América Hispânica.
+:::
+
+---
+
+## A Constituição de Cádiz (1812) e Seus Impactos para a Independência {.center}
+
+---
+
+### **O que foi a Constituição de Cádiz?**
+- **Promulgada em 1812**: Durante a ocupação napoleônica da Espanha, a Constituição foi criada pelas Cortes de Cádiz, um parlamento que se reuniu em resistência à invasão francesa.
+- **Modelo Liberal**: Estabeleceu um regime constitucional monárquico, limitando o poder absoluto do rei e estabelecendo princípios liberais como a soberania nacional e a separação de poderes.
+- **Extensão às Colônias**: A Constituição foi aplicada tanto na Espanha quanto nas colônias americanas, estabelecendo igualdade de direitos políticos para os cidadãos das colônias e da metrópole (exceto afrodescendentes).
+
+---
+
+### **Principais Impactos para a Independência**
+- **Participação Política nas Colônias**: Pela primeira vez, representantes das colônias hispano-americanas participaram de um processo legislativo europeu, gerando novas ideias de soberania e autonomia local.
+- **Descentralização do Poder**: A Constituição descentralizou parte do poder da coroa, incentivando a formação de juntas de governo locais nas colônias, que atuaram como embriões dos futuros Estados independentes.
+
+---
+
+- **Reação Realista**: Com o retorno de Fernando VII ao trono em 1814 e a restauração do absolutismo, as promessas de participação e autonomia das colônias foram canceladas, gerando revoltas e acelerando o processo de independência.
+- **Criação de uma Cultura Constitucionalista**: A Constituição de Cádiz introduziu ideias de direitos políticos, cidadania e soberania popular, que influenciaram profundamente os movimentos de independência na América Hispânica.
+
+---
+
+### **Legado da Constituição de Cádiz**
+- **Inspiração Revolucionária**: A Constituição de Cádiz foi vista por muitos revolucionários hispano-americanos como um símbolo de resistência ao absolutismo e um modelo para suas próprias constituições nacionais.
+- **Acelerador de Mudanças**: Ao mesmo tempo em que promoveu participação política, a dissolução da Constituição por Fernando VII demonstrou aos líderes coloniais a necessidade de romper completamente com a Espanha para garantir autonomia e liberdade.
+
+::: notes
+A Constituição de Cádiz marcou uma virada na relação entre a Espanha e suas colônias, ao promover direitos liberais e participação política. Sua revogação por Fernando VII foi um catalisador para os movimentos de independência na América Hispânica.
+:::
+
+---
+
+## Independências da América Hispânica: Revolução ou Não? {.center}
+
+### **Introdução ao Debate**
+- Discussão central: as lutas de independência na América Hispânica foram revoluções?
+- Diferentes historiografias atribuem ou não um caráter revolucionário a esses movimentos.
+- A análise do conceito de revolução e suas múltiplas definições.
+
+---
+
+## Conceito de Revolução e a Historiografia Liberal {.center}
+
+### **Abordagem Liberal**
+- Historiografia liberal tradicional: independência como revolução no sentido de ruptura política com a metrópole.
+- Centralidade da elite crioula no processo: substituição de peninsulares por crioulos no poder.
+- Ponto de vista maniqueísta: patriotas versus realistas.
+
+---
+
+## Revoluções de Independência e Mudanças Estruturais {.center}
+
+### **Historiografia Marxista**
+- Marxismo: negação do caráter revolucionário das independências.
+- Argumento: pouca transformação nas estruturas econômicas e sociais.
+- Mudança política, mas permanência de estruturas coloniais.
+
+---
+
+## François-Xavier Guerra e a Modernidade Revolucionária {.center}
+
+### **A Proposta de Guerra**
+- Para Guerra, o processo revolucionário hispano-americano é parte de um fenômeno maior: a modernidade.
+- As revoluções hispano-americanas começam em 1808 e fazem parte da ruptura com o Antigo Regime.
+- O papel da nova soberania popular e da criação de novas formas de sociabilidade.
+
+---
+
+## O Ponto de Mutação: 1808-1810 {.center}
+
+### **Momento Crucial**
+- Guerra destaca o período de 1808-1810 como ponto de mutação ideológica.
+- Criação das Juntas de governo locais e o debate sobre soberania.
+- Disputa entre a visão monárquica absolutista e a visão plural e pactista dos americanos.
+
+---
+
+## Modernidade e Revolução na América Hispânica {.center}
+
+### **Conclusão do Debate**
+- Guerra: revoluções hispano-americanas marcam o advento da modernidade política.
+- A crise dinástica e as guerras de independência criaram um "laboratório político" nas Américas.
+- Independência como parte de um processo mais amplo de transformação política e social.
