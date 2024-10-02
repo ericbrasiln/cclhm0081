@@ -1,0 +1,106 @@
+---
+title: "A Era das Abolições no Caribe Britânico"
+subtitle: "CCLHM0081 - História da América Independente"
+author: Eric Brasil
+date: 2024-10-02
+lang: pt-BR
+format:
+  revealjs: 
+    theme: black
+    slide-number: true
+    incremental: true 
+    chalkboard: 
+      buttons: true
+    preview-links: auto
+    footer: "<a href=https://ericbrasil.com.br/>Eric Brasil</a> | <a href=https://ericbrasil.com.br/contact/>Entre em contato</a>"
+---
+
+## **Claudius Fergus: Medo e Segurança** {.center}
+
+>FERGUS, Claudius. “Dread of Insurrection”: Abolitionism, Security, and Labor in Britain’s West Indian Colonies, 1760-1823. The William and Mary Quarterly, [s. l.], v. 66, n. 4, p. 757–780, 2009. 
+
+>FERGUS, Claudius K. Revolutionary Emancipation: Slavery and Abolitionism in the British West Indies. [S. l.]: Louisiana State University Press, 2013. Disponível em: https://muse.jhu.edu/book/22771. Acesso em: 14 nov. 2019.
+
+---
+
+## **Claudius Fergus: Medo e Segurança** {.center}
+
+- **Medo da Revolta de Escravizados**: A Revolução Haitiana e outras revoltas criaram um medo generalizado nas colônias britânicas. O temor de insurreições forçou os debates sobre a abolição do tráfico e da escravidão.
+- **Creolização como Solução**: A "creolização", o uso de escravizados nascidos no Caribe, foi vista como uma maneira de reduzir os riscos de revolta, mas não eliminou as tensões sociais. Representava uma tentativa de impedir a entrada de novos africanos nas colônias.
+
+
+---
+
+## **Claudius Fergus: Medo e Segurança** {.center}
+
+- **Amelioration**: A implementação de um política de "melhoramento" nas condições dos escravizados buscava manter a ordem sem abolir a escravidão imediatamente, mas as revoltas contínuas enfraqueceram o sistema.
+
+---
+
+## Gelien Matthews: Trinidad e a Proibição do Tráfico {.center}
+
+>MATTHEWS, Gelien. *Caribbean slave revolts and the British abolitionist movement.* Baton Rouge, La: Louisiana State Univ. Press, 2006. 
+
+>MATTHEWS, Gelien. Trinidad: A Model Colony for British Slave Trade Abolition. *Parliamentary History*, [s. l.], v. 26, n. 4S, p. 84–96, 2007. 
+
+---
+
+## Gelien Matthews: Trinidad e a Proibição do Tráfico {.center}
+
+- **Trinidad como Colônia Modelo**: A baixa população escrava de Trinidad permitiu que fosse um campo de testes ideal para as políticas abolicionistas britânicas.
+- **Proibição do Tráfico de Escravos (1806)**: Mesmo antes da abolição formal do tráfico em 1807, Trinidad já havia proibido a importação de escravos.
+- **Revoltas e Pressão Social**: As revoltas escravas no Caribe, junto com a resistência nas ruas, aceleraram as decisões políticas na metrópole e pressionaram por uma mudança na política colonial.
+
+---
+
+## Carnaval e Abolição em Trinidad: Performance e Resistência Negra {.center}
+
+>BRASIL, Eric. Abolição e Carnaval: performance e experiência social negra em Trinidad (cc. 1790-1850). Revista de Estudos e Pesquisas sobre as Américas, [s. l.], v. 12, n. 3, p. 204–227, 2018. 
+
+---
+
+## Carnaval e Abolição em Trinidad: Performance e Resistência Negra {.center}
+
+- **Canboulay**: simbolizava tanto a luta contra o controle colonial quanto a memória da escravidão e luta por liberdade. A repressão do carnaval pelas autoridades reflete o medo da mobilização social nas ruas.
+- **Ação nas Ruas e Desafios ao Colonialismo**: O carnaval não foi apenas uma celebração, mas uma expressão de cidadania e resistência, que desafiou a estrutura colonial e acelerou o fim da escravidão.
+
+---
+
+## Revoltas Escravas e Ações nas Ruas: Enfraquecendo a Escravidão e o Tráfico {.center}
+
+- **Revoltas como Força Motriz**: Todos os três autores destacam que as revoltas escravas foram cruciais para minar a estabilidade das colônias escravistas.
+- **Impacto nas Decisões Políticas**: As revoltas escravas e as manifestações nas ruas, combinadas com a resistência cultural, forçaram as autoridades coloniais e a Grã-Bretanha a reconsiderar o tráfico de escravos e a escravidão como instituições viáveis.
+
+---
+
+## **1833: A Lei de Abolição da Escravidão** {.center}
+
+- **Ato de Emancipação Britânica de 1833**: 
+  - Declarou a abolição formal da escravidão nas colônias britânicas, incluindo o Caribe.
+  - Entretanto, instituiu um período de **aprendizagem**, onde ex-escravizados deveriam continuar trabalhando por um período antes de ganharem sua liberdade total.
+  - Entraria em vigor em 01 de agosto de 1834.
+
+---
+
+## *1838: Fim do Período de Aprendizagem* {.center}
+
+  - Após forte resistência e protestos dos escravizados, o período de aprendizagem foi abolido e a liberdade plena foi concedida em 1838.
+  - Trinidad se tornou uma das colônias onde as festividades e celebrações do carnaval refletiram a nova realidade social.
+
+---
+
+## O Impacto da Abolição no Caribe Britânico {.center}
+
+- **Transformações Econômicas e Sociais**
+  - Batalhas por direitos e terras, bem como a luta por igualdade e justiça, marcaram o período pós-abolição.
+  - Formação de campesinato e pequenos proprietários variou de acordo com as características locais de cada ilha.
+
+---
+
+## O Impacto da Abolição no Caribe Britânico {.center}
+
+- **Imigração de Trabalhadores Contratados**:
+  - Para substituir o trabalho escravo, as autoridades coloniais britânicas promoveram a imigração de trabalhadores contratados, especialmente da Índia.
+  - Esses trabalhadores, chamados de *coolies*, foram levados para as áreas das antigas *plantations* e o fluxo constante aumentou a pressão sobre os salários.
+  - A introdução desses trabalhadores criou novas dinâmicas sociais e tensões entre as populações negras e imigrantes.
+

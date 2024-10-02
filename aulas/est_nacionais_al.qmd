@@ -1,0 +1,117 @@
+---
+title: "A Formação do Estado Nacional na América Latina"
+subtitle: "CCLHM0081 - História da América Independente"
+author: Eric Brasil
+date: 2024-09-18
+lang: pt-BR
+format:
+  revealjs: 
+    theme: black
+    slide-number: true
+    incremental: true 
+    chalkboard: 
+      buttons: true
+    preview-links: auto
+    #logo: logo.png
+    #css: styles.css
+    footer: "<a href=https://ericbrasil.com.br/>Eric Brasil</a> | <a href=https://ericbrasil.com.br/contact/>Entre em contato</a>"
+---
+
+## Baseado no texto de Claudia Wasserman (2006) {.center}
+
+>Wasserman, Claudia. A formação do Estado Nacional na América Latina: as emancipações políticas e o intrincado ordenamento dos novos países. In: **História da América Latina**: cinco séculos (temas e problemas). 3. ed. Porto Alegre: Editora da UFRGS. p. 177-214.
+
+---
+
+### Relação entre o Processo de Emancipação Política e a Internacionalização do Capitalismo {.center}
+
+- A  independência política na América Latina coincidiu com a expansão do capitalismo global.
+- A internacionalização do capitalismo envolveu a integração das economias latino-americanas no mercado mundial, principalmente como exportadoras de matérias-primas e importadoras de produtos manufaturados.
+- As elites locais adaptaram-se rapidamente ao novo cenário econômico, mantendo o controle sobre os recursos e promovendo a inserção das ex-colônias no mercado capitalista.
+
+---
+
+### Relação entre o Processo de Emancipação Política e a Internacionalização do Capitalismo {.center}
+
+- **Dependência Econômica**:
+  - Apesar da emancipação política, as novas nações mantiveram uma relação de dependência econômica com as potências europeias e, posteriormente, com os Estados Unidos.
+  - As estruturas coloniais não foram totalmente desmanteladas, resultando em um modelo econômico que perpetuava a exportação de commodities e a importação de produtos industrializados.
+
+::: notes
+A independência latino-americana coincidiu com o processo de internacionalização do capitalismo, onde as ex-colônias passaram a integrar o mercado global, mas mantendo uma posição de dependência econômica.
+:::
+
+---
+
+## Dificuldades para a Formação de Estados Nacionais Estáveis {.center}
+
+- **Fragmentação Territorial**:
+  - A América Latina pós-independência enfrentou sérias dificuldades de integração territorial devido às enormes distâncias e à falta de infraestrutura de comunicação.
+  - O surgimento de caudilhos locais enfraqueceu a centralização do poder, dificultando a consolidação de governos nacionais.
+
+---
+
+## Dificuldades para a Formação de Estados Nacionais Estáveis {.center}
+
+- **Ausência de Identidade Nacional Sólida**:
+  - A diversidade étnica e social, somada à falta de uma tradição de autogoverno, complicou a criação de um sentimento de identidade nacional.
+  - O projeto de construção de nações enfrentou resistência de populações indígenas, afrodescendentes e setores marginalizados, que não se viam representados pelos governos.
+
+---
+
+## Dificuldades para a Formação de Estados Nacionais Estáveis {.center}
+
+- **Instabilidade Política**:
+  - Golpes de estado, guerras civis e a ausência de instituições políticas fortes foram frequentes nas primeiras décadas de independência.
+  - A falta de coesão entre as elites e as classes populares impediu a formação de Estados estáveis, favorecendo a fragmentação e a instabilidade.
+
+::: notes
+A fragmentação territorial, a ausência de uma identidade nacional comum e a instabilidade política foram alguns dos principais desafios para a formação de Estados Nacionais na América Latina.
+:::
+
+---
+
+## O Posicionamento das Elites Crioulas no Pós-Independência {.center}
+
+- **Manutenção do Poder**:
+  - As elites crioulas, formadas principalmente por descendentes de espanhóis, desempenharam um papel central nas independências, mas seu objetivo era manter o controle político e econômico sobre as novas nações.
+  - Essas elites assumiram o poder após a independência, substituindo os administradores coloniais espanhóis, mas mantiveram a estrutura social e econômica excludente.
+
+---
+
+## O Posicionamento das Elites Crioulas no Pós-Independência {.center}
+
+- **Resistência às Mudanças Sociais**:
+  - As elites resistiram a reformas que beneficiassem as classes populares, indígenas e afrodescendentes, o que perpetuou as desigualdades sociais e a exclusão política.
+  - Embora tenha havido uma retórica de igualdade e liberdade durante as guerras de independência, as elites crioulas mantiveram o status quo e os privilégios econômicos.
+
+::: notes
+As elites crioulas se beneficiaram das independências ao manterem o poder político e resistirem às reformas sociais que poderiam desafiar seu controle econômico e político.
+:::
+
+---
+
+## Identidade Nacional na América Latina e Diferenças com o Modelo Europeu {.center}
+
+- A autora destaca que a construção de uma identidade nacional na América Latina foi um processo complicado pela diversidade étnica e cultural.
+- Ao contrário da Europa, onde os Estados nacionais se formaram em torno de uma homogeneidade cultural relativa, na América Latina as novas nações tinham populações indígenas, afrodescendentes e mestiças, além das elites crioulas.
+
+---
+
+## Identidade Nacional na América Latina e Diferenças com o Modelo Europeu {.center}
+
+- **Exclusão de Grupos Marginalizados**:
+  - A formação de uma identidade nacional muitas vezes excluiu os indígenas e afrodescendentes, que eram marginalizados no discurso oficial.
+  - As nações latino-americanas tentaram se espelhar nos modelos europeus de organização estatal e identidade, mas não conseguiram incorporar plenamente suas populações diversas.
+
+---
+
+## Identidade Nacional na América Latina e Diferenças com o Modelo Europeu {.center}
+
+- Enquanto na Europa as identidades nacionais foram construídas em torno de uma história comum e uma cultura unificada, na América Latina a tentativa de emular esses modelos falhou ao não reconhecer as complexidades internas de suas sociedades.
+- A persistência de hierarquias coloniais e a exclusão de grande parte da população dificultaram a criação de uma identidade nacional inclusiva.
+
+::: notes
+A criação de uma identidade nacional na América Latina foi marcada por exclusões e dificuldades, contrastando com o modelo europeu, que se baseou em uma suposta homogeneidade cultural e histórica.
+:::
+
