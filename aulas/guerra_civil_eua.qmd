@@ -1,0 +1,363 @@
+---
+title: "Guerra Civil e Abolição nos EUA (1861-1865)"
+subtitle: "CCLHM0081 - História da América Independente"
+author: Eric Brasil
+date: 2024-10-09
+lang: pt-BR
+format:
+  revealjs: 
+    theme: black
+    slide-number: true
+    incremental: true 
+    chalkboard: 
+      buttons: true
+    preview-links: auto
+    footer: "<a href=https://ericbrasil.com.br/>Eric Brasil</a> | <a href=https://ericbrasil.com.br/contact/>Entre em contato</a>"
+---
+
+
+## Abolicionismo emerge na sociedade dos EUA {.center}
+
+- **Despertar do Abolicionismo**: Nas décadas de 1830 e 1840, o abolicionismo nos Estados Unidos ganhou força nas sociedades civis do norte, especialmente em estados como Massachusetts, influenciado por movimentos internacionais, especialmente do Reino Unido.
+- **Inovação de Táticas**: Os abolicionistas dos EUA replicaram e, em muitos casos, superaram as táticas britânicas, organizando campanhas em massa, publicações e eventos de mobilização que fomentaram o apoio à causa.
+
+---
+
+## Economia do Sul Escravista {.center}
+
+- **Algodão como Base Econômica**: O cultivo do algodão dominava a economia do sul dos EUA, representando quase metade do valor das exportações do país entre 1820 e 1860.
+- **Trabalho Escravo**: A mão de obra escrava foi central na produção agrícola do sul, especialmente no cultivo do algodão e do açúcar. 
+- **Efeitos no Crescimento**: Entre 1840 e 1860, o sul experimentou um crescimento mais rápido do que o norte, com comunicações e infraestrutura avançadas, incluindo uma extensa malha ferroviária.
+
+---
+
+## Comparação Econômica: Sul e Norte {.center}
+
+- **Progresso Industrial**: Embora o sul estivesse atrás do norte e da Grã-Bretanha em industrialização, ainda assim tinha setores comerciais e industriais relativamente dinâmicos.
+- **Riqueza e Desigualdade**: O sul era lar de uma quantidade maior de grandes proprietários ricos, com quase dois terços dos homens com patrimônio acima de 100.000 dólares residentes nos estados escravistas.
+
+---
+
+## Defesa da Escravidão no Sul {.center}
+
+- **Resistência ao Abolicionismo**: Os escravistas do sul resistiram ao movimento abolicionista, argumentando que as condições dos escravos eram melhores do que as de trabalhadores livres em algumas regiões, como o Haiti e os centros industriais britânicos.
+
+---
+
+## Mobilização Abolicionista nos EUA {.center}
+
+- **Expansão das Organizações**: A Sociedade Antiescravagista Americana (AAS), fundada logo após a aprovação da Lei de Emancipação Britânica, se expandiu rapidamente. Em 5 anos, existiam mais de 1.300 organizações locais nos estados do norte, com 100.000 membros.
+- **Publicações e Mobilizações**: Entre 1834 e 1840, a AAS publicou milhões de folhetos e organizou turnês com palestras abolicionistas, consolidando o movimento em estados-chave do norte.
+
+---
+
+## Influência Religiosa e Moral {.center}
+
+- **Grande Despertar Religioso**: O abolicionismo foi impulsionado pela "Second Great Awakening", um movimento de  religioso que instigou a ação moral e a organização política contra a escravidão.
+- **Resistência ao Sul**: Apesar da crescente popularidade no norte, o movimento abolicionista encontrou forte resistência no sul, onde as elites defendiam a escravidão como uma "benção" para os africanos e parte do plano divino.
+
+---
+
+## O Modelo Britânico de Abolição {.center}
+
+- **Transição "Pacífica"**: A abolição britânica nas colônias do Caribe, que libertou 800.000 escravizados sem uma rebelião violenta, serviu como exemplo para os abolicionistas nos EUA.
+- **William Lloyd Garrison**: Líder abolicionista americano, exaltou o modelo britânico como "o maior milagre moral da época", vendo nele uma possibilidade de que os EUA pudessem seguir um caminho semelhante, evitando a violência.
+
+---
+
+## Mobilização Popular no Modelo Britânico {.center}
+
+- **Grande Mobilização Popular**: O movimento abolicionista britânico envolveu uma mobilização massiva da sociedade civil, com petições assinadas por centenas de milhares de cidadãos.
+- **Exemplo Inspirador**: Abolicionistas americanos, como Garrison, tomaram o exemplo britânico como inspiração para fortalecer os seus movimentos, acreditando que a pressão pública poderia também funcionar nos EUA.
+
+---
+
+## Diferenças Econômicas entre o Caribe e o Sul dos EUA {.center}
+
+- **Dependência do Trabalho Escravo**: No sul dos EUA, a economia era muito mais dependente da escravidão, com bilhões de dólares investidos em pessoas escravizadas.
+- **Inviabilidade de indenização**: A compensação financeira para os proprietários de escravos, como ocorreu na Grã-Bretanha, era inviável nos EUA, devido à escala e ao valor dos escravizados.
+
+---
+
+## Limitações do Modelo Britânico nos EUA {.center}
+
+- **Medo do Colapso**: O temor de conflitos raciais e do colapso econômico no sul tornou a aplicação do modelo britânico difícil, especialmente em um contexto onde a escravidão era central para a economia e a estrutura social.
+- **Raça**: Argumentos racializados justificavam a escravidão e argumentavam pela inferioridade dos negros, que seriam incapazes de viver em liberdade.
+
+---
+
+## Reação Legislativa à Petição Abolicionista {.center}
+
+- **1835-1836**: Grande onda de petições antiescravagistas foi enviada ao Congresso dos EUA.
+  - **Primeira onda**: 35.000 assinaturas, ampliada posteriormente.
+  - **Segunda onda**: Relacionada à campanha britânica contra o sistema de aprendizagem de 1837-1838.
+  - Mais de 2 milhões de assinaturas acumuladas na década.
+
+---
+
+## A Importância da Participação Feminina {.center}
+
+- A estratégia da petição foi **amplamente feminina**:
+  - 400.000 peticionários entre 1837 e 1838.
+  - 286.000 eram mulheres, superando os homens em 2 para 1.
+  - Participação feminina foi uma **entrada importante na esfera pública nacional**.
+
+---
+
+## A Gag Rule e a Reação do Sul {.center}
+
+- A reação legislativa incluiu a criação da **Gag Rule**:
+  - Proposta pelo congressista James Hammond em resposta às petições.
+  - Bloqueio de todas as petições abolicionistas no Congresso.
+  - A Gag Rule durou por **oito anos** (1836-1844).
+
+---
+
+## Impactos da Gag Rule {.center}
+
+- **Consequências inesperadas**:
+  - Abolicionistas não desistiram e enviaram mais petições, focando temas como:
+    - Não anexação do Texas.
+    - Proibição do comércio interestadual de escravos.
+    - Reconhecimento de Haiti.
+  - A oposição ao **direito de petição** ajudou a mobilizar setores da sociedade, mesmo não sendo diretamente abolicionistas.
+  
+---
+
+## Formação da Ideologia Pró-Escravidão {.center}
+
+- O conflito levou ao desenvolvimento de uma **ideologia pró-escravidão** mais coesa:
+  - **O Sul** uniu-se em torno de uma defesa mais intensa da instituição.
+  - **Abolicionistas do Norte** representavam uma minoria, mas sua pressão continuava crescendo.
+
+---
+
+## A Divisão Continental {.center}
+
+### **Expansão da Escravidão e a Divisão Norte-Sul**
+- **Questão Central**: A questão da expansão da escravidão para os territórios ocidentais dividiu profundamente o país, gerando intensos debates políticos.
+
+---
+
+## {.center}
+
+![](https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/2511956/US_Slave_Free_1789-1861.0.gif?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=750)
+
+---
+
+## **O Compromisso de Missouri** {.center}
+
+- **Compromisso de Missouri (1820)**: Definiu uma linha divisória (36°30′) entre os estados livres e escravistas nos novos territórios. Isso trouxe alívio temporário, mas apenas adiou a disputa sobre a expansão da escravidão.
+
+---
+
+## **O Ato Kansas-Nebraska e a "Bleeding Kansas"** {.center}
+
+- **Douglas e o Ato Kansas-Nebraska (1854)**: Esse ato eliminou o Compromisso de Missouri, abrindo a questão da escravidão para a "soberania popular", onde cada novo estado decidiria sobre a legalidade da escravidão.
+- **Consequências**: O Ato Kansas-Nebraska gerou violência e tensões, conhecidas como "Bleeding Kansas", exacerbando as divisões políticas entre o Norte e o Sul e preparando o terreno para a Guerra Civil.
+
+---
+
+## **A Expansão Territorial e a Crise Política** {.center}
+
+- **Ferrovias e Economia**: Os interesses econômicos em ferrovias e a expansão para o Oeste aceleraram a necessidade de definir o status da escravidão nos novos territórios, especialmente nos estados do Meio-Oeste.
+- **População do Norte vs. Sul**: A migração massiva de nortistas para os territórios ocidentais aumentou a pressão para que esses novos estados fossem livres, enquanto o Sul tentava manter o equilíbrio de poder com novos estados escravistas.
+
+---
+
+## **Implicações para a Guerra Civil** {.center}
+
+- **Clivagens Irreconciliáveis**: A divisão continental entre escravidão e liberdade foi uma das causas centrais da Guerra Civil. A luta pela expansão ou contenção da escravidão nos territórios ocidentais exacerbou as tensões.
+- **Prelúdio à Secessão**: A incapacidade de chegar a um compromisso sobre a expansão da escravidão levou ao colapso do sistema político e à eventual secessão do Sul em 1861, marcando o início da Guerra Civil Americana.
+
+---
+
+## Fugitive Slave Law de 1850 {.center}
+
+- O Compromisso de 1850 incluiu uma nova e mais rígida Lei de Escravos Fugitivos, intensificando os conflitos entre o Norte e o Sul.
+- A lei permitiu que proprietários de escravos do Sul recuperassem seus escravos nos estados do Norte, gerando revolta entre os abolicionistas.
+- A implementação da lei resultou em confrontos e uma nova onda de resistência no Norte, tanto de afro-americanos quanto de aliados brancos.
+
+---
+
+## {.center}
+
+![Rotas de fuga pela "Underground Railroad"](https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/3597888/23320.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=750)
+
+---
+
+## A Dissolução do Sistema de Partidos {.center}
+
+- A questão da expansão da escravidão enfraqueceu o sistema bipartidário, desintegrando o Partido Whig e enfraquecendo a coalizão nacional.
+- O surgimento do Partido Republicano em 1854, baseado em uma plataforma de "solo livre", desafiou diretamente os interesses escravistas do Sul.
+- A eleição de Abraham Lincoln em 1860, com uma política explícita contra a expansão da escravidão, foi o catalisador final para a secessão dos estados do Sul.
+
+---
+
+## {.center}
+
+![Mathew Brady's Portrait of Abraham Lincoln, 1860](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Abraham_Lincoln_by_Mathew_Brady%2C_1860.tif/lossy-page1-800px-Abraham_Lincoln_by_Mathew_Brady%2C_1860.tif.jpg)
+
+---
+
+## O Caminho para a Guerra Civil {.center}
+- A eleição de Lincoln simbolizou a vitória das forças do Norte que se opunham à expansão da escravidão, enquanto o Sul via sua própria sobrevivência econômica ameaçada.
+- Em resposta, sete estados escravistas declararam secessão, formando os Estados Confederados da América em 1861.
+- A tensão culminou na Guerra Civil Americana, com a questão da escravidão e a expansão territorial como questões centrais no conflito.
+
+---
+
+## Cronologia da Guerra Civil Americana (1861–1865) {.center}
+
+---
+
+## {.center}
+
+### 1860-1861: Secessão e Início do Conflito
+
+- **6 de novembro de 1860**: Abraham Lincoln é eleito presidente dos EUA, representando o Partido Republicano abolicionista.
+- **4 de fevereiro de 1861**: Os estados do Sul formam a **Confederate States of America** com Jefferson Davis como presidente.
+- **12 de abril de 1861**: Começa a Guerra Civil com o ataque confederado a **Fort Sumter**.
+  
+---
+
+
+## {.center}
+
+### 1861: Primeiras Batalhas
+
+- **21 de julho de 1861**: **Primeira Batalha de Bull Run** (ou Manassas). Vitória confederada que demonstra que a guerra seria longa e brutal.
+
+---
+
+## {.center}
+
+### 1862: Conflitos Intensificam
+
+- **9 de março de 1862**: Batalha naval entre os couraçados **Monitor** e **Merrimack**, destacando a evolução da guerra marítima.
+- **6-7 de abril de 1862**: **Batalha de Shiloh**. Vitória da União, mas com pesadas baixas de ambos os lados.
+- **17 de setembro de 1862**: **Batalha de Antietam**. O dia mais sangrento da guerra. Vitória estratégica da União que levou à Proclamação de Emancipação.
+
+---
+
+## {.center}
+
+![ Battle of Antietam by Thule de Thulstrup, 1862](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Thure_de_Thulstrup_-_Battle_of_Antietam.jpg/800px-Thure_de_Thulstrup_-_Battle_of_Antietam.jpg)
+
+---
+
+## {.center}
+
+### 1863: Emancipação e Ponto de Virada
+
+- **1 de janeiro de 1863**: Lincoln emite a **Proclamação de Emancipação**, libertando escravos nos estados confederados.
+- **1-3 de julho de 1863**: **Batalha de Gettysburg**. Vitória decisiva da União, que marca o início do declínio do exército confederado.
+- **4 de julho de 1863**: Queda de **Vicksburg**. A União assume o controle completo do rio Mississippi, dividindo a Confederação.
+
+---
+
+## {.center}
+
+### 1864: Marcha para a Vitória
+
+- **Novembro de 1864**: **Marcha de Sherman ao Mar**. A destruição das infraestruturas no sul enfraquece significativamente a Confederação.
+- **1864**: Lincoln é reeleito como presidente dos EUA, consolidando o apoio à sua estratégia de guerra.
+
+---
+
+## {.center}
+
+### 1865: Fim da Guerra
+
+- **9 de abril de 1865**: General Robert E. Lee se rende a Ulysses S. Grant em **Appomattox Court House**, marcando o fim efetivo da guerra.
+- **14 de abril de 1865**: Lincoln é assassinado, cinco dias após a rendição de Lee.
+- **26 de abril de 1865**: A rendição final das tropas confederadas ocorre, encerrando oficialmente a Guerra Civil.
+
+---
+
+## Consequências da Guerra Civil {.center}
+
+- A Guerra Civil resultou na preservação da União e na abolição da escravidão, com a morte de aproximadamente 620.000 a 850.000 soldados ao longo do conflito.
+
+---
+
+## Recrutamento de Negros na União {.center}
+
+- A participação de afro-americanos no exército da União foi um marco decisivo na Guerra Civil Americana.
+- O recrutamento de afro-americanos nas tropas da União representou uma transição política e militar significativa, reforçando o esforço de guerra.
+
+---
+
+## Resistência e Preconceito Inicial {.center}
+
+### **Preconceitos na União**
+- A resistência inicial ao recrutamento de afro-americanos refletia o preconceito racial predominante, inclusive no Norte.
+- Muitos líderes políticos e militares duvidavam da habilidade dos negros para lutar e acreditavam que a sua inclusão poderia prejudicar o moral das tropas.
+
+---
+
+## Contribuição Afro-Americana no Conflito {.center}
+
+### **O Papel dos Soldados Negros**
+- Cerca de 180.000 afro-americanos serviram no exército da União, representando 10% das tropas.
+- **Frederick Douglass** foi um dos maiores defensores da inclusão afro-americana, argumentando que isso contribuiria para o reconhecimento de sua cidadania plena.
+
+---
+
+## As "United States Colored Troops" (USCT) {.center}
+
+### **Formação das Tropas Negras**
+- As "United States Colored Troops" foram oficialmente criadas em 1863, formalizando o recrutamento de soldados afro-americanos.
+- No início, os soldados afro-americanos foram designados principalmente para tarefas secundárias, mas provaram sua bravura e lealdade em batalhas decisivas.
+
+---
+
+## {.center}
+
+![Come and Join Us Brothers, by the Supervisory Committee For Recruiting Colored Regiments](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Come_and_Join_Us_Brothers%2C_by_the_Supervisory_Committee_For_Recruiting_Colored_Regiments.jpg/733px-Come_and_Join_Us_Brothers%2C_by_the_Supervisory_Committee_For_Recruiting_Colored_Regiments.jpg)
+
+---
+
+## {.center}
+
+![Men of Color Civil War Recruitment Broadside 1863](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Men_of_Color_Civil_War_Recruitment_Broadside_1863.png/408px-Men_of_Color_Civil_War_Recruitment_Broadside_1863.png)
+
+---
+
+## {.center}
+
+![Unidentified African American soldier in Union uniform with wife and two daughters](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/African_American_soldier_in_Union_uniform_with_wife_and_two_daughters_%28cropped%29.jpg/784px-African_American_soldier_in_Union_uniform_with_wife_and_two_daughters_%28cropped%29.jpg)
+
+---
+
+## Impactos Sociais do Recrutamento {.center}
+
+### **Repercussões Pós-Guerra**
+- A participação afro-americana na Guerra Civil foi crucial para a futura luta por direitos civis.
+- Muitos afro-americanos esperavam que sua participação no conflito levasse à plena cidadania e à igualdade política, resultando nas discussões sobre a Reconstrução.
+
+---
+
+## Reflexão sobre o Papel Afro-Americano {.center}
+
+### **Protagonismo na Abolição**
+- A atuação dos soldados negros durante a Guerra Civil demonstrou o papel central da população afro-americana na luta pela abolição.
+- Diferente da narrativa centrada em líderes brancos e nas elites, a resistência e ação direta dos afro-americanos no campo de batalha foram determinantes para a vitória da União e o fim da escravidão.
+
+---
+
+##  A guerra dia-a-dia {.center}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pDEK4gJBKW0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Harriet Tubman e a estrada para liberdade {.center}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dv7YhVKFqbQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Frederick Douglass {.center}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7QOTexnD-NE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
