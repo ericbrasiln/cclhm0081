@@ -1,0 +1,182 @@
+---
+title: "Cuba - Abolição e Independência (1870-1900)"
+subtitle: "CCLHM0081 - História da América Independente"
+author: Eric Brasil
+date: 2024-10-22
+lang: pt-BR
+format:
+  revealjs: 
+    theme: black
+    slide-number: true
+    incremental: true 
+    chalkboard: 
+      buttons: true
+    preview-links: auto
+    footer: "<a href=https://ericbrasil.com.br/>Eric Brasil</a> | <a href=https://ericbrasil.com.br/contact/>Entre em contato</a>"
+---
+
+## Uma breve cronologia das guerras de independência de Cuba {.center}
+
+---
+
+## **Guerra dos Dez Anos (1868-1878)** {.center}
+
+- Início da luta pela independência de Cuba contra o domínio espanhol.
+- Participação de pequenos proprietários, negros e libertos.
+- Pacto de Zanjón (10 de fevereiro de 1878)
+- Resistência em Oriente, liderada por Antonio Maceo
+
+---
+
+## {.center}
+
+!["Habana, entrada triunfal del Excmo. Sr. D. Arsenio Martínez Campos, el 14 de junio último". La Ilustración Española y Americana (XXVII): 4.](https://upload.wikimedia.org/wikipedia/commons/2/2a/Entrada_triunfal_de_Arsenio_Mart%C3%ADnez_Campos_en_La_Habana%2C_1878.jpg)
+
+---
+
+## **Guerra Chiquita (1879-1880)** {.center}
+
+- Liderança de Calixto Garcia e Guillermo Moncada, foi rapidamente derrotada, mas que manteve viva a resistência cubana.
+
+---
+
+## {.center}
+
+![Guillermo Moncada. Autor desconhecido](https://upload.wikimedia.org/wikipedia/commons/6/6f/Jos%C3%A9_Guillermo_Moncada_Veranes.jpg)
+
+---
+
+## **Guerra de Independência (1895-1898)** {.center}
+
+- Liderada por José Martí e Antônio Maceo, culminando na intervenção dos EUA.
+
+---
+
+## {.center}
+
+![José Martí en una visita de propaganda del Partido Revolucionario Cubano (1892).](https://upload.wikimedia.org/wikipedia/commons/7/7f/Jos%C3%A9_Mart%C3%AD_en_una_visita_de_propaganda_del_Partido_Revolucionario_Cubano%2C_1892.jpg)
+
+---
+
+## **1898 e a Guerra Hispano-Americana** {.center}
+
+- Intervenção dos EUA leva à independência formal de Cuba em 1902, após ocupação americana.
+
+---
+
+## Questões Sociais e Mobilização Racial {.center}
+
+- **Participação Negra**: Os cubanos negros viram na independência uma oportunidade de conquistar liberdade e igualdade social.
+  
+- **Exército Libertador**: Composto por uma diversidade racial significativa, com líderes como Antônio Maceo.
+
+- **Racismo e Desconfiança**: A participação negra gerou temor entre as elites brancas sobre as consequências sociais de uma revolução liderada por negros.
+
+---
+
+## Relação com o Cenário Internacional {.center}
+
+- **Impacto das Revoltas Haitianas**: A Revolução Haitiana serviu de inspiração, mas também gerou medo entre as elites brancas de Cuba.
+
+- **Intervenção dos EUA**: Os EUA intervêm na guerra cubana, preocupados com uma revolução liderada por negros.
+
+- **Apoio Internacional**: A luta pela independência cubana atraiu simpatia internacional, especialmente de ativistas abolicionistas.
+
+---
+
+## Abolição entre a guerra a legislação {.center}
+
+>SCOTT, Rebecca J. Abolição Gradual e a Dinâmica da Emancipação dos Escravos em Cuba, 1868-86 | *Estudos Econômicos* (São Paulo). Estudos Econômicos, v. 17, n. 3, p. 457–485, 1987.
+
+---
+
+## A Rebelião de 1868 {.center}
+
+- Pequenos proprietários revoltados contra o governo espanhol e novas taxações.
+- Libertação de escravos pelos insurgentes para fortalecer o exército rebelde.
+- Escravos libertados tornaram-se soldados, simbolizando a luta pela liberdade e desafiando o sistema escravista em Cuba.
+
+---
+
+## A Lei Moret de 1870 {.center}
+
+- Libertava crianças nascidas a partir de 1868 e escravos com mais de 60 anos.
+- Proibia o uso de castigos corporais como o açoite.
+- Crianças libertas deviam trabalhar até os 18 anos.
+- Resistência dos senhores de escravos limitava a aplicação efetiva da lei.
+
+---
+
+## O Patronato de 1880 {.center}
+
+- O patronato criou uma transição gradual para a liberdade, mantendo os ex-escravos sob controle dos senhores.
+- Um quarto dos patrocinados deveria ser libertado a cada ano a partir de 1885.
+- Ex-escravos ainda estavam sujeitos a castigos e trabalhavam para seus antigos senhores.
+- Embora o patronato permitisse a autocompra, muitos senhores tentavam manter as estruturas da escravidão intactas.
+
+---
+
+## O Fim dos Castigos Corporais e a Abolição Completa {.center}
+
+- A abolição formal dos castigos corporais marcou o declínio da escravidão em Cuba.
+- Mesmo após a proibição, senhores tentaram resistir ao fim do controle sobre os ex-escravos.
+
+---
+
+## **Abolição Final (1886)** {.center}
+
+- Em 1886, o patronato foi finalmente abolido, culminando na abolição completa da escravidão.
+- O fim da escravidão foi o resultado de uma luta prolongada entre escravizados e senhores em Cuba.
+
+---
+
+## Antiescravismo transnacional {.center}
+
+>MATA, I. M. Raça e antiescravismo no Caribe espanhol: o ativismo de Antonio Maceo e Ramón Emeterio Betances. *Revista Brasileira de História*, v. 41, n. 86, p. 13–37, jan. 2021.
+
+---
+
+## Ambiente Político do Caribe Espanhol (1863-1881) {.center}
+
+- **Guerras de Independência**: Cuba e Porto Rico enfrentaram revoltas anticoloniais que buscavam a abolição da escravidão e a independência da Espanha.
+- **Estrutura racial e econômica**: Essas regiões eram economicamente dependentes do trabalho escravo e organizadas por rígidas hierarquias raciais.
+- **Debate sobre abolição**: A discussão sobre a abolição da escravidão ganhava força, mas enfrentava resistência das elites brancas e coloniais.
+
+---
+
+## Protagonismo Negro na Luta Abolicionista {.center}
+
+- **Antonio Maceo**: Líder militar cubano nas guerras de independência, defendeu a abolição como passo essencial para a liberdade de Cuba.
+- **Ramón Emeterio Betances**: Médico e revolucionário porto-riquenho, ativista contra a escravidão e pela independência, lutou pelos direitos dos negros.
+- **Solidariedade racial**: Maceo e Betances viam a união dos negros do Caribe como fundamental para derrotar a opressão colonial e racial.
+
+---
+
+## {.center}
+
+![Antonio Maceo. Photographic History of the Spanish-American War, New York: Pearson Pub. Co., 1898.](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Antonio_Maceo.jpg/800px-Antonio_Maceo.jpg)
+
+---
+
+## Redes Transnacionais e Conexões Baseadas em Raça {.center}
+
+- **Correspondência e Diplomacia**: Maceo e Betances mantinham contatos com abolicionistas e líderes negros em outras regiões do Caribe e das Américas.
+- **Redes transnacionais**: Eles ajudaram a construir alianças antiescravistas que transcendiam fronteiras, conectando o Caribe e as Américas na luta contra a escravidão.
+
+---
+
+## Referência ao Haiti no Vocabulário Político {.center}
+
+- **Exemplo de Revolução**: A Revolução Haitiana (1791-1804) inspirou ativistas negros como Maceo e Betances, que viam o Haiti como símbolo de liberdade.
+- **Presença constante**: O Haiti era frequentemente evocado em seus discursos e escritos, representando o modelo de uma revolução bem-sucedida contra a escravidão.
+- **Solidariedade racial**: Maceo, em particular, buscava apoio haitiano na luta contra a escravidão em Cuba, destacando a importância da aliança racial no Caribe.
+
+---
+
+## Impacto e Legado do Ativismo Abolicionista {.center}
+
+- **Abolição e Independência**: A luta de Maceo e Betances foi central para a abolição da escravidão e os movimentos de independência em Cuba e Porto Rico.
+  
+- **Herança racial e política**: Seu ativismo criou uma identidade política e racial transnacional, conectando o Caribe com outras regiões das Américas.
+  
+- **Continuidade da Luta**: O legado de Maceo e Betances inspirou gerações futuras a continuar a luta por direitos civis e igualdade racial nas Américas.
