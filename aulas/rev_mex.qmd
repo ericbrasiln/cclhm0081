@@ -1,0 +1,65 @@
+---
+title: "Cenário Social do México (1870-1910): O Porfiriato"
+author: Eric Brasil
+date: 2024-10-21
+lang: pt-BR
+format:
+  revealjs: 
+    theme: black
+    slide-number: true
+    incremental: true 
+    chalkboard: 
+      buttons: true
+    preview-links: auto
+    footer: "<a href=https://ericbrasil.com.br/>Eric Brasil</a> | <a href=https://ericbrasil.com.br/contact/>Entre em contato</a>"
+---
+
+## Contexto Social do México (1870-1910): O Porfiriato {.center}
+
+---
+
+### **Consolidação do Regime de Porfirio Díaz** {.center}
+
+- **Ascensão ao poder**: Porfirio Díaz assumiu o poder em 1876 e permaneceu até 1911, consolidando um governo autoritário conhecido como "Porfiriato".
+- **Estabilidade política e controle social**: Para manter a estabilidade, Díaz centralizou o poder, reprimindo opositores e limitando as liberdades políticas.
+
+---
+
+### **Modernização e Dependência Econômica** {.center}
+
+- **Investimentos estrangeiros**: O governo incentivou investimentos estrangeiros, especialmente dos EUA e da Europa, nas áreas de mineração, ferrovias, e petróleo.
+- **Desigualdade na distribuição da riqueza**: A modernização beneficiava principalmente as elites e os investidores estrangeiros, enquanto a maioria da população permanecia em condições precárias.
+- **Agricultura exportadora**: As terras mexicanas foram direcionadas para a exportação, com latifúndios concentrados nas mãos de poucos proprietários.
+
+---
+
+### **Concentração de Terras e Exploração Camponesa** {.center}
+
+- **Expulsão de camponeses**: Muitos camponeses foram removidos de suas terras para dar lugar a fazendas de exportação, criando uma classe de trabalhadores rurais despossuídos.
+- **Sistema de haciendas**: Grandes propriedades rurais (haciendas) concentravam a produção agrícola e mantinham os camponeses em condições de trabalho quase feudais.
+- **Descontentamento generalizado**: A exploração e a falta de acesso à terra criaram um ambiente de insatisfação entre os trabalhadores rurais.
+
+---
+
+### **Condições de Trabalho e Vida Urbana** {.center}
+
+- **Expansão das cidades**: O crescimento das cidades trouxe uma nova classe trabalhadora urbana que enfrentava jornadas longas e baixos salários.
+- **Trabalho e sindicalismo reprimidos**: As tentativas de organização sindical e reivindicações de melhores condições de trabalho eram reprimidas pelo governo.
+- **Condições de vida precárias**: Nas áreas urbanas, a maioria dos trabalhadores vivia em condições insalubres e com acesso limitado a serviços básicos.
+
+---
+
+### **Repressão Política e Ausência de Democracia** {.center}
+
+- **Controle autoritário**: O regime de Díaz não permitia oposição política real, com eleições manipuladas e censura à imprensa.
+- **Ausência de liberdades**: Direitos civis e políticos eram restritos, aumentando o descontentamento entre intelectuais e a classe média emergente.
+
+---
+
+### **O Despertar do Descontentamento e o Ideal de Mudança** {.center}
+
+- **Influência de ideias liberais e revolucionárias**: A insatisfação encontrou eco nas ideias liberais, nacionalistas e anticoloniais, especialmente entre a classe média e intelectuais.
+- **Francisco Madero e a oposição política**: Madero surge como uma figura de oposição, defendendo eleições livres e reformas sociais, catalisando o descontentamento popular.
+
+---
+
