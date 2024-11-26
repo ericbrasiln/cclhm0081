@@ -1,0 +1,58 @@
+---
+title: "Desafios Contemporâneos e Desigualdades Raciais em Cuba"
+subtitle: "A Relação dos Afro-Cubanos com a Revolução Cubana"
+author: Eric Brasil
+date: 2024-11-27
+lang: pt-BR
+format:
+  revealjs: 
+    theme: black
+    slide-number: true
+    incremental: true 
+    chalkboard: 
+      buttons: true
+    preview-links: auto
+    footer: "<a href=https://ericbrasil.com.br/>Eric Brasil</a> | <a href=https://ericbrasil.com.br/contact/>Entre em contato</a>"
+---
+
+>Durães, B. J. R., & Mata, I. M. (1). Cuba, os afro-cubanos e a revolução: passado e presente. História Social, (17), 133-152
+
+---
+
+## **A Revolução Cubana e a Inclusão Social**
+
+- **Objetivo da Revolução**: Garantir igualdade racial e social.
+- **Acesso a direitos**: Educação, saúde e emprego para a população negra.
+- **Política oficial**: A Revolução declarou que a questão racial estava "resolvida", mas...
+
+---
+
+## **Racismo Estrutural Persistente**
+
+- **Mitificação da "democracia racial"**: Uma fachada para esconder as desigualdades reais.
+- **Discriminação cotidiana**: Apesar da inclusão formal, o racismo privado continua presente.
+- **Exclusão social e econômica**: Afro-cubanos ainda encontram barreiras em certos setores da sociedade.
+
+---
+
+## O "Período Especial" e as Desigualdades Raciais {.center}
+
+- **Impacto econômico**: O colapso da URSS e as reformas pós-89 criaram novas desigualdades.
+- **Turismo e segregação**: Aumento das disparidades raciais nos setores ligados ao turismo.
+- **Disparidades econômicas**: Afro-cubanos mais excluídos de empregos "lucrativos" (hotéis, turismo).
+
+---
+
+## **A Dualidade Econômica e Social**
+- **Dólar e CUC**: Economia marcada pela dupla circulação monetária.
+- **Desigualdade racial nas remessas**: A maior parte do dinheiro enviado por emigrantes cubanos vai para famílias brancas, aprofundando a desigualdade.
+- **Mercado paralelo**: Afro-cubanos têm maior participação em atividades informais, associadas a crimes e prostituição.
+
+---
+
+## Conclusão: Desafios e Oportunidades para o Futuro {.center}
+
+- **Cuba e a luta contra as desigualdades raciais**: Avanços, mas desafios persistem.
+- **Rumo à equidade racial**: A Revolução Cubana não eliminou totalmente o racismo estrutural.
+- **Reflexões atuais**: Como enfrentar as desigualdades em um contexto de reabertura econômica e renovação política.
+
