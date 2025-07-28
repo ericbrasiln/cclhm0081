@@ -1,29 +1,26 @@
-# História da América Independente - CCLHM0081
+# História da América Independente – CCLHM0081
 
-Curso de Licenciatura em História da Universidade da Integração Internacional da Lusofonia Afro-Brasileira (UNILAB).
- 
-| Docente     | Período | CH  | Horário          | Sala | Contato |
-|:-----------:|:-------:|:---:|:----------------:|:----:|:---------------------------:|
-| Eric Brasil | 2024.1  | 60h | Quartas, 8h-11h  | 5    | profericbrasil@unilab.edu.br|
+Repositório da disciplina **História da América Independente** (2025.2), ministrada pelo Prof. Eric Brasil no curso de Licenciatura em História do Instituto de Humanidades e Letras da UNILAB.
 
-**Site com o material da disciplina História da América Independente.**
+| Docente     | Período | CH  | Horário               | Sala | Contato                         |
+|:-----------:|:-------:|:---:|:---------------------:|:----:|:-------------------------------:|
+| Eric Brasil | 2025.2  | 60h | Quintas, 14h–18h      | ?    | profericbrasil@unilab.edu.br    |
 
-![ai](imgs/img10.jpeg)
+---
 
-## Ementa
+## Página online da disciplina
 
-Clique [aqui](https://ericbrasil.com.br/cclhm0081/ementa)) para acessar a ementa da disciplina online.
+[História da América Independente](https://ericbrasil.com.br/cclhm0081)
 
-Se preferir, acesse a ementa em formato PDF [aqui](https://ericbrasil.com.br/cclhm0081/ementa.pdf).
+---
 
-## Cronograma
+Versão atual, semestre 2025.2, no branch `main`.
 
-Clique [aqui](https://ericbrasil.com.br/cclhm0081/calendario) para acessar o cronograma da disciplina online.
-
-Se preferir, acesse o cronograma em formato PDF [aqui](https://ericbrasil.com.br/cclhm0081/calendario.pdf).
+---
 
 ## Licença
 
-CC-BY-SA-4.0 © [Eric Brasil](https://ericbrasil.com.br)
+Distribuído sob licença [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+© [Eric Brasil, 2025](https://ericbrasil.com.br)
 
-![ihl](imgs/logos.png)
+![](banner_logos_hist.png)
