@@ -5,6 +5,18 @@ institute: UNILAB - Instituto de Humanidades e Letras
 date: 2024-08-20
 lang: pt-br
 date-format: full
+format:
+  revealjs:
+    theme: white
+    slide-number: true
+    incremental: false
+    preview-links: auto
+    chalkboard:
+      buttons: true
+    logo: ../imgs/banner_logos_hist.png
+    footer: |
+      <a href="https://ericbrasil.com.br/cclhm0081">CCLHM0081 História da América Independente</a> |
+      <a href="https://ericbrasil.com.br/contact/">Contato</a>
 ---
 ## Acesse os slides da Aula 1 {.center}
 
