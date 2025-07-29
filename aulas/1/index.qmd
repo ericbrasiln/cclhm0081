@@ -1,0 +1,70 @@
+---
+title: "Quem escreve a história das Américas? E que disciplina é essa?"
+author: Eric Brasil
+institute: UNILAB - Instituto de Humanidades e Letras
+date: 2024-08-20
+lang: pt-br
+date-format: full
+---
+## Acesse os slides da Aula 1 {.center}
+
+[https://ericbrasil.com.br/cclhm0081/aulas/1](https://ericbrasil.com.br/cclhm0081/aulas/1)
+
+![](../imgs/qca1.png)
+
+## Apresentação da disciplina {.center}
+
+- **Disciplina:** História da América Independente
+- **Código:** CCLHM0081
+- **Professor:** Eric Brasil
+- **Período:** 2025.2
+- **Dia e horário:** Quintas-feiras, 14h às 18h
+- **Formato:** Presencial com atividades remotas ocasionais
+- **E-mail:** profericbrasil@unilab.edu.br
+
+---
+
+## Sobre a disciplina {.center}
+
+- Estudo comparado das experiências de liberdade e independência nas Américas
+- Ênfase nos processos históricos do século XVIII ao XX
+- Foco em sujeitos históricos, lutas e projetos políticos
+
+---
+
+## Tema central {.center}
+
+**As lutas por liberdade e independência no continente americano**
+
+- Revolução dos EUA (1776)
+- Revolução Haitiana (1791–1804)
+- Independências na América Hispânica (século XIX)
+- Revolução Mexicana (1910)
+- Revolução Cubana (1959)
+
+---
+
+## Objetivos da Aula 1 {.center}
+
+- Apresentar o curso, cronograma e formas de avaliação
+- Estabelecer combinados e rotinas
+- Refletir sobre a construção das ideias de Liberdade e Independência
+
+---
+
+## Avaliações {.center}
+
+- 2 atividades escritas remotas
+- Trabalho final
+
+---
+
+## Próxima aula {.center}
+
+**Como a Inteligência Artificial Generativa “vê” nossa disciplina?**
+
+Atividade remota – exploraremos o uso de IA na produção de narrativas históricas, reflexões críticas sobre autoria e fontes.
+
+---
+
+
