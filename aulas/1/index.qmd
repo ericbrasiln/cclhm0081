@@ -18,6 +18,12 @@ format:
       <a href="https://ericbrasil.com.br/cclhm0081">CCLHM0081 História da América Independente</a> |
       <a href="https://ericbrasil.com.br/contact/">Contato</a>
 ---
+# {.center}
+
+![Vídeo criado com o Veo3 do Google](videos/abertura.gif)
+
+---
+
 ## Acesse os slides da Aula 1 {.center}
 
 [https://ericbrasil.com.br/cclhm0081/aulas/1](https://ericbrasil.com.br/cclhm0081/aulas/1)
@@ -26,7 +32,7 @@ format:
 
 ---
 
-## Objetivos da Aula 1 {.center}
+## Objetivos da aula {.center}
 
 - Apresentar o curso, cronograma e formas de avaliação
 - Estabelecer combinados e rotinas
@@ -68,8 +74,193 @@ format:
 
 ## Avaliações {.center}
 
-- 2 atividades escritas remotas
-- Trabalho final
+- 2 atividades escritas remotas: 2 pontos cada
+- Trabalho final: 6 pontos
+- Nota final é a soma das atividades e trabalho final (10 pontos)
+
+___
+
+## Cronograma {.center}
+
+[https://ericbrasil.com.br/cclhm0081/cronograma/](https://ericbrasil.com.br/cclhm0081/cronograma/)
+
+---
+
+## Combinado não sai caro! {.center}
+
+:::: {.columns}
+::: {.column width="50%"}
+![](https://media1.tenor.com/m/e8-36w65OA4AAAAd/ed-truck.gif)
+:::
+::: {.column width="50%"}
+- **Horário**: quintas-feiras, 14h às 18h (na prática, terminaremos às 17h, sem intervalo)
+- **Presença obrigatória**: mínimo de 75% para aprovação (chamada será feita)
+:::
+::::
+
+---
+
+## Combinado não sai caro! {.center}
+
+:::: {.columns}
+::: {.column width="50%"}
+- **Atividades remotas**: serão anunciadas com antecedência
+- **Material de apoio**: slides e textos disponibilizados no site do curso e no SIGAA
+:::
+::: {.column width="50%"}
+- **Participação**: esperamos que todos participem ativamente das discussões
+- **Respeito, empatia e diálogo são essenciais**
+:::
+::::
+---
+
+### E as leituras obrigatórias? {.center}
+
+:::: {.columns}
+::: {.column width="50%"}
+<br>
+
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGl1c3hwejd6MXJxNzBsbWdwNHFqd3A0cXFqZDY2dTJpZ29kaHZnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VgY4dDdN1W3NS/giphy.gif)
+
+:::
+::: {.column width="50%"}
+
+- Não tem como fugir: **é um curso de História, e leitura é fundamental**.
+- Mais do que ler por ler, nosso foco é a **leitura crítica e reflexiva**.
+- É a partir dela que surgem os **bons debates e as perguntas que movem o conhecimento**.
+
+:::
+::::
+
+---
+
+## E a tal da Inteligência Artificial? {.center}
+<br>
+
+:::: {.columns}
+::: {.column width="50%"}
+![Vídeo criado com o Veo3 do Google](videos/ia.gif)
+:::
+::: {.column width="50%"}
+- Pode usar?
+- Bom, eu tô usando aqui, então sim, pode usar.
+- Mas como usar? Vejam esse [material de apoio](https://ericbrasil.com.br/cclhm00114/aulas/aula7)
+:::
+::::
+
+---
+
+## A crítica indígena e o mito do progresso {.center}
+
+::::.columns
+::: {.column width="20%"}
+![](https://s3proxy.cdn-zlib.sk//covers299/collections/userbooks/fdd6909bac760f5b18fc1874d5aacf3c9521bb14f06525a9e2f0620ed261d6dd.jpg)
+:::
+::: {.column width="10%"}
+::: 
+::: {.column width="70%"}
+Graeber, D.; Wengrow D. **O Despertar de tudo: uma nova história da humanidade**. São Paulo: Companhia das Letras, 2022.
+:::
+::::
+
+---
+
+## Liberdade e igualdade: ideias universais? {.center}
+
+- No final do século XVIII, **liberdade** e **igualdade** se tornaram palavras-chave nas lutas por independência nas Américas.
+- Mas... o que significavam essas ideias para os pensadores iluministas?
+- Liberdade para quem? Igualdade entre quem?
+- Essas ideias surgiram exclusivamente na Europa?
+- Que experiências e referências ajudaram a moldá-las?
+
+---
+
+## {.center}
+
+> “Todos os homens nascem livres e iguais.”  
+> — Declaração dos Direitos do Homem e do Cidadão (1789)
+
+Mas o que isso realmente queria dizer naquela época?  
+
+E... quem estava observando quem?
+
+---
+
+## O que os pensadores europeus estavam vendo? {.center}
+
+- No século XVII, missionários e intelectuais europeus começaram a **observar, relatar e debater** as formas de vida das sociedades indígenas americanas.
+- Ficaram particularmente impressionados com:
+  - A **liberdade individual** frente ao poder dos chefes
+  - A prática de **debate aberto e racional** nos conselhos
+  - A **ausência de punições autoritárias**
+
+---
+
+## O que os pensadores europeus estavam vendo? {.center}
+
+- Os relatos jesuíticos documentaram o espanto:
+
+> “São pessoas livres, e cada qual se considera tão importante quanto os demais.” — *Lallemant, 1648*
+
+---
+
+## Da observação à teoria: influências cruzadas {.center}
+
+- A crítica indígena à sociedade europeia ecoava entre **jesuítas, leitores e filósofos** do Iluminismo.
+- A ideia de um “estado de natureza” igualitário surgiu **em diálogo com as experiências americanas**.
+- Até **Engels** utilizaria os iroqueses como modelo do que chamou de “comunismo primitivo”.
+
+---
+
+## Da observação à teoria: influências cruzadas {.center}
+
+- O que os europeus chamaram de “igualdade” talvez fosse, antes, **a radical liberdade vivida pelos povos indígenas**:
+
+> “A igualdade é extensão direta da liberdade; [...] expressão do mesmo princípio.” — *Graeber e Wengrow*
+
+---
+
+## O que isso muda na nossa visão da história? {.center}
+
+- E se as ideias iluministas não tivessem nascido apenas na Europa, mas fossem o resultado de um diálogo transatlântico?
+- E se a crítica indígena às desigualdades, à competição e ao autoritarismo europeu tivesse modelado a própria noção de liberdade moderna?
+- Graeber e Wengrow não apenas resgatam essa influência: mostram que o Iluminismo europeu foi, em parte, um produto do pensamento indígena.
+
+---
+
+## Gerando visualizações com IA {.center}
+
+Modelo 4o, acessado dia 29/07/2025
+
+::: {.columns}
+::: {.column width="45%"}
+- *Prompt 1*: "A partir dos slides crie uma imagem que busque dar conta dos debates propostos, mas não utilize nada escrito, textos ou grafias. A imagem busca fomentar o debate para o restante do curso"
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="45%"}
+- *Prompt 2, na sequência*: "use um estilo realista, e destaque aspectos da tensão que existe de forma inerente no diálogo entre colonizadores e colonizados"
+:::
+::::
+
+---
+
+## Gerando visualizações com IA {.center}
+
+::::{.columns}
+::: {.column width="50%"}
+![Prompt 1](../imgs/2025_07_29_15_45_08.png)
+:::
+::: {.column width="50%"}
+![Prompt 2](../imgs/2025_07_29_15_47_57.png)
+:::
+::::
+
+---
+
+## Como encarar a disciplina depois disso? {.center}
+
+- Como repensar as lutas por liberdade e independência nas Américas à luz dessa perspectiva?
 
 ---
 
@@ -78,7 +269,3 @@ format:
 **Como a Inteligência Artificial Generativa “vê” nossa disciplina?**
 
 Atividade remota – exploraremos o uso de IA na produção de narrativas históricas, reflexões críticas sobre autoria e fontes.
-
----
-
-
