@@ -82,7 +82,9 @@ ___
 
 ## Cronograma {.center}
 
-[https://ericbrasil.com.br/cclhm0081/cronograma/](https://ericbrasil.com.br/cclhm0081/cronograma/)
+[https://ericbrasil.com.br/cclhm0081/calendario/](https://ericbrasil.com.br/cclhm0081/calendario)
+
+![](../imgs/qca2.png)
 
 ---
 
@@ -93,7 +95,7 @@ ___
 ![](https://media1.tenor.com/m/e8-36w65OA4AAAAd/ed-truck.gif)
 :::
 ::: {.column width="50%"}
-- **Horário**: quintas-feiras, 14h às 18h (na prática, terminaremos às 17h, sem intervalo)
+- **Horário**: quintas-feiras, iniciando impreterivelmente às 14h!
 - **Presença obrigatória**: mínimo de 75% para aprovação (chamada será feita)
 :::
 ::::
@@ -114,7 +116,7 @@ ___
 ::::
 ---
 
-### E as leituras obrigatórias? {.center}
+### E as leituras obrigatórias? São Obrigatórias, ué {.center}
 
 :::: {.columns}
 ::: {.column width="50%"}
