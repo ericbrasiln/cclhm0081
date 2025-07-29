@@ -12,6 +12,16 @@ date-format: full
 
 ![](../imgs/qca1.png)
 
+---
+
+## Objetivos da Aula 1 {.center}
+
+- Apresentar o curso, cronograma e formas de avaliação
+- Estabelecer combinados e rotinas
+- Refletir sobre a construção das ideias de Liberdade e Independência
+
+---
+
 ## Apresentação da disciplina {.center}
 
 - **Disciplina:** História da América Independente
@@ -41,14 +51,6 @@ date-format: full
 - Independências na América Hispânica (século XIX)
 - Revolução Mexicana (1910)
 - Revolução Cubana (1959)
-
----
-
-## Objetivos da Aula 1 {.center}
-
-- Apresentar o curso, cronograma e formas de avaliação
-- Estabelecer combinados e rotinas
-- Refletir sobre a construção das ideias de Liberdade e Independência
 
 ---
 
