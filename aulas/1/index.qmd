@@ -2,7 +2,7 @@
 title: "Quem escreve a história das Américas? E que disciplina é essa?"
 author: Eric Brasil
 institute: UNILAB - Instituto de Humanidades e Letras
-date: 2024-08-20
+date: 2025-07-31
 lang: pt-br
 date-format: full
 format:
