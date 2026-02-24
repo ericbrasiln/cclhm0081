@@ -2,15 +2,23 @@
 title: "Prova Final - Produção de Texto Crítico"
 subtitle: "CCLHM0081 - História da América Independente"
 author: Eric Brasil
-date: 2024-10-23
+date: today
+date-format: "DD/MM/YYYY"
 lang: pt-BR
 ---
 
-### **Instruções:**
+## **Informações gerais:**
 
-Os/as alunos/as deverão produzir um **texto crítico** sobre um dos temas abordados ao longo do curso. O objetivo é desenvolver uma reflexão crítica fundamentada nas discussões realizadas em sala e na historiografia utilizada. O texto deve levar em consideração os debates sobre **independências, liberdade e direitos**, conectando-os ao tema escolhido.
+- **Data para entrega**: 27/11/2025
+- **Pontuação**: 10,0 (dez) pontos
+- **Entrega via *SIGAA***
 
----
+
+## Reflexão crítica sobre temas da disciplina
+
+Esta atividade tem como objetivo avaliar a **capacidade de reflexão crítica** do/a estudante sobre os temas abordados na disciplina *História da América Independente*, considerando as discussões em sala, os textos estudados e a articulação entre diferentes perspectivas históricas.
+
+Cada estudante deverá produzir **um texto reflexivo** sobre um tema de sua escolha entre aqueles debatidos no curso.
 
 ### **Temas:**
 
@@ -23,20 +31,28 @@ Os/as alunos/as deverão produzir um **texto crítico** sobre um dos temas abord
 
 ---
 
-### **Recomendações:**
+## ✍️ Instruções
 
-- O texto deve **utilizar ao menos 2 textos da bibliografia** relacionada ao tema escolhido.
-- O trabalho deve ter **no máximo 3 laudas**.
-- Caso o estudante tenha utilizado ferramentas de **inteligência artificial generativa** para auxiliar na elaboração do texto, deve informar **o modelo utilizado e o método de uso**.
-- A entrega deverá ser feita exclusivamente pelo **SIGAA** até o dia **13/11/2024**.
-  
+1. O texto deve ter **entre 2 e 4 páginas**, em formato livre (ensaio, reflexão, artigo breve etc.).
+2. Deve dialogar com **pelo menos dois textos da bibliografia da disciplina**, que precisam ser **citados explicitamente** no corpo do texto e listados ao final (em qualquer norma de citação consistente, preferencialmente ABNT).
+3. O/a estudante pode utilizar ferramentas de **Inteligência Artificial Generativa** (como ChatGPT, Copilot, Gemini etc.) **como apoio** à pesquisa, organização de ideias, formatação ou revisão textual, **desde que o uso seja citado e referenciado** no trabalho.
+
+   * Exemplo de nota:
+
+     > “Este texto foi elaborado com apoio do modelo GPT-5 (ChatGPT, OpenAI), utilizado para revisão ortográfica e formatação. As ideias e análises são de responsabilidade exclusiva do autor.”
+4. Trabalhos que apresentem **plágio** (total ou parcial) serão **zerados**.
+5. O arquivo deve ser entregue em **.pdf**, **.epub** ou **.md**, via tarefa no **SIGAA** até **27/11/2025**.
+
 ---
 
-### **Critérios de Avaliação:**
+### 💡 Critérios de Avaliação
 
-1. **Argumentação Crítica**: Capacidade de desenvolver uma análise coerente e crítica sobre o tema escolhido, levando em consideração os debates discutidos no curso.
-2. **Fundamentação Historiográfica**: Uso adequado de referências bibliográficas (mínimo de dois textos) para embasar a reflexão.
-3. **Clareza e Coerência**: Estruturação lógica das ideias e respeito às normas gramaticais e ortográficas.
-4. **Originalidade**: Reflexão própria, evitando apenas reproduzir os argumentos dos textos e buscando aprofundar os debates.
-5. **Atendimento às Regras Formais**: Cumprimento dos requisitos de tamanho, fontes bibliográficas e entrega no prazo estipulado.
+| Critério                           | Descrição                                                                      | Pontuação |
+| ---------------------------------- | ------------------------------------------------------------------------------ | --------- |
+| **Articulação crítica**            | Capacidade de relacionar conceitos, textos e temas discutidos em sala          | 4,0       |
+| **Clareza argumentativa**          | Coerência e consistência do argumento desenvolvido                             | 2,0       |
+| **Diálogo bibliográfico**          | Uso e citação adequada de pelo menos dois textos da bibliografia da disciplina | 3,0       |
+| **Expressão e estrutura**          | Clareza textual, estrutura e respeito às normas de entrega                     | 1,0       |
+| **Uso ético de IA (se aplicável)** | Indicação e reflexão adequada sobre o uso de IA generativa                     | ---       |
 
+---
