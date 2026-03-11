@@ -14,7 +14,7 @@ format:
   html:
     toc: true
     toc-depth: 5
-    logo: imgs/banner_logos_hist.png
+    logo: ../imgs/banner_logos_hist.png
   pdf:
     toc: true
     toc-depth: 3
@@ -54,8 +54,15 @@ A crise do sistema colonial; Processos de independência e formação dos Estado
 
 # Avaliação
 
-::: {.callout-warning}
-As informações detalhadas de avaliação serão apresentadas e discutidas na **primeira aula** e, em seguida, atualizadas neste documento.
+| Atividade | Qtd. | Pontuação |
+|:----------|:----:|:---------:|
+| Atividade escrita remota | 2 | 1 ponto cada |
+| Apresentação de texto da bibliografia em sala | 2 | 1 ponto cada |
+| Trabalho final | 1 | 6 pontos |
+| **Total** | | **10 pontos** |
+
+::: {.callout-important}
+A nota final é a soma das atividades e do trabalho final, totalizando **10 pontos**. Informações detalhadas sobre cada atividade serão apresentadas e discutidas ao longo do semestre.
 :::
 
 ***
@@ -303,4 +310,4 @@ A atividade será remota, com orientações e prazo de entrega informados em sal
 
 **Tema**: Aula de encerramento e balanço final da disciplina
 
-![](banner_logos_hist.png)
+![](../imgs/banner_logos_hist.png)
