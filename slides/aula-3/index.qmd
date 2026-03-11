@@ -1,23 +1,26 @@
 ---
-title: "Revolução Americana e a Formação da República dos EUA"
-subtitle: "CCLHM0081 - História da América independente"
-author: Eric Brasil
-date: 2024-08-20
+title: "Aula 3: Revolução Americana e a Formação da República dos EUA"
+date: "2026-03-12"
+date-format: full
 lang: pt-br
 format:
-  revealjs: 
-    theme: black
+  revealjs:
+    theme: [default, ../custom.scss]
     slide-number: true
-    incremental: true 
-    chalkboard: 
+    incremental: false
+    chalkboard:
       buttons: true
-    preview-links: auto
-    #logo: logo.png
-    #css: styles.css
-    footer: "<a href=https://ericbrasil.com.br/>Eric Brasil</a> | <a href=https://ericbrasil.com.br/contact/>Entre em contato</a>"
+    footer: "Eric Brasil | <a href=https://ericbrasil.com.br/contact/>Entre em contato</a> | CCLHM0081 — História da América Independente"
+    logo: https://raw.githubusercontent.com/ericbrasiln/cclhm0081/63cc875c152f361a14f723efbe6bd161f5aaf8b6/banner_logos_hist.png
+author:
+  - name: Eric Brasil
+    orcid: 0000-0001-5067-8475
+toc: false
 ---
 
-<iframe src="https://www.youtube.com/embed/VYOjWnS4cMY" width="1090" height="618" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+## Acesse os slides da Aula 3 {.center}
+
+![Acesse a apresentação](../imgs/qrc_aula3.png)
 
 ---
 
@@ -52,7 +55,7 @@ format:
 
 ## {.center}
 
-![13 colônias](imgs/13col.jpg)
+![13 colônias](../imgs/13col.jpg)
 
 ---
 
@@ -134,7 +137,7 @@ Ocupações a Oeste: longe do controle colonial, sem representatividade nas casa
 
 ## {.center}
 
-![Nathayel Corrier "Tea sabotage in Boston Port", 1846](imgs/tea.jpg)
+![Nathayel Corrier "Tea sabotage in Boston Port", 1846](../imgs/tea.jpg)
 
 ---
 
@@ -150,23 +153,11 @@ Ocupações a Oeste: longe do controle colonial, sem representatividade nas casa
 
 ---
 
-## Continua... {.center}
-
-<iframe src="https://www.youtube.com/embed/-pUhraVG7Ow" width="1090" height="618" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
----
-
-# Aula 4 - Revolução Americana e a Formação da República dos EUA {.center}
-
-<small>28/08/2024</small>
-
----
-
 ## Criação de Governos Informais e o Congresso Continental {.center}
 
 ### **Governos Informais Substituindo o Controle Real**
 
-- **Desintegração do Controle Britânico** 
+- **Desintegração do Controle Britânico**
 - **Comitês de Correspondência**
 
 ::: notes
@@ -179,9 +170,9 @@ Ocupações a Oeste: longe do controle colonial, sem representatividade nas casa
 ## Criação de Governos Informais e o Congresso Continental {.center}
 
 ### **Formação do Congresso Continental da Filadélfia (1774)**
-- **Primeiro Congresso Continental** 
+- **Primeiro Congresso Continental**
 - **Declaração de Direitos e Agravos**
-- **Organização do Boicote** 
+- **Organização do Boicote**
 
 ::: notes
 - Convocado em resposta às Leis Intoleráveis, reuniu representantes de todas as colônias, exceto a Geórgia, para discutir uma resposta unificada às políticas britânicas.
@@ -194,8 +185,8 @@ Ocupações a Oeste: longe do controle colonial, sem representatividade nas casa
 ## Novo Tipo de Política Popular e Retórica da Liberdade {.center}
 
 ### **Emergência de uma Política Popular**
-- **Ampliação da Participação Política** 
-- **Ascensão de Líderes Populares** 
+- **Ampliação da Participação Política**
+- **Ascensão de Líderes Populares**
 
 ::: notes
 - Com o colapso da autoridade real, houve uma expansão significativa na participação política, permitindo que um número maior de colonos se envolvesse diretamente nos processos políticos. Esta ampliação da arena política levou à formação de uma cultura política mais democrática e participativa.
@@ -206,8 +197,8 @@ Ocupações a Oeste: longe do controle colonial, sem representatividade nas casa
 ## Novo Tipo de Política Popular e Retórica da Liberdade {.center}
 
 ### **Retórica da Liberdade**
-- **Centralidade da Liberdade no Discurso Político** 
-- **Impacto da Retórica** 
+- **Centralidade da Liberdade no Discurso Político**
+- **Impacto da Retórica**
 
 ::: notes
 - A retórica da liberdade tornou-se o tema central nos debates e discursos, servindo como uma poderosa ferramenta de mobilização. Os colonos reivindicavam seus direitos como ingleses e argumentavam que suas liberdades estavam sendo ameaçadas pelas políticas opressivas da Grã-Bretanha.
@@ -219,7 +210,7 @@ Ocupações a Oeste: longe do controle colonial, sem representatividade nas casa
 ## Novo Tipo de Política Popular e Retórica da Liberdade {.center}
 
 ### **Ampliação da Arena Política**
-- **Inclusão de Novos Grupos** 
+- **Inclusão de Novos Grupos**
 - **Movimento de Resistência Unificado**
 
 ::: notes
@@ -232,8 +223,8 @@ Ocupações a Oeste: longe do controle colonial, sem representatividade nas casa
 ## A Declaração de Independência {.center}
 
 ### **O Segundo Congresso Continental**
-- **Contexto e Função** 
-- **Decisões Cruciais** 
+- **Contexto e Função**
+- **Decisões Cruciais**
 
 ::: notes
 - Reunido em maio de 1775, o Segundo Congresso Continental funcionou como o governo de fato das colônias, coordenando a resistência contra a Grã-Bretanha e assumindo poderes legislativos e executivos, essenciais para a guerra.
@@ -245,8 +236,8 @@ Ocupações a Oeste: longe do controle colonial, sem representatividade nas casa
 ## A Declaração de Independência {.center}
 
 ### **Ações Militares em Boston**
-- **Cerco de Boston** 
-- **Mobilização Popular** 
+- **Cerco de Boston**
+- **Mobilização Popular**
 
 ::: notes
 - As tensões em Boston culminaram em ações militares significativas, incluindo o cerco de Boston, onde as forças coloniais enfrentaram as tropas britânicas em batalhas iniciais da Guerra de Independência.
@@ -258,8 +249,8 @@ Ocupações a Oeste: longe do controle colonial, sem representatividade nas casa
 ## A Declaração de Independência {.center}
 
 ### **Criação do Exército Continental**
-- **Estabelecimento do Exército** 
-- **Liderança de Washington** 
+- **Estabelecimento do Exército**
+- **Liderança de Washington**
 
 ::: notes
 - O Segundo Congresso Continental criou oficialmente o Exército Continental em junho de 1775, unificando as forças militares das colônias sob um comando central.
@@ -271,8 +262,8 @@ Ocupações a Oeste: longe do controle colonial, sem representatividade nas casa
 ## A Declaração de Independência {.center}
 
 ### **Importância da Obra e Ação de Thomas Paine**
-- **Publicação de "Common Sense"** 
-- **Impacto Intelectual e Político** 
+- **Publicação de "Common Sense"**
+- **Impacto Intelectual e Político**
 
 ::: notes
 - Thomas Paine publicou "Common Sense" em janeiro de 1776, um panfleto que argumentava de forma clara e persuasiva a favor da independência, alcançando um público amplo e galvanizando o apoio popular.
@@ -284,9 +275,9 @@ Ocupações a Oeste: longe do controle colonial, sem representatividade nas casa
 ## A Declaração de Independência {.center}
 
 ### **A Declaração de Independência de 1776**
-- **Redação e Influências** 
-- **Questões de Escravidão** 
-- **Impacto Democrático** 
+- **Redação e Influências**
+- **Questões de Escravidão**
+- **Impacto Democrático**
 
 ::: notes
 - A Declaração foi escrita principalmente por Thomas Jefferson, com contribuições de outros membros do Congresso. Foi fortemente influenciada pelos ideais iluministas, incluindo os direitos naturais e a soberania popular.
@@ -298,15 +289,15 @@ Ocupações a Oeste: longe do controle colonial, sem representatividade nas casa
 
 ## {.center}
 
-![Declaração de Independência dos EUA, 4 de julho de 1776](imgs/declaracao.jpg)
+![Declaração de Independência dos EUA, 4 de julho de 1776](../imgs/declaracao.jpg)
 
 ---
 
 ## Um Asilo para a Liberdade {.center}
 
 ### **É Radical? Em Qual Contexto?**
-- **Radicalismo da Ideia** 
-- **Contexto Revolucionário** 
+- **Radicalismo da Ideia**
+- **Contexto Revolucionário**
 
 ::: notes
 - O conceito de "Um Asilo para a Liberdade" era radical para a época porque representava uma ruptura completa com as tradições monárquicas e aristocráticas da Europa. A ideia de criar uma nação baseada em princípios de liberdade individual e igualdade foi vista como uma afronta aos sistemas estabelecidos.
@@ -318,8 +309,8 @@ Ocupações a Oeste: longe do controle colonial, sem representatividade nas casa
 ## Um Asilo para a Liberdade {.center}
 
 ### **Herança do Pensamento Liberal**
-- **Pensamento Liberal Local e Popular** 
-- **Conflito com Autoridades Centrais** 
+- **Pensamento Liberal Local e Popular**
+- **Conflito com Autoridades Centrais**
 
 ::: notes
 - A Revolução Americana bebeu profundamente da tradição liberal que havia se desenvolvido nas colônias, onde as práticas de autogoverno local e a valorização da liberdade individual eram amplamente difundidas entre a população. Isso contrastava com a autoridade central, que era vista como distante e muitas vezes opressora.
@@ -331,8 +322,8 @@ Ocupações a Oeste: longe do controle colonial, sem representatividade nas casa
 ## A Guerra pela Independência {.center}
 
 ### **Constituição dos Exércitos Continental e Britânico**
-- **Exército Continental** 
-- **Exército Britânico** 
+- **Exército Continental**
+- **Exército Britânico**
 
 ::: notes
 - O Exército Continental foi formado pelo Segundo Congresso Continental em 1775, sob o comando de George Washington. Compostos principalmente por milícias coloniais, seus oficiais muitas vezes vinham de classes populares, o que diferenciava o exército colonial das forças britânicas.
@@ -343,7 +334,7 @@ Ocupações a Oeste: longe do controle colonial, sem representatividade nas casa
 
 ## {.center}
 
-![Soldados em uniforme durante a Guerra da Independência Americana(1781-1784)](imgs/soldiers.jpg)
+![Soldados em uniforme durante a Guerra da Independência Americana(1781-1784)](../imgs/soldiers.jpg)
 
 ---
 
@@ -374,8 +365,8 @@ Esta aquarela, criada por Jean Baptiste Antoine de Verger, um oficial francês q
 ## A Guerra pela Independência {.center}
 
 ### **Desenvolvimento e Consequências da Guerra**
-- **Duração e Desdobramentos** 
-- **Consequências** 
+- **Duração e Desdobramentos**
+- **Consequências**
 
 ::: notes
 - A guerra durou quase oito anos (1775-1783), passando por diferentes fases. Começou como um conflito regional em Massachusetts e se transformou em uma guerra global, envolvendo potências europeias como a França.
@@ -387,8 +378,8 @@ Esta aquarela, criada por Jean Baptiste Antoine de Verger, um oficial francês q
 ## A Guerra pela Independência {.center}
 
 ### **Estratégia Britânica**
-- **Objetivo Central** 
-- **Desafios** 
+- **Objetivo Central**
+- **Desafios**
 
 ::: notes
 - A Grã-Bretanha inicialmente buscou isolar as colônias rebeldes, especialmente a Nova Inglaterra, mas mudou para uma estratégia de contenção e pacificação. Tentaram dominar grandes cidades como Nova York e derrotar o exército de Washington em batalhas decisivas.
@@ -400,8 +391,8 @@ Esta aquarela, criada por Jean Baptiste Antoine de Verger, um oficial francês q
 ## A Guerra pela Independência {.center}
 
 ### **O Papel da França**
-- **Apoio Decisivo** 
-- **Consequências Diplomáticas** 
+- **Apoio Decisivo**
+- **Consequências Diplomáticas**
 
 ::: notes
 - A entrada da França em 1778 transformou a guerra em um conflito global. Os franceses forneceram suporte militar e naval essencial, culminando na vitória americana na Batalha de Yorktown em 1781.
@@ -482,8 +473,8 @@ Esta aquarela, criada por Jean Baptiste Antoine de Verger, um oficial francês q
 ## O Término da Guerra e a Constituição da República dos EUA {.center}
 
 ### **Como a Guerra Termina**
-- **Fatores Decisivos** 
-- **Tratado de Paris de 1783** 
+- **Fatores Decisivos**
+- **Tratado de Paris de 1783**
 
 ::: notes
 - A guerra pela independência americana terminou em grande parte devido à exaustão militar e econômica da Grã-Bretanha, à entrada decisiva da França no conflito ao lado dos americanos e às estratégias militares eficazes de George Washington, incluindo a vitória crucial em Yorktown em 1781.
@@ -494,17 +485,17 @@ Esta aquarela, criada por Jean Baptiste Antoine de Verger, um oficial francês q
 
 ## {.center}
 
-![A primeira página da Constituição dos Estados Unidos. Lê-se acima a frase *We, the People* (Nós, o povo). [Link aqui](https://pt.wikipedia.org/wiki/Ficheiro:United_States_Declaration_of_Independence.jpg)](imgs/const.jpg)
+![A primeira página da Constituição dos Estados Unidos. Lê-se acima a frase *We, the People* (Nós, o povo). [Link aqui](https://pt.wikipedia.org/wiki/Ficheiro:United_States_Declaration_of_Independence.jpg)](../imgs/const.jpg)
 
 ---
 
 ## O Término da Guerra e a Constituição da República dos EUA {.center}
 
 ### **Constituição da República dos EUA**
-- **Formação de uma Nova Nação** 
+- **Formação de uma Nova Nação**
 - [**Convenção Constitucional de 1787**](const.pdf)
-- **Estabelecimento do Republicismo** 
-- **Debates sobre Direitos e Liberdades** 
+- **Estabelecimento do Republicismo**
+- **Debates sobre Direitos e Liberdades**
 
 ::: notes
 - Com o fim da guerra, os Estados Unidos enfrentaram o desafio de criar um governo estável. O período pós-guerra viu a criação dos Artigos da Confederação, que inicialmente governaram a nova nação, mas provaram ser insuficientes devido à falta de um governo central forte.
@@ -517,16 +508,16 @@ Esta aquarela, criada por Jean Baptiste Antoine de Verger, um oficial francês q
 
 ## Raça e República nos Estados Unidos {.center}
 
->Viana, Larissa Moreira. “A América negra em tempo de revolução: Raça e republica nos Estados Unidos (1776-1860)”. *Revista de História Comparada 8*, nº 2 (2014): 146–65.
+>Viana, Larissa Moreira. "A América negra em tempo de revolução: Raça e republica nos Estados Unidos (1776-1860)". *Revista de História Comparada 8*, nº 2 (2014): 146–65.
 
 ---
 
 ## Questões Principais do Texto {.center}
 
-- **Objetivo Central** 
-- **Thomas Jefferson** 
-- **James McCune Smith** 
-- **Contexto Histórico** 
+- **Objetivo Central**
+- **Thomas Jefferson**
+- **James McCune Smith**
+- **Contexto Histórico**
 
 ::: notes
 - O objetivo central do texto é analisar e contrapor as visões de Thomas Jefferson e James McCune Smith sobre o lugar político e social dos negros na república norte-americana.
@@ -539,9 +530,9 @@ Esta aquarela, criada por Jean Baptiste Antoine de Verger, um oficial francês q
 
 ## Quem Foi Thomas Jefferson (1743-1826) {.center}
 
-- **Contexto** 
-- **Visão sobre os Negros** 
-- **Impacto** 
+- **Contexto**
+- **Visão sobre os Negros**
+- **Impacto**
 
 ::: notes
 - Thomas Jefferson foi um proeminente líder da independência americana, terceiro presidente dos Estados Unidos, e autor da Declaração de Independência.
@@ -553,15 +544,15 @@ Esta aquarela, criada por Jean Baptiste Antoine de Verger, um oficial francês q
 
 ## Quem Foi James McCune Smith (1813-1865) {.center}
 
-![James McCune Smith. [Unknown author - This is a scanned image from Recollections of Seventy Years by Daniel Alexander Payne (1811-1893), published in 1888](https://en.wikipedia.org/wiki/James_McCune_Smith#/media/File:James_McCune_Smith.jpg).](imgs/mccune.jpg)
+![James McCune Smith. [Unknown author - This is a scanned image from Recollections of Seventy Years by Daniel Alexander Payne (1811-1893), published in 1888](https://en.wikipedia.org/wiki/James_McCune_Smith#/media/File:James_McCune_Smith.jpg).](../imgs/mccune.jpg)
 
 ---
 
 ## Quem Foi James McCune Smith (1813-1865) {.center}
 
-- **Contexto** 
-- **Abolicionista e Escritor** 
-- **Contribuição Intelectual** 
+- **Contexto**
+- **Abolicionista e Escritor**
+- **Contribuição Intelectual**
 
 ::: notes
 - James McCune Smith foi o primeiro médico afro-americano a obter um diploma universitário, educado na Universidade de Glasgow, Escócia.
@@ -573,9 +564,9 @@ Esta aquarela, criada por Jean Baptiste Antoine de Verger, um oficial francês q
 
 ## Thomas Jefferson e a Condição dos Negros na República em Formação {.center}
 
-- **Visão de Jefferson** 
-- **Impacto na República** 
-- **Contradições** 
+- **Visão de Jefferson**
+- **Impacto na República**
+- **Contradições**
 
 ::: notes
 - Thomas Jefferson, em suas obras e práticas, defendeu a ideia de que os negros eram naturalmente inferiores aos brancos. Ele via a escravidão como uma instituição problemática, mas acreditava que a emancipação deveria ser acompanhada da colonização dos negros fora dos Estados Unidos.
@@ -587,9 +578,9 @@ Esta aquarela, criada por Jean Baptiste Antoine de Verger, um oficial francês q
 
 ## James McCune Smith: República, Exclusão e Cidadania Negra no Século XIX {.center}
 
-- **Contraponto a Jefferson** 
-- **Visão de Cidadania** 
-- **Ativismo e Escritos** 
+- **Contraponto a Jefferson**
+- **Visão de Cidadania**
+- **Ativismo e Escritos**
 
 ::: notes
 - James McCune Smith desafiou diretamente as ideias de Jefferson, argumentando que os negros tinham tanto direito à cidadania plena quanto os brancos. Ele refutava as noções de inferioridade racial e lutava contra a exclusão dos negros da república americana.
@@ -601,12 +592,20 @@ Esta aquarela, criada por Jean Baptiste Antoine de Verger, um oficial francês q
 
 ## De McCune Smith a Thomas Jefferson: Raça e Antirracismo em Debate {.center}
 
-- **Debate Central** 
-- **Raça e Democracia** 
-- **Legado do Debate** 
+- **Debate Central**
+- **Raça e Democracia**
+- **Legado do Debate**
 
 ::: notes
 - O confronto entre as ideias de Thomas Jefferson e James McCune Smith encapsula o debate central sobre raça na república americana. Jefferson representa a visão tradicional e excludente, enquanto McCune Smith simboliza a luta por inclusão e igualdade.
 - McCune Smith criticava a república por não cumprir suas promessas de liberdade e igualdade, destacando as contradições entre os princípios fundadores da nação e a realidade vivida pelos negros.
 - O diálogo entre as ideias de Jefferson e McCune Smith continua a ressoar na história americana, influenciando os debates contemporâneos sobre raça, cidadania e os desafios da inclusão em uma democracia multirracial.
 :::
+
+---
+
+## Bibliografia {.center}
+
+- WOOD, Gordon. "III. Revolução". In: *A revolução americana*. Rio de Janeiro: Objetiva, 2013.
+
+- VIANA, Larissa Moreira. "A América negra em tempo de revolução: Raça e república nos Estados Unidos (1776-1860)". *Revista de História Comparada*, v. 8, n. 2, 2014, pp. 146–165.
