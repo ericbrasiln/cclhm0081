@@ -38,15 +38,15 @@ A disciplina propõe um estudo comparado das experiências de independência nas
 
 | Documento | HTML | PDF |
 |---|---|---|
-| Ementa completa | [ementa.html](https://ericbrasil.com.br/cclhm0081/ementa/ementa) | [ementa.pdf](https://ericbrasil.com.br/cclhm0081/ementa/ementa.pdf) |
-| Cronograma | [calendario.html](https://ericbrasil.com.br/cclhm0081/ementa/calendario) | [calendario.pdf](https://ericbrasil.com.br/cclhm0081/ementa/calendario.pdf) |
+| Ementa completa | [ementa](https://ericbrasil.com.br/cclhm0081/ementa/ementa) | [ementa.pdf](https://ericbrasil.com.br/cclhm0081/ementa/ementa.pdf) |
+| Cronograma | [calendario](https://ericbrasil.com.br/cclhm0081/ementa/calendario) | [calendario.pdf](https://ericbrasil.com.br/cclhm0081/ementa/calendario.pdf) |
 
 ## Slides das Aulas
 
 | Aula | Data | Tema | Link |
 |---|---|---|---|
 | 1 | 26/02/2026 | Apresentação da disciplina e combinados | [slides](https://ericbrasil.com.br/cclhm0081/slides/aula-1/) |
-| 2 | 05/03/2026 | Como a IA Generativa "vê" nossa disciplina *(remota)* | — |
+| 2 | 05/03/2026 | Atividade Cuba nos Malês!     | — |
 | 3 | 12/03/2026 | Revolução Americana e a Formação da República dos EUA | [slides](https://ericbrasil.com.br/cclhm0081/slides/aula-3/) |
 | 4 | 19/03/2026 | A Revolução de Santo Domingo e a Independência do Haiti | — |
 | 5 | 26/03/2026 | A construção da nação Haitiana e seus impactos no mundo moderno | — |
