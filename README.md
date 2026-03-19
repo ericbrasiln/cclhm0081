@@ -23,4 +23,4 @@ Versão atual, semestre 2026.1, no branch `main`.
 Distribuído sob licença [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 © [Eric Brasil, 2026](https://ericbrasil.com.br)
 
-![](banner_logos_hist.png)
+![](imgs/banner_logos_hist.png)

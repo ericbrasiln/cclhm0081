@@ -47,7 +47,10 @@ A crise do sistema colonial; Processos de independência e formação dos Estado
 :::
 
 ::: {.callout-warning}
-**Observação (Calendário 2026.1 / UNILAB):** não haverá aula em **04/06/2026 (Corpus Christi)**.
+**Observações (Calendário 2026.1 / UNILAB):**
+
+- Não haverá aula em **12/03/2026** em razão da **paralisação estudantil**.
+- Não haverá aula em **04/06/2026 (Corpus Christi)**.
 :::
 
 ***
@@ -77,34 +80,23 @@ O conteúdo programático, assim como cronograma e leituras previstas, estão em
 
 ### AULA 1 (26/02/2026)
 
-**Tema**: Quem escreve a história das Américas? E que disciplina é essa?
+Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a forma como o Brasil é percebido (ou não) nesse campo.
 
-**Objetivos**
-
-- Apresentar o curso e estabelecer os combinados com a turma
-- Refletir sobre o ensino de história da América na escola
-- Levantar percepções prévias da turma sobre o tema
-
-**Bibliografia básica**
-
-- Graeber, D.; Wengrow D. Liberdade perversa: a crítica indígena e o mito do progresso. In: *O Despertar de tudo: uma nova história da humanidade*. São Paulo: Companhia das Letras, 2022. [Trechos selecionados]
+✅ Esta atividade corresponde à aula do dia 26/02
+⏱️ Carga horária: 4 horas
+📝 Valor: 1,0 ponto
+📌 Prazo para envio: 12/03 (até 23:59)
+🔗 [Link do formulário](https://forms.gle/6vY4XeqP8NUas3vM6)
 
 ### AULA 2 (05/03/2026)
 
-**Tema**: Como a Inteligência Artificial Generativa “vê” nossa disciplina
+**Tema**: Cuba nos Malês! 
 
-**Modalidade**: Atividade remota
+**Modalidade**: Atividade presencial 
 
-**Objetivos**
+🔗 [Clique para ver o cartaz na atividade](https://sig.unilab.edu.br/shared/verImagem?salvar=false&idArquivo=1458905&key=a45ceafc3e0480b6343c85c00ab35bdb)
 
-- Refletir sobre o uso de IAs generativas no ensino de História
-- Analisar suas potencialidades e limites na construção de conhecimento
-
-::: {.callout-important}
-A atividade será remota, com orientações e prazo de entrega informados em sala.
-:::
-
-### AULA 3 (12/03/2026)
+### AULA 3 (19/03/2026)
 
 **Tema**: Revolução Americana e a formação da República dos EUA
 
@@ -121,10 +113,9 @@ A atividade será remota, com orientações e prazo de entrega informados em sal
 **Bibliografia complementar**
 
 - Karnal; Purdy; Fernandes; Morais. “O Início”. In: *História dos Estados Unidos: das origens aos século XXI*. São Paulo: Contexto, 2007. pp. 39-80.
-- Lemisch, Jesse. “La revolución americana vista desde el fondo”. *Ensayos inconformistas sobre los Estados Unidos*. Barcelona: Peninsula, 1976.
 - Linebaugh, Peter, e Marcus Rediker. “A horda heterogênea na Revolução America”. In: *A hidra de muitas cabeças: marinheiros, escravos, plebeus e a história oculta do Atlântico revolucionário*. São Paulo: Editora Companhia das Letras, 2008.
 
-### AULA 4 (19/03/2026)
+### AULA 4 (26/03/2026)
 
 **Tema**: A Revolução de Santo Domingo e a Independência do Haiti
 
@@ -138,7 +129,15 @@ A atividade será remota, com orientações e prazo de entrega informados em sal
 - PEREIRA, Bethânia Santos. *Revolução haitiana: a revolução de escravizados que abalou o mundo*. Curitiba: Juruá, 2025. 126 p. (Coleção História FM). [Capítulos 3 e 4]
 - James, Cyril Lionel Robert. *Os jacobinos negros: Toussaint L’Ouverture e a Revolução de São Domingos*. São Paulo: Boitempo, 2000. [Trechos selecionados]
 
-### AULA 5 (26/03/2026)
+### AULA 5 (02/04/2026)
+
+**Tema**: Atividade remota
+
+::: {.callout-warning}
+***Informações em breve.***
+:::
+
+### AULA 6 (09/04/2026)
 
 **Tema**: A construção da nação haitiana e seus impactos no mundo moderno
 
@@ -155,15 +154,7 @@ A atividade será remota, com orientações e prazo de entrega informados em sal
 
 - Grafenstein, Johanna von. “Haití En El Siglo XIX. Desde La Revolución de Esclavos Hasta La Ocupación Norteamericana (1791-1915)” *Istor, Revista de Historia Internacional*, CIDE, Año XII, Número 46. Otoño de 2011, Pp. 3- 32.
 
-### AULA 6 (02/04/2026)
-
-**Tema**: Atividade remota
-
-::: {.callout-warning}
-***Informações em breve.***
-:::
-
-### AULA 7 (09/04/2026)
+### AULA 7 (16/04/2026)
 
 **Tema**: Independências da América Hispânica
 
@@ -182,7 +173,7 @@ A atividade será remota, com orientações e prazo de entrega informados em sal
 - Prado, Maria Lígia Coelho. “A participação das mulheres nas lutas pela independência política da América Latina”. In *América Latina no Século XIX: Tramas, Telas e Textos*. São Paulo: Edusp, 2ª. São Paulo: Edusp, 2014.
 
 
-### AULA 8 (16/04/2026)
+### AULA 8 (23/04/2026)
 
 **Tema**: Formação dos Estados Nacionais da América Latina
 
@@ -201,8 +192,7 @@ A atividade será remota, com orientações e prazo de entrega informados em sal
 
 ## Módulo II – Abolições, Pós-abolição e Cidadania
 
-
-### AULA 9 (23/04/2026)
+### AULA 9 (30/04/2026)
 
 **Tema**: Era das abolições I: Caribe
 
@@ -221,7 +211,25 @@ A atividade será remota, com orientações e prazo de entrega informados em sal
 - Drescher, Seymour. A emancipação britânica. In: *Abolição: uma História da Escravidão e do Antiescravismo.* Edição: 1. São Paulo: Editora Unesp, 2011.
 - Beckles, Hilary, e Verene A Shepherd. *Freedoms Won: Caribbean Emancipations, Ethnicities, and Nationhood.* Cambridge: Cambridge University Press, 2008. pp 7-16.
 
-### AULA 10 (30/04/2026)
+### AULA 10 (07/05/2026)
+
+**Tema**: Era das abolições II: Guerra Civil e Abolição nos EUA
+
+**Objetivos**
+
+- Analisar a Guerra Civil Americana e suas implicações para a abolição
+- Compreender o papel dos movimentos sociais na luta pela liberdade
+
+**Bibliografia básica**
+
+- Drescher, Seymour. O fim da escravidão na América Inglesa. In: *Abolição: uma História da Escravidão e do Antiescravismo.* Edição: 1. São Paulo: Editora Unesp, 2011. pp. 451-573.
+- IZECKSOHN, Vitor. O recrutamento de negros nas tropas da União durante a guerra civil americana. *Afro-Ásia*, v. 0, n. 55, 3 out. 2017.
+
+**Bibliografia complementar**
+
+- MIRANDA, Clícea Maria. Repercussões da Guerra Civil Americana no debate político sobre a abolição no Brasil, 1861-1888. *Anais do VII Encontro Escravidão e Liberdade no Brasil Meridional*, p. 13, 2015.
+
+### AULA 11 (14/05/2026)
 
 **Tema**: Era das abolições III: Cuba, abolição e independência
 
@@ -240,7 +248,7 @@ A atividade será remota, com orientações e prazo de entrega informados em sal
 - FERRER, Ada. Cuba, 1898: Rethinking Race, Nation, and Empire. *Radical History Review*, v. 1999, n. 73, p. 22–46, 1999.
 - HELG, Aline. Sentido e impacto de la participación negra en la guerra de independencia de Cuba. *Revista de Indias*, v. 58, n. 212, p. 47–63, 1998.
 
-### AULA 11 (07/05/2026)
+### AULA 12 (21/05/2026)
 
 **Tema**: Avaliação presencial
 
@@ -248,11 +256,9 @@ A atividade será remota, com orientações e prazo de entrega informados em sal
 ***Mais informações em breve.***
 :::
 
-
-
 ## Módulo III – Revoluções, Estado e Democracia no Século XX
 
-### AULA 12 (14/05/2026)
+### AULA 13 (28/05/2026)
 
 **Tema**: Revolução Mexicana de 1910
 
@@ -266,7 +272,9 @@ A atividade será remota, com orientações e prazo de entrega informados em sal
 - BRUIT, Hector. *Revoluções na América Latina*. São Paulo: Atual, 1988. “Introdução” e “1. A Revolução Mexicana”.
 - Aguilar Camín, Héctor & Meyer, Lorenzo. *À Sombra da Revolução Mexicana: História mexicana contemporãnea, 1910-1989.* São Paulo: EdUSP, 2000. [Trechos selecionados]
 
-### AULA 13 (21/05/2026)
+### (04/06/2026) **SEM AULA — Corpus Christi (feriado)**
+
+### AULA 14 (11/06/2026)
 
 **Tema**: Populismo, autoritarismo e democracia no século XX
 
@@ -280,9 +288,7 @@ A atividade será remota, com orientações e prazo de entrega informados em sal
 
 - EM BREVE.
 
-### (04/06/2026) **SEM AULA — Corpus Christi (feriado)**
-
-### AULA 14 (28/05/2026)
+### AULA 15 (18/06/2026)
 
 **Tema**: Revolução Cubana de 1959
 
@@ -299,15 +305,5 @@ A atividade será remota, com orientações e prazo de entrega informados em sal
 **Bibliografia complementar**
 
 - SADDI, Rafael; MELO, Érica Isabel. Gênero e Revolução Cubana: reflexões sobre as relações de gênero no Exército Rebelde. *Diálogos*, vol. 6, núm. 3, sep-dez, 2012, pp. 1267-1287.
-
-### AULA 15 (11/06/2026)
-
-**Tema**: Movimentos civis, direitos humanos e cidadania na América Latina e EUA.
-
-[EM BREVE]
-
-### AULA 16 (18/06/2026)
-
-**Tema**: Aula de encerramento e balanço final da disciplina
 
 ![](../imgs/banner_logos_hist.png)
