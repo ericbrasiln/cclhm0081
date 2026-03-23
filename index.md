@@ -45,23 +45,23 @@ A disciplina propõe um estudo comparado das experiências de independência nas
 
 | Aula | Data | Tema | Link |
 |---|---|---|---|
-| 1 | 26/02/2026 | Apresentação da disciplina e combinados | [slides](https://ericbrasil.com.br/cclhm0081/slides/aula-1/) |
-| 2 | 05/03/2026 | Atividade Cuba nos Malês!     | — |
-| 3 | 12/03/2026 | Revolução Americana e a Formação da República dos EUA | [slides](https://ericbrasil.com.br/cclhm0081/slides/aula-3/) |
-| 4 | 19/03/2026 | A Revolução de Santo Domingo e a Independência do Haiti | — |
-| 5 | 26/03/2026 | A construção da nação Haitiana e seus impactos no mundo moderno | — |
-| 6 | 02/04/2026 | Atividade Remota | — |
-| 7 | 09/04/2026 | Independências da América Hispânica | — |
-| 8 | 16/04/2026 | Formação dos Estados Nacionais da América Latina | — |
-| 9 | 23/04/2026 | Era das Abolições I: Caribe | — |
-| 10 | 30/04/2026 | Era das Abolições III: Cuba, abolição e independência | — |
-| 11 | 07/05/2026 | Avaliação presencial | — |
-| 12 | 14/05/2026 | Revolução Mexicana de 1910 | — |
-| 13 | 21/05/2026 | Populismo, autoritarismo e democracia no século XX | — |
-| 14 | 28/05/2026 | Revolução Cubana de 1959 | — |
+| 1 | 26/02/2026 | Atividade assíncrona: debatendo o conceito de América Latina / latinidad | [formulário](https://forms.gle/6vY4XeqP8NUas3vM6) |
+| 2 | 05/03/2026 | Cuba nos Malês! | — |
+| — | 12/03/2026 | **SEM AULA — Paralisação estudantil** | — |
+| 3 | 19/03/2026 | Quem escreve a história das Américas? E que disciplina é essa? | [Slides](https://ericbrasil.com.br/cclhm0081/slides/aula-1) |
+| 4 | 26/03/2026 | Revolução Americana e a Formação da República dos EUA | [Slides](https://ericbrasil.com.br/cclhm0081/slides/aula-3/) |
+| 5 | 02/04/2026 | A Revolução de Santo Domingo e a construção da nação haitiana | — |
+| 6 | 09/04/2026 | Independências da América Hispânica | — |
+| 7 | 16/04/2026 | Formação dos Estados Nacionais da América Latina | — |
+| 8 | 23/04/2026 | Era das Abolições I: Caribe | — |
+| 9 | 30/04/2026 | Era das Abolições II: Guerra Civil e Abolição nos EUA | — |
+| 10 | 07/05/2026 | Era das Abolições III: Cuba, abolição e independência | — |
+| 11 | 14/05/2026 | Pós-abolição, cidadania e direitos nas Américas | — |
+| 12 | 21/05/2026 | Revolução Mexicana de 1910 | — |
+| 13 | 28/05/2026 | Populismo, autoritarismo e democracia no século XX | — |
 | — | 04/06/2026 | **SEM AULA — Corpus Christi** | — |
-| 15 | 11/06/2026 | Movimentos civis, direitos humanos e cidadania na América Latina e EUA | — |
-| 16 | 18/06/2026 | Aula de encerramento e balanço final da disciplina | — |
+| 14 | 11/06/2026 | Revolução Cubana de 1959 | — |
+| 15 | 18/06/2026 | Encerramento e avaliação da disciplina | — |
 
 ## Contato
 
