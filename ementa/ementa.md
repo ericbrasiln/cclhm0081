@@ -83,9 +83,13 @@ O conteúdo programático, assim como cronograma e leituras previstas, estão em
 Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a forma como o Brasil é percebido (ou não) nesse campo.
 
 ✅ Esta atividade corresponde à aula do dia 26/02
+
 ⏱️ Carga horária: 4 horas
+
 📝 Valor: 1,0 ponto
+
 📌 Prazo para envio: 12/03 (até 23:59)
+
 🔗 [Link do formulário](https://forms.gle/6vY4XeqP8NUas3vM6)
 
 ### AULA 2 (05/03/2026)
@@ -98,7 +102,16 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 
 ### AULA 3 (19/03/2026)
 
-**Tema**: Revolução Americana e a formação da República dos EUA
+**Tema**: Quem escreve a história das Américas? E que disciplina é essa?
+
+**Objetivos**
+
+- Discutir os fundamentos epistemológicos e historiográficos da disciplina
+- Apresentar a proposta do semestre e os combinados da disciplina
+
+### AULA 4 (26/03/2026)
+
+**Tema**: Revolução Americana e a Formação da República dos EUA
 
 **Objetivos**
 
@@ -115,46 +128,32 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 - Karnal; Purdy; Fernandes; Morais. “O Início”. In: *História dos Estados Unidos: das origens aos século XXI*. São Paulo: Contexto, 2007. pp. 39-80.
 - Linebaugh, Peter, e Marcus Rediker. “A horda heterogênea na Revolução America”. In: *A hidra de muitas cabeças: marinheiros, escravos, plebeus e a história oculta do Atlântico revolucionário*. São Paulo: Editora Companhia das Letras, 2008.
 
-### AULA 4 (26/03/2026)
+**Material de apoio**
 
-**Tema**: A Revolução de Santo Domingo e a Independência do Haiti
+- [Questões de apoio à leitura — Wood (2013)](../bibliografia/apoio/wood_2013_questoes-apoio.pdf): roteiro com 6 perguntas sobre o capítulo “III. Revolução”, para orientar a leitura e o debate em sala.
+- [Questões de apoio à leitura — Viana (2014)](../bibliografia/apoio/viana_2014_questoes-apoio.pdf): roteiro com 7 perguntas sobre o artigo, para orientar a leitura e o debate em sala.
+
+### AULA 5 (02/04/2026)
+
+**Tema**: A Revolução de Santo Domingo e e construção da nação haitiana
 
 **Objetivos**
 
 - Compreender o processo da revolução haitiana
 - Analisar o papel da população negra escravizada na independência
-
-**Bibliografia básica**
-
-- PEREIRA, Bethânia Santos. *Revolução haitiana: a revolução de escravizados que abalou o mundo*. Curitiba: Juruá, 2025. 126 p. (Coleção História FM). [Capítulos 3 e 4]
-- James, Cyril Lionel Robert. *Os jacobinos negros: Toussaint L’Ouverture e a Revolução de São Domingos*. São Paulo: Boitempo, 2000. [Trechos selecionados]
-
-### AULA 5 (02/04/2026)
-
-**Tema**: Atividade remota
-
-::: {.callout-warning}
-***Informações em breve.***
-:::
-
-### AULA 6 (09/04/2026)
-
-**Tema**: A construção da nação haitiana e seus impactos no mundo moderno
-
-**Objetivos**
-
 - Discutir os desdobramentos da revolução haitiana
-- Refletir sobre seu impacto em outras sociedades escravistas
 
 **Bibliografia básica**
 
+- PEREIRA, Bethânia Santos. Revolução haitiana: a revolução de escravizados que abalou o mundo. Curitiba: Juruá, 2025. 126 p. (Coleção História FM). [Capítulos 3 e 4]
 - FICK, Carolyn. Para uma (re)definição de liberdade: a Revolução no Haiti e os paradigmas de Liberdade e Igualdade. *Estudos Afro-Asiáticos*, v.26, n.2, Mai-Agosto, 2004.
 
 **Bibliografia complementar**
 
+- James, Cyril Lionel Robert. Os jacobinos negros: Toussaint L’Ouverture e a Revolução de São Domingos. São Paulo: Boitempo, 2000. [Trechos selecionados]
 - Grafenstein, Johanna von. “Haití En El Siglo XIX. Desde La Revolución de Esclavos Hasta La Ocupación Norteamericana (1791-1915)” *Istor, Revista de Historia Internacional*, CIDE, Año XII, Número 46. Otoño de 2011, Pp. 3- 32.
 
-### AULA 7 (16/04/2026)
+### AULA 6 (09/04/2026)
 
 **Tema**: Independências da América Hispânica
 
@@ -172,8 +171,7 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 
 - Prado, Maria Lígia Coelho. “A participação das mulheres nas lutas pela independência política da América Latina”. In *América Latina no Século XIX: Tramas, Telas e Textos*. São Paulo: Edusp, 2ª. São Paulo: Edusp, 2014.
 
-
-### AULA 8 (23/04/2026)
+### AULA 7 (16/04/2026)
 
 **Tema**: Formação dos Estados Nacionais da América Latina
 
@@ -192,7 +190,7 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 
 ## Módulo II – Abolições, Pós-abolição e Cidadania
 
-### AULA 9 (30/04/2026)
+### AULA 8 (23/04/2026)
 
 **Tema**: Era das abolições I: Caribe
 
@@ -211,7 +209,7 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 - Drescher, Seymour. A emancipação britânica. In: *Abolição: uma História da Escravidão e do Antiescravismo.* Edição: 1. São Paulo: Editora Unesp, 2011.
 - Beckles, Hilary, e Verene A Shepherd. *Freedoms Won: Caribbean Emancipations, Ethnicities, and Nationhood.* Cambridge: Cambridge University Press, 2008. pp 7-16.
 
-### AULA 10 (07/05/2026)
+### AULA 9 (30/04/2026)
 
 **Tema**: Era das abolições II: Guerra Civil e Abolição nos EUA
 
@@ -229,7 +227,7 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 
 - MIRANDA, Clícea Maria. Repercussões da Guerra Civil Americana no debate político sobre a abolição no Brasil, 1861-1888. *Anais do VII Encontro Escravidão e Liberdade no Brasil Meridional*, p. 13, 2015.
 
-### AULA 11 (14/05/2026)
+### AULA 10 (07/05/2026)
 
 **Tema**: Era das abolições III: Cuba, abolição e independência
 
@@ -248,17 +246,26 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 - FERRER, Ada. Cuba, 1898: Rethinking Race, Nation, and Empire. *Radical History Review*, v. 1999, n. 73, p. 22–46, 1999.
 - HELG, Aline. Sentido e impacto de la participación negra en la guerra de independencia de Cuba. *Revista de Indias*, v. 58, n. 212, p. 47–63, 1998.
 
-### AULA 12 (21/05/2026)
+### AULA 11 (14/05/2026)
 
-**Tema**: Avaliação presencial
+**Tema**: Pós-abolição, cidadania e direitos nas Américas
 
-::: {.callout-warning}
-***Mais informações em breve.***
-:::
+**Objetivos**:
+
+- 
+-
+
+**Bibliografia básica**
+
+[EM BREVE]
+
+**Bibliografia complementar**
+
+[EM BREVE]
 
 ## Módulo III – Revoluções, Estado e Democracia no Século XX
 
-### AULA 13 (28/05/2026)
+### AULA 12 (21/05/2026)
 
 **Tema**: Revolução Mexicana de 1910
 
@@ -272,9 +279,7 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 - BRUIT, Hector. *Revoluções na América Latina*. São Paulo: Atual, 1988. “Introdução” e “1. A Revolução Mexicana”.
 - Aguilar Camín, Héctor & Meyer, Lorenzo. *À Sombra da Revolução Mexicana: História mexicana contemporãnea, 1910-1989.* São Paulo: EdUSP, 2000. [Trechos selecionados]
 
-### (04/06/2026) **SEM AULA — Corpus Christi (feriado)**
-
-### AULA 14 (11/06/2026)
+### AULA 13 (28/05/2026)
 
 **Tema**: Populismo, autoritarismo e democracia no século XX
 
@@ -288,7 +293,9 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 
 - EM BREVE.
 
-### AULA 15 (18/06/2026)
+### (04/06/2026) **SEM AULA — Corpus Christi (feriado)**
+
+### AULA 14 (11/06/2026)
 
 **Tema**: Revolução Cubana de 1959
 
@@ -305,5 +312,13 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 **Bibliografia complementar**
 
 - SADDI, Rafael; MELO, Érica Isabel. Gênero e Revolução Cubana: reflexões sobre as relações de gênero no Exército Rebelde. *Diálogos*, vol. 6, núm. 3, sep-dez, 2012, pp. 1267-1287.
+
+### AULA 15 (18/06/2026)
+
+**Tema**: Encerramento e avaliação da disciplina
+
+::: {.callout-warning}
+***Informações em breve.***
+:::
 
 ![](../imgs/banner_logos_hist.png)
