@@ -40,6 +40,9 @@ cclhm0081/                         ← raiz do repositório
 │   └── CLAUDE.md
 ├── bibliografia/
 ├── cclhm0081-docencia/            ← subpasta da skill
+│   ├── leitura-bibliografia/
+│   │   ├── questoes-apoio.md
+│   │   └── resenha.md
 │   ├── templates-quarto/
 │   │   ├── template-html.qmd
 │   │   ├── template-pdf.qmd
@@ -63,6 +66,8 @@ cclhm0081/                         ← raiz do repositório
 │   │   └── index_files/
 │   ├── imgs/                      ← imagens e QR codes compartilhados
 │   └── custom.scss
+├── noticias/                      ← avisos e comunicados para a turma
+│   └── AAAA-MM-DD_aulaX.md
 ├── atividades/
 ├── index.html
 ├── index.md
@@ -181,7 +186,7 @@ arquivos de referência em `cclhm0081-docencia/leitura-bibliografia/`:
 | Arquivo | Quando ler |
 |---|---|
 | `leitura-bibliografia/resenha.md` | Ao produzir resenha ou síntese de texto para uso do docente |
-| `leitura-bibliografia/questoes-apoio.md` | Ao elaborar as 5 questões de leitura guiada para estudantes |
+| `leitura-bibliografia/questoes-apoio.md` | Ao elaborar questões de leitura guiada para estudantes |
 
 **Pré-requisito para ambos:** o texto deve estar disponível no contexto (PDF
 fornecido ou conteúdo colado). Nunca simular leitura de texto ausente.
@@ -362,6 +367,133 @@ O corpo do PR deve:
 - Incluir tabela de commits quando houver mais de um
 - Deixar explícito que foi criado pelo Claude Code
 - Encerrar com `🤖 Criado com [Claude Code](https://claude.com/claude-code)`
+- **Não incluir checklists** no corpo do PR
+
+---
+
+## Questões de apoio à leitura
+
+Ao elaborar questões de apoio, ler `cclhm0081-docencia/leitura-bibliografia/questoes-apoio.md`
+antes de iniciar. As regras abaixo são um resumo operacional.
+
+### Número e formato
+
+- Entre **5 e 8 questões** — o número depende da extensão e complexidade do texto
+- Questões abertas e discursivas — nunca de múltipla escolha ou verdadeiro/falso
+- Cada questão deve exigir síntese ou paráfrase — evitar respostas copiáveis ou sim/não
+- A última questão pode articular o texto com o tema da aula
+
+### YAML frontmatter
+
+```yaml
+---
+title: "Questões de apoio à leitura: Autor (ano)"
+author: "Eric Brasil"
+date: today
+date-format: full
+lang: pt-BR
+---
+```
+
+### Nomenclatura de arquivo
+
+```
+autor_ano_questoes-apoio.md        ← texto completo
+autor_ano_questoes-PAGINAS.md      ← trecho específico (ex: autor_ano_questoes-25-54.md)
+```
+
+Salvar em `bibliografia/apoio/`.
+
+### Corpo do documento
+
+```markdown
+**Autor, "Título abreviado", ano, pp. XX–XX**
+Aula N | Tema da aula
+
+---
+
+1. Questão em parágrafo corrido.
+
+2. Questão em parágrafo corrido.
+```
+
+Questões numeradas com `1.` simples — sem `**N.**`, sem blocos, sem seções temáticas.
+Cada questão em parágrafo único, sem sub-itens.
+
+### Material de apoio na ementa
+
+Após gerar o PDF, incluir em `ementa/ementa.md` na aula correspondente:
+
+```markdown
+**Material de apoio**
+
+* [Questões de apoio à leitura — Autor (ano)](../bibliografia/apoio/arquivo.pdf): roteiro com N perguntas sobre [...], para orientar a leitura e o debate em sala.
+```
+
+---
+
+## Noticias — avisos para a turma
+
+Comunicados sobre aulas ficam em `noticias/` com a nomenclatura `AAAA-MM-DD_aulaX.md`.
+
+### YAML frontmatter obrigatório
+
+```yaml
+---
+title: "Aviso: Aula N — DD/MM/AAAA"
+subtitle: "CCLHM0081 - 2026.1"
+author:
+  - name: Eric Brasil
+    email: profericbrasil@unilab.edu.br
+    orcid: 0000-0001-5067-8475
+    affiliation: Instituto de Humanidades e Letras - UNILAB
+date: AAAA-MM-DD
+description: "Informações sobre a Aula N de ..."
+lang: pt-BR
+date-format: long
+format:
+  html:
+    toc: false
+    logo: ../imgs/banner_logos_hist.png
+  pdf:
+    toc: false
+    documentclass: article
+    geometry:
+      - top=3cm
+      - bottom=3cm
+      - left=3.5cm
+      - right=3.5cm
+    fontsize: 12pt
+    colorlinks: true
+---
+```
+
+### Rodapé obrigatório
+
+Todo aviso deve terminar com:
+
+```markdown
+---
+
+*Mensagem escrita com assistência do [Claude Code](https://claude.com/claude-code).*
+```
+
+---
+
+## Regras de .gitignore
+
+O `.gitignore` do repositório deve conter:
+
+```gitignore
+*_resenha.md
+
+# PDFs dos textos da bibliografia (direitos autorais)
+bibliografia/*.pdf
+```
+
+A regra `bibliografia/*.pdf` ignora os PDFs dos textos protegidos por direitos autorais,
+mas **não afeta** `bibliografia/apoio/*.pdf` (materiais produzidos pelo docente),
+que continuam rastreados normalmente.
 
 ---
 
