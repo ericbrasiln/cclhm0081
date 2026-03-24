@@ -23,8 +23,3 @@ Renderize todos os documentos da disciplina CCLHM0081 com `quarto render` seguin
 4. Reporte o resultado de cada render (sucesso ou erro) ao final.
 5. Não faça commit, não faça push — apenas renderize.
 
-## Estado atual dos arquivos
-
-Notícias disponíveis: !`ls noticias/*.md 2>/dev/null || echo "(nenhuma)"`
-
-Questões de apoio disponíveis: !`ls bibliografia/apoio/*_questoes-apoio.md 2>/dev/null || echo "(nenhuma)"`
