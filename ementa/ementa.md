@@ -59,7 +59,7 @@ A crise do sistema colonial; Processos de independência e formação dos Estado
 
 | Atividade | Qtd. | Pontuação |
 |:----------|:----:|:---------:|
-| Atividade escrita remota | 2 | 1 ponto cada |
+| Atividade remota | 2 | 1 ponto cada |
 | Apresentação de texto da bibliografia em sala | 2 | 1 ponto cada |
 | Trabalho final | 1 | 6 pontos |
 | **Total** | | **10 pontos** |
