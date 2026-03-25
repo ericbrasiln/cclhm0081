@@ -48,8 +48,8 @@ A disciplina propõe um estudo comparado das experiências de independência nas
 | 1 | 26/02/2026 | Atividade assíncrona: debatendo o conceito de América Latina / latinidad | [formulário](https://forms.gle/6vY4XeqP8NUas3vM6) |
 | 2 | 05/03/2026 | Cuba nos Malês! | — |
 | — | 12/03/2026 | **SEM AULA — Paralisação estudantil** | — |
-| 3 | 19/03/2026 | Quem escreve a história das Américas? E que disciplina é essa? | [Slides](https://ericbrasil.com.br/cclhm0081/slides/aula-1) |
-| 4 | 26/03/2026 | Revolução Americana e a Formação da República dos EUA | [Slides](https://ericbrasil.com.br/cclhm0081/slides/aula-3/) |
+| 3 | 19/03/2026 | Quem escreve a história das Américas? E que disciplina é essa? | [Slides](https://ericbrasil.com.br/cclhm0081/slides/aula-3/) |
+| 4 | 26/03/2026 | Revolução Americana e a Formação da República dos EUA | [Slides](https://ericbrasil.com.br/cclhm0081/slides/aula-4/) |
 | 5 | 02/04/2026 | A Revolução de Santo Domingo e a construção da nação haitiana | — |
 | 6 | 09/04/2026 | Independências da América Hispânica | — |
 | 7 | 16/04/2026 | Formação dos Estados Nacionais da América Latina | — |
