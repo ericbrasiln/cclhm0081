@@ -153,6 +153,11 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 - James, Cyril Lionel Robert. Os jacobinos negros: Toussaint L’Ouverture e a Revolução de São Domingos. São Paulo: Boitempo, 2000. [Trechos selecionados]
 - Grafenstein, Johanna von. “Haití En El Siglo XIX. Desde La Revolución de Esclavos Hasta La Ocupación Norteamericana (1791-1915)” *Istor, Revista de Historia Internacional*, CIDE, Año XII, Número 46. Otoño de 2011, Pp. 3- 32.
 
+**Material de apoio**
+
+- [Questões de apoio à leitura — Pereira (2025)](../bibliografia/apoio/pereira_2025_questoes-apoio.pdf): roteiro com 7 perguntas sobre os Capítulos 3 e 4, para orientar a leitura e o debate em sala.
+- [Questões de apoio à leitura — Fick (2004)](../bibliografia/apoio/fick_2004_questoes-apoio.pdf): roteiro com 6 perguntas sobre o artigo, para orientar a leitura e o debate em sala.
+
 ### AULA 6 (09/04/2026)
 
 **Tema**: Independências da América Hispânica
