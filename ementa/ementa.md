@@ -50,6 +50,7 @@ A crise do sistema colonial; Processos de independência e formação dos Estado
 **Observações (Calendário 2026.1 / UNILAB):**
 
 - Não haverá aula em **12/03/2026** em razão da **paralisação estudantil**.
+- Não haverá aula em **02/04/2026** em razão do **recesso decretado pela reitoria**.
 - Não haverá aula em **04/06/2026 (Corpus Christi)**.
 :::
 
@@ -133,9 +134,11 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 - [Questões de apoio à leitura — Wood (2013)](../bibliografia/apoio/wood_2013_questoes-apoio.pdf): roteiro com 6 perguntas sobre o capítulo “III. Revolução”, para orientar a leitura e o debate em sala.
 - [Questões de apoio à leitura — Viana (2014)](../bibliografia/apoio/viana_2014_questoes-apoio.pdf): roteiro com 7 perguntas sobre o artigo, para orientar a leitura e o debate em sala.
 
-### AULA 5 (02/04/2026)
+### (02/04/2026) **SEM AULA — Recesso decretado pela reitoria**
 
-**Tema**: A Revolução de Santo Domingo e e construção da nação haitiana
+### AULA 5 (09/04/2026)
+
+**Tema**: A Revolução de Santo Domingo e a construção da nação haitiana
 
 **Objetivos**
 
@@ -158,7 +161,7 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 - [Questões de apoio à leitura — Pereira (2025)](../bibliografia/apoio/pereira_2025_questoes-apoio.pdf): roteiro com 7 perguntas sobre os Capítulos 3 e 4, para orientar a leitura e o debate em sala.
 - [Questões de apoio à leitura — Fick (2004)](../bibliografia/apoio/fick_2004_questoes-apoio.pdf): roteiro com 6 perguntas sobre o artigo, para orientar a leitura e o debate em sala.
 
-### AULA 6 (09/04/2026)
+### AULA 6 (16/04/2026)
 
 **Tema**: Independências da América Hispânica
 
@@ -176,7 +179,7 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 
 - Prado, Maria Lígia Coelho. “A participação das mulheres nas lutas pela independência política da América Latina”. In *América Latina no Século XIX: Tramas, Telas e Textos*. São Paulo: Edusp, 2ª. São Paulo: Edusp, 2014.
 
-### AULA 7 (16/04/2026)
+### AULA 7 (23/04/2026)
 
 **Tema**: Formação dos Estados Nacionais da América Latina
 
@@ -195,7 +198,7 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 
 ## Módulo II – Abolições, Pós-abolição e Cidadania
 
-### AULA 8 (23/04/2026)
+### AULA 8 (30/04/2026)
 
 **Tema**: Era das abolições I: Caribe
 
@@ -214,7 +217,7 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 - Drescher, Seymour. A emancipação britânica. In: *Abolição: uma História da Escravidão e do Antiescravismo.* Edição: 1. São Paulo: Editora Unesp, 2011.
 - Beckles, Hilary, e Verene A Shepherd. *Freedoms Won: Caribbean Emancipations, Ethnicities, and Nationhood.* Cambridge: Cambridge University Press, 2008. pp 7-16.
 
-### AULA 9 (30/04/2026)
+### AULA 9 (07/05/2026)
 
 **Tema**: Era das abolições II: Guerra Civil e Abolição nos EUA
 
@@ -232,7 +235,7 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 
 - MIRANDA, Clícea Maria. Repercussões da Guerra Civil Americana no debate político sobre a abolição no Brasil, 1861-1888. *Anais do VII Encontro Escravidão e Liberdade no Brasil Meridional*, p. 13, 2015.
 
-### AULA 10 (07/05/2026)
+### AULA 10 (14/05/2026)
 
 **Tema**: Era das abolições III: Cuba, abolição e independência
 
@@ -251,7 +254,7 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 - FERRER, Ada. Cuba, 1898: Rethinking Race, Nation, and Empire. *Radical History Review*, v. 1999, n. 73, p. 22–46, 1999.
 - HELG, Aline. Sentido e impacto de la participación negra en la guerra de independencia de Cuba. *Revista de Indias*, v. 58, n. 212, p. 47–63, 1998.
 
-### AULA 11 (14/05/2026)
+### AULA 11 (21/05/2026)
 
 **Tema**: Pós-abolição, cidadania e direitos nas Américas
 
@@ -270,7 +273,7 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 
 ## Módulo III – Revoluções, Estado e Democracia no Século XX
 
-### AULA 12 (21/05/2026)
+### AULA 12 (28/05/2026)
 
 **Tema**: Revolução Mexicana de 1910
 
@@ -284,7 +287,7 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 - BRUIT, Hector. *Revoluções na América Latina*. São Paulo: Atual, 1988. “Introdução” e “1. A Revolução Mexicana”.
 - Aguilar Camín, Héctor & Meyer, Lorenzo. *À Sombra da Revolução Mexicana: História mexicana contemporãnea, 1910-1989.* São Paulo: EdUSP, 2000. [Trechos selecionados]
 
-### AULA 13 (28/05/2026)
+### AULA 13 (11/06/2026)
 
 **Tema**: Populismo, autoritarismo e democracia no século XX
 
@@ -300,7 +303,7 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 
 ### (04/06/2026) **SEM AULA — Corpus Christi (feriado)**
 
-### AULA 14 (11/06/2026)
+### AULA 14 (18/06/2026)
 
 **Tema**: Revolução Cubana de 1959
 
@@ -318,7 +321,7 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 
 - SADDI, Rafael; MELO, Érica Isabel. Gênero e Revolução Cubana: reflexões sobre as relações de gênero no Exército Rebelde. *Diálogos*, vol. 6, núm. 3, sep-dez, 2012, pp. 1267-1287.
 
-### AULA 15 (18/06/2026)
+### AULA 15 (25/06/2026)
 
 **Tema**: Encerramento e avaliação da disciplina
 

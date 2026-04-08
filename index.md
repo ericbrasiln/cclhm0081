@@ -50,18 +50,19 @@ A disciplina propõe um estudo comparado das experiências de independência nas
 | — | 12/03/2026 | **SEM AULA — Paralisação estudantil** | — |
 | 3 | 19/03/2026 | Quem escreve a história das Américas? E que disciplina é essa? | [Slides](https://ericbrasil.com.br/cclhm0081/slides/aula-3/) |
 | 4 | 26/03/2026 | Revolução Americana e a Formação da República dos EUA | [Slides](https://ericbrasil.com.br/cclhm0081/slides/aula-4/) |
-| 5 | 02/04/2026 | A Revolução de Santo Domingo e a construção da nação haitiana | — |
-| 6 | 09/04/2026 | Independências da América Hispânica | — |
-| 7 | 16/04/2026 | Formação dos Estados Nacionais da América Latina | — |
-| 8 | 23/04/2026 | Era das Abolições I: Caribe | — |
-| 9 | 30/04/2026 | Era das Abolições II: Guerra Civil e Abolição nos EUA | — |
-| 10 | 07/05/2026 | Era das Abolições III: Cuba, abolição e independência | — |
-| 11 | 14/05/2026 | Pós-abolição, cidadania e direitos nas Américas | — |
-| 12 | 21/05/2026 | Revolução Mexicana de 1910 | — |
-| 13 | 28/05/2026 | Populismo, autoritarismo e democracia no século XX | — |
+| — | 02/04/2026 | **SEM AULA — Recesso decretado pela reitoria** | — |
+| 5 | 09/04/2026 | A Revolução de Santo Domingo e a construção da nação haitiana | — |
+| 6 | 16/04/2026 | Independências da América Hispânica | — |
+| 7 | 23/04/2026 | Formação dos Estados Nacionais da América Latina | — |
+| 8 | 30/04/2026 | Era das Abolições I: Caribe | — |
+| 9 | 07/05/2026 | Era das Abolições II: Guerra Civil e Abolição nos EUA | — |
+| 10 | 14/05/2026 | Era das Abolições III: Cuba, abolição e independência | — |
+| 11 | 21/05/2026 | Pós-abolição, cidadania e direitos nas Américas | — |
+| 12 | 28/05/2026 | Revolução Mexicana de 1910 | — |
 | — | 04/06/2026 | **SEM AULA — Corpus Christi** | — |
-| 14 | 11/06/2026 | Revolução Cubana de 1959 | — |
-| 15 | 18/06/2026 | Encerramento e avaliação da disciplina | — |
+| 13 | 11/06/2026 | Populismo, autoritarismo e democracia no século XX | — |
+| 14 | 18/06/2026 | Revolução Cubana de 1959 | — |
+| 15 | 25/06/2026 | Encerramento e avaliação da disciplina | — |
 
 ## Contato
 
