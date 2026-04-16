@@ -1,0 +1,557 @@
+---
+title: "Aula 6: Independências da América Hispânica"
+date: "2026-04-16"
+date-format: full
+lang: pt-br
+format:
+  revealjs:
+    theme: [default, ../custom.scss]
+    slide-number: true
+    incremental: false
+    chalkboard:
+      buttons: true
+    footer: "Eric Brasil | <a href=https://ericbrasil.com.br/contact/>Entre em contato</a> | CCLHM0081 — História da América Independente"
+    logo: https://raw.githubusercontent.com/ericbrasiln/cclhm0081/63cc875c152f361a14f723efbe6bd161f5aaf8b6/banner_logos_hist.png
+author:
+  - name: Eric Brasil
+    orcid: 0000-0001-5067-8475
+toc: false
+---
+
+## {.center}
+
+![Acesse a apresentação](../imgs/qrc_aula6.png)
+
+---
+
+## Objetivos da aula {.center}
+
+- Situar a crise do Império espanhol e as Reformas Bourbon
+- Debater se as independências foram **revoluções** (Mäder, 2008)
+- Reconstruir as campanhas e seus sujeitos (Prado & Pellegrino, 2014)
+- Discutir os limites da cidadania nas novas repúblicas
+
+---
+
+## Os dois textos da aula {.center}
+
+- **Mäder (2008)**: balanço historiográfico — como diferentes correntes interpretam as independências
+- **Prado & Pellegrino (2014)**: narrativa das campanhas e da construção dos Estados nacionais
+- Mäder dá o **mapa das interpretações**; Prado & Pellegrino **encarnam** o processo em sujeitos e conflitos
+
+---
+
+# Parte I — A crise do Império espanhol {.center}
+
+---
+
+## Transformações (séc. XVII–XIX) {.center}
+
+- **Economia**: crise da prata, avanço de Inglaterra e França, comércio ilícito
+- **Política**: Reformas Bourbon e centralização
+- **Sociedade**: elite crioula em ascensão, tensões populares
+
+::: notes
+Três dimensões entrelaçadas: crise da prata e avanço de potências rivais (econômica), centralização borbônica (política), ascensão e descontentamento crioulo (social). Estas transformações prepararam o terreno, mas não determinaram sozinhas a ruptura — a crise de 1808 foi o catalisador.
+:::
+
+---
+
+## Reformas Bourbon {.center}
+
+- Carlos III (1759–1788): modernização do império
+- Liberação parcial do comércio e novos impostos
+- Novos vice-reinos (ex.: Rio da Prata, 1776)
+- Enfraquecimento das elites locais e descontentamento crioulo
+
+::: notes
+As reformas buscaram revitalizar o império, mas acirraram conflitos com a elite crioula.
+:::
+
+---
+
+## 1808: a crise dinástica {.center}
+
+- Invasão napoleônica da Espanha
+- Abdicação forçada de Fernando VII
+- Formação de **Juntas** locais na península e nas Américas
+- Abertura de um debate sobre soberania
+
+::: notes
+A invasão napoleônica e a deposição de Fernando VII abriram uma crise de legitimidade. As Juntas formadas nas Américas — inicialmente leais ao rei — tornaram-se embriões dos futuros Estados independentes.
+:::
+
+---
+
+## Constituição de Cádiz (1812) {.center}
+
+- Regime constitucional monárquico
+- Soberania nacional e separação de poderes
+- Abolição da Inquisição, do tributo indígena e da *mita*
+- Voto amplo — com **exclusão dos afrodescendentes**
+
+::: notes
+Promulgada durante a ocupação napoleônica pelas Cortes de Cádiz — parlamento em resistência à invasão francesa. Modelo liberal: limitou o poder absoluto do rei e estabeleceu soberania nacional. Aplicada também às colônias, com igualdade de direitos políticos — exceto afrodescendentes.
+:::
+
+---
+
+## Impactos nas colônias {.center}
+
+- Primeira participação legislativa americana
+- Descentralização e legitimação das Juntas
+- **Reação realista** após 1814: retorno do absolutismo
+- Formação de uma cultura constitucionalista
+
+::: notes
+Pela primeira vez, representantes coloniais participaram de um processo legislativo europeu — gerando novas ideias de soberania e autonomia local. A revogação da Constituição por Fernando VII em 1814 demonstrou aos líderes coloniais a necessidade de romper completamente com a Espanha. Catalisador das independências.
+:::
+
+---
+
+## Para discussão {.center}
+
+> Como a Constituição de Cádiz articulou inclusão e exclusão?
+
+> Em que medida sua revogação em 1814 acelerou a ruptura com a Espanha?
+
+---
+
+# Parte II — Revolução ou não? {.center}
+
+---
+
+## Por que importa o conceito? {.center}
+
+- "Consenso terminológico" esconde **diferenças profundas**
+- Cada conceito de revolução implica uma leitura distinta do processo
+- Três grandes significados em disputa no século XX
+
+*(Mäder, 2008)*
+
+::: notes
+A discussão central da aula: as lutas de independência foram revoluções? Diferentes historiografias atribuem ou não caráter revolucionário aos movimentos. Analisar o conceito é analisar o próprio processo.
+:::
+
+---
+
+## 1. Consenso liberal-nacionalista {.center}
+
+- Predomínio até fins dos anos 1950
+- Revolução = mera ruptura do vínculo colonial
+- Visão **maniqueísta**: *gachupines* × *patriotas*
+- Silenciamento de indígenas e negros
+- Postura anacrônica: nacionalismo antes dos Estados
+
+::: notes
+Historiografia liberal tradicional: independência como revolução no sentido estrito de ruptura política com a metrópole. Centralidade da elite crioula — substituição dos peninsulares. Apaga a participação de indígenas, negros e mulheres.
+:::
+
+---
+
+## 2. Revolução atlântica {.center}
+
+### Godechot e Palmer
+
+- Independências como parte do ciclo **atlântico e burguês**
+- Contexto da **Guerra Fria** e da produção norte-atlântica
+- **Causalidade externa**: ruptura vinda "de fora"
+- Pouca atenção às dinâmicas internas
+
+---
+
+## 3. Chaunu e a crítica marxista {.center}
+
+- Chaunu (1973): **contradições internas** da sociedade colonial
+- Elite criolla: dominante na economia, alijada do poder
+- Caráter de **guerra civil**
+- Marxismo: houve revolução estrutural ou apenas reforma?
+
+::: notes
+Marxismo nega o caráter revolucionário ao apontar pouca transformação nas estruturas econômicas e sociais — houve mudança política, mas permanência das estruturas coloniais. Chaunu destaca as contradições internas e o caráter de guerra civil.
+:::
+
+---
+
+## François-Xavier Guerra {.center}
+
+- Independências como **modernidade política**
+- Revolução como **processo** e **acontecimento** (Furet)
+- Novas sociabilidades: tertúlias, clubes, imprensa
+- Novo vocabulário: soberania, nação, cidadania
+
+::: notes
+Para Guerra, o processo hispano-americano é parte de um fenômeno maior — a modernidade. As revoluções começam em 1808 e fazem parte da ruptura com o Antigo Regime. Nova soberania popular e criação de novas formas de sociabilidade.
+:::
+
+---
+
+## 1808–1810: ponto de mutação {.center}
+
+- Juntas locais em Sevilha, Cádiz e nas Américas
+- Debate sobre soberania na ausência do rei
+- **Visão unitária** (peninsular) × **visão pactista** (americana)
+- Deslocamento do eixo de legitimidade
+
+::: notes
+Guerra destaca este período como ponto de mutação ideológica decisivo. Disputa entre a visão monárquica absolutista e a visão plural e pactista dos americanos — duas concepções incompatíveis de soberania.
+:::
+
+---
+
+## Um "laboratório político" {.center}
+
+- Multiplicidade de **ensaios constitucionais**
+- Fronteiras políticas ainda indefinidas
+- Novas noções: representação, opinião pública, povo soberano
+- Período rico em **alternativas políticas** e novos sujeitos
+
+::: notes
+A crise dinástica e as guerras criaram um verdadeiro laboratório político nas Américas. Independência como parte de um processo mais amplo de transformação política e social — não só ruptura, mas invenção de novos sujeitos e formas.
+:::
+
+---
+
+## Para discussão {.center}
+
+> Foram as independências hispano-americanas **revoluções**?
+
+> Qual das três leituras historiográficas melhor explica o processo — ou elas se complementam?
+
+---
+
+# Parte III — As campanhas de independência {.center}
+
+---
+
+## Panorama: 1808–1824 {.center}
+
+- "Em pouco mais de uma década, o imenso Império Espanhol na América desmoronou"
+- Juntas americanas iniciais: fidelidade ambígua a Fernando VII
+- Entre 1810 e 1814: vitórias insurgentes e reação realista
+- Retorno de Fernando VII (1814) e reconquista parcial
+- Consolidação das independências entre 1819 e 1825
+
+*(Prado & Pellegrino, 2014)*
+
+::: notes
+Processos longos e não lineares. Conflitos armados entre 1810 e 1825 envolvendo projetos políticos distintos, ampla participação popular e a construção das novas repúblicas — com seus limites.
+:::
+
+---
+
+## Ideias ou estruturas? {.center}
+
+- **Ideias**: Iluminismo, independência dos EUA, liberalismo
+- **Estruturas**: contradições do pacto colonial, Revolução Industrial
+- **Síntese** (Flores Galindo): "combinações específicas entre determinações estruturais e vontades"
+
+---
+
+## José de San Martín {.center}
+
+- Nascido em Yapeyú (1778), formado no exército espanhol
+- Retorno às Américas em 1812
+- **Travessia dos Andes (1817)** — 5.500 combatentes
+- Libertação do Chile e do Peru (1821)
+- Defensor da **monarquia constitucional**
+
+::: notes
+Oficial do exército espanhol antes de retornar ao Prata. Perfil mais conservador em comparação a Bolívar — defendia a monarquia constitucional como forma de estabilidade política.
+:::
+
+---
+
+## Simón Bolívar {.center}
+
+- Criollo venezuelano, fazendeiros abastados
+- Independência da Venezuela (1811) e Nova Granada (1819)
+- Projeto da **Grã-Colômbia**
+- **Carta da Jamaica** (1815) e **Angostura** (1819)
+- Presidência vitalícia e Senado hereditário
+
+::: notes
+Sonhou com uma federação latino-americana unida sob princípios republicanos e liberais. Projeto da Grã-Colômbia como síntese dessa aspiração, mas com arquitetura institucional autoritária (presidência vitalícia, Senado hereditário).
+:::
+
+---
+
+## Bolívar desiludido {.center}
+
+> "A liberdade, desde então, só tem encontrado adversários absolutos às esperanças republicanas."
+
+Santa Marta, 1830 — morte às vésperas da fragmentação da Grã-Colômbia.
+
+*(Prado & Pellegrino, 2014)*
+
+::: notes
+O Congresso do Panamá (1826) simbolizou a tentativa fracassada de unidade — divergências regionais e interesses locais prevaleceram. O sonho deu lugar à fragmentação e às repúblicas autônomas.
+:::
+
+---
+
+## México: singularidade popular {.center}
+
+- **Miguel Hidalgo**: Grito de Dolores, 16/09/1810
+- Mobilização de camponeses, indígenas e mestiços
+- Estandarte da **Virgem de Guadalupe**
+- **Abolição do tributo indígena** e da escravidão
+- Derrota e fuzilamento em 1811
+
+::: notes
+Hidalgo confere ao movimento dimensão social e racial explícita — abolição do tributo indígena e da escravidão. A fé católica como instrumento de mobilização (estandarte da Guadalupe). Derrotado e fuzilado em 1811.
+:::
+
+---
+
+## Morelos e o medo das elites {.center}
+
+- **José María Morelos** continua o movimento
+- Projeto popular × projeto das elites crioulas
+- Medo da dimensão racial e social da luta
+- Independência em 1821 sob **Iturbide** (elite)
+
+::: notes
+Morelos mantém o projeto popular. As elites crioulas, temerosas da dimensão racial e social da luta, acabam promovendo a independência em 1821 sob Iturbide — revertendo o conteúdo popular do movimento.
+:::
+
+---
+
+## Para discussão {.center}
+
+> O que diferencia Bolívar e San Martín como líderes e como projetos políticos?
+
+> Por que o caso mexicano é singular entre as independências hispano-americanas?
+
+---
+
+# Parte IV — Quem fez as independências? {.center}
+
+---
+
+## Pluralidade de sujeitos {.center}
+
+- Elites crioulas e peninsulares
+- Indígenas, escravizados, pardos, mestiços
+- Mulheres em múltiplos papéis
+- Padres, camponeses e plebe urbana
+
+::: notes
+Seguindo Di Meglio: a participação popular foi massiva, diversa e decisiva — nem subordinada, nem puramente autônoma, mas parte estruturante da crise. As revoluções hispano-americanas foram também revoluções sociais.
+:::
+
+---
+
+## Indígenas em armas {.center}
+
+- Apoio popular a **Hidalgo e Morelos** no México
+- **Mateo Pumacahua**: cacique do Cuzco (1814)
+- Participação ambígua: alianças e resistências locais
+- Memória oficial os reduz a figurantes
+
+::: notes
+Muitos grupos populares mudaram de lado — a adesão a insurgentes ou realistas dependia de contextos locais e alianças. Movimentos de autogoverno indígena e ações nem sempre dirigidas pelas elites. A guerra como espaço de negociação e sobrevivência.
+:::
+
+---
+
+## Padres na insurgência {.center}
+
+- Cerca de **mil padres** envolvidos no processo
+- Hidalgo e Morelos (México)
+- Camilo Henríquez (Chile)
+- Igreja dividida entre realistas e patriotas
+
+::: notes
+Circulavam ideias de igualdade e justiça divina ("Dios nos dotó con la libertad"), presença de elementos milenaristas e religiosos nas rebeliões. A fé católica serviu como instrumento de mobilização e legitimação — com a Igreja dividida internamente.
+:::
+
+---
+
+## Mulheres nas guerras {.center}
+
+- **Juana Azurduy de Padilla**: tenente-coronel no Alto Peru
+- **Policarpa Salavarrieta** ("La Pola"): mensageira, fuzilada em 1817
+- "As amazonas" e mulheres comuns seguindo as tropas
+- Tertúlias patrióticas de mulheres abastadas
+
+::: notes
+Presença feminina significativa e multifacetada — de lideranças guerrilheiras a mulheres comuns que seguiam os exércitos (cozinhando, cuidando, lutando). Mulheres da elite organizavam tertúlias patrióticas. Atuação política ampla, depois apagada pela memória oficial.
+:::
+
+---
+
+## Afrodescendentes em armas {.center}
+
+- **Batalhão Negro de Buenos Aires**: integrou o exército de San Martín
+- **Pardo e Piñero** (Ayacucho); batalhão negro em Carabobo
+- Promessa de **alforria** pelo serviço militar
+- Ambiguidade: liberdade conquistada × liberdade revogada
+
+::: notes
+Com Rodrigues (2023) e Guzmán (2013): afrodescendentes como atores ativos da revolução, não apenas "carne de canhão". A guerra abriu possibilidades de mobilidade — promessas de alforria, salários, reconhecimento político. Batalhões integrados, oficiais negros e pardos livres. Muitas promessas foram revertidas após a guerra.
+:::
+
+---
+
+## Cidadania e exclusão {.center}
+
+- Leis eleitorais restritivas (renda, propriedade)
+- **Cádiz (1812)** já excluía os de ascendência africana
+- Libertos sem sufrágio nas novas repúblicas
+- Hierarquias coloniais sob discurso igualitário
+
+::: notes
+Poucos afrodescendentes foram reconhecidos como cidadãos plenos. O "patriotismo" e o "sacrifício militar" tornaram-se formas de cidadania prática, ainda que não formal. A memória posterior os transformou em "carne de canhão", apagando a dimensão política de sua atuação.
+:::
+
+---
+
+## Para discussão {.center}
+
+> Por que a memória oficial apagou a participação de indígenas, mulheres e afrodescendentes?
+
+> O que significa falar em **agência política** desses sujeitos?
+
+---
+
+# Parte V — O horizonte republicano {.center}
+
+---
+
+## Tarefas da república {.center}
+
+- Montar a estrutura administrativa
+- Delimitar fronteiras
+- Reanimar economias em ruína
+- **Construir legitimidade** política
+
+*(Prado & Pellegrino, 2014)*
+
+::: notes
+Após a ruptura, os novos Estados enfrentaram simultaneamente desafios imensos. Construir legitimidade política foi talvez o mais complexo — num terreno sem tradição republicana e com elites divididas sobre o modelo institucional.
+:::
+
+---
+
+## Fragmentação territorial {.center}
+
+- Do Vice-Reino único às múltiplas repúblicas
+- Guerras civis e caudilhismo
+- Instabilidade constitucional prolongada
+- Mapa político da América Latina em **1830**
+
+::: notes
+O sonho bolivariano de unidade deu lugar à fragmentação em meio a guerras civis, caudilhismo e instabilidade constitucional. Contrastar o mapa de 1808 com o de 1830.
+:::
+
+---
+
+## Federalistas × Centralistas {.center}
+
+- Eixo central do conflito pós-independência
+- **Argentina**: Rosas, Facundo Quiroga × unitários
+- **México**: liberais × conservadores
+- **Venezuela**: Bolívar e a recusa do federalismo
+
+::: notes
+Eixo estruturante dos conflitos pós-independência. Bolívar recusa o federalismo na Venezuela por temer a fragmentação — em contraste com outros contextos. Não há um modelo único de organização política.
+:::
+
+---
+
+## Argentina em guerra civil {.center}
+
+- Rosas: base entre estancieiros de Buenos Aires
+- Caudilhismo provincial (Quiroga em La Rioja)
+- **Batalha de Caseros (1852)**: Urquiza derrota Rosas
+- **Mitre (1862)**: unificação centralizada
+
+::: notes
+Caso paradigmático das guerras internas pós-independência. A consolidação argentina só se dá em 1862 — mais de meio século após 1810 — com a unificação centralizada sob Mitre.
+:::
+
+---
+
+## Echeverría: democracia sob tutela {.center}
+
+- *Jovem Argentina* (1838), exílio em Montevidéu
+- *Dogma socialista* (1846)
+- Democracia como **soberania da razão**
+- Massa vista como "ignorante" — educação **antes** da participação
+
+::: notes
+Liberalismo tutelar típico da elite letrada: democracia entendida como soberania da razão, não da maioria. Primeiro educar, depois participar — adiamento indefinido da participação popular efetiva.
+:::
+
+---
+
+## Mora e a refutação de Rousseau {.center}
+
+- **José María Luis Mora** (México)
+- *Catecismo político da Federação Mexicana* (1831)
+- Câmara como "corpo passivo" da razão representativa
+- **Propriedade** como condição de cidadania
+
+::: notes
+Mora refuta Rousseau ao pensar a Câmara como corpo passivo da razão representativa. A propriedade torna-se condição de cidadania — liberalismo censitário explícito, coerente com a lógica de exclusão compartilhada por liberais e conservadores.
+:::
+
+---
+
+## "Perigosa e funesta igualdade" {.center}
+
+- Temor liberal e conservador da participação popular
+- Exclusão de camponeses, indígenas, negros e mulheres
+- "Quadro social sólido" = hierarquia mantida
+- Cidadania recortada por **renda, propriedade e raça**
+
+::: notes
+Temor compartilhado por liberais e conservadores: o "quadro social sólido" significa hierarquia mantida. As promessas da ruptura com a metrópole não se traduzem em igualdade substantiva. A cidadania é censitária e racializada.
+:::
+
+---
+
+## Para discussão {.center}
+
+> Que noção de "povo" cabia no liberalismo hispano-americano?
+
+> Por que a exclusão das classes populares se tornou a marca das novas repúblicas?
+
+---
+
+# Encerramento {.center}
+
+---
+
+## Independências e suas contradições {.center}
+
+- **Ruptura política** com a metrópole
+- **Continuidade** de hierarquias sociais e raciais
+- Novos sujeitos em cena — e à margem
+- Laboratório político × cidadania excludente
+
+::: notes
+Síntese da aula: as guerras foram processos múltiplos, não lineares. Independência política ≠ transformação social. As novas repúblicas nasceram marcadas por contradições e exclusões — mas também pela emergência de novos sujeitos políticos.
+:::
+
+---
+
+## Os dois textos em diálogo {.center}
+
+- **Mäder**: o debate sobre o conceito de revolução abre novas perguntas
+- **Prado & Pellegrino**: a narrativa mostra as respostas em disputa
+- Juntos: independência política ≠ transformação social
+- A questão que fica: **quem fez a independência, e quem foi autorizado a fazer a república?**
+
+::: notes
+Mäder dá o mapa das interpretações — o "o quê" da revolução. Prado & Pellegrino encarnam o processo em sujeitos e conflitos — o "como" e o "quem". Fechar a aula com a pergunta aberta sobre a distância entre quem lutou e quem foi reconhecido como cidadão.
+:::
+
+---
+
+## Bibliografia da aula {.center}
+
+- MÄDER, Maria Elisa Noronha de Sá. Revoluções de Independência na América Hispânica: uma reflexão historiográfica. *Revista de História*, n. 159, p. 225–241, 2008.
+
+- PRADO, Maria Lígia; PELLEGRINO, Gabriela. Campanhas de independência nos vice-reinos espanhóis; O horizonte republicano nos Estados nacionais em formação. In: **História da América Latina**. São Paulo: Contexto, 2014. p. 25–56.
