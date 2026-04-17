@@ -1,10 +1,11 @@
-# CLAUDE.md — cclhm0081-docencia
+# CLAUDE.md — cclhm0081
 
 Instruções operacionais para o Claude Code neste repositório.
 
-> Este arquivo complementa o `SKILL.md` da skill `cclhm0081-docencia`.
-> O SKILL.md contém os princípios e diretrizes completas.
-> Este arquivo contém os comportamentos automáticos e atalhos de sessão.
+> Este arquivo contém os dados específicos da disciplina e os comportamentos
+> automáticos de sessão. As regras gerais de docência (princípios, produção de
+> conteúdo, Quarto, Git, convenções editoriais) estão na skill geral `docencia`
+> em `~/.claude/skills/docencia/SKILL.md`.
 
 ---
 
@@ -53,12 +54,6 @@ cclhm0081/                         ← raiz do repositório
 ├── .claude/
 │   └── CLAUDE.md                  ← este arquivo
 ├── bibliografia/
-├── cclhm0081-docencia/            ← subpasta da skill
-│   ├── templates-quarto/
-│   │   ├── template-html.qmd
-│   │   ├── template-pdf.qmd
-│   │   └── template-slides.qmd
-│   └── SKILL.md                   ← princípios e diretrizes completas
 ├── ementa/
 │   ├── calendario.md / .html / .pdf
 │   └── ementa.md / .html / .pdf
@@ -179,13 +174,16 @@ Inserir como primeiro slide: `![Acesse a apresentação](../imgs/qrc_aulaN.png)`
 
 ## Templates
 
-Antes de criar qualquer arquivo `.qmd`, verificar se existe template correspondente
-em `cclhm0081-docencia/templates-quarto/`. Se o template estiver vazio, ler os
-`.qmd` existentes em `slides/aula-N/` para inferir o padrão antes de preencher.
+Antes de criar qualquer arquivo `.qmd`, verificar os templates em
+`~/.claude/skills/docencia/templates-quarto/`. Substituir o footer genérico
+pelo valor desta disciplina: `CCLHM0081 — História da América Independente`.
+Se o template estiver desatualizado, ler os `.qmd` existentes em `slides/aula-N/`
+para confirmar o padrão em uso.
 
 ---
 
 ## Referência completa
 
 Para diretrizes detalhadas sobre produção de conteúdo, fichamentos, atividades
-pedagógicas e convenções editoriais, consultar `cclhm0081-docencia/SKILL.md`.
+pedagógicas e convenções editoriais, consultar a skill geral `docencia`
+em `~/.claude/skills/docencia/SKILL.md`.
