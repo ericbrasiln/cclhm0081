@@ -1,0 +1,309 @@
+---
+title: "Aula 7: Formação dos Estados Nacionais da América Latina"
+date: "2026-04-23"
+date-format: full
+lang: pt-br
+format:
+  revealjs:
+    theme: [default, ../custom.scss]
+    slide-number: true
+    incremental: false
+    chalkboard:
+      buttons: true
+    footer: "Eric Brasil | <a href=https://ericbrasil.com.br/contact/>Entre em contato</a> | CCLHM0081 — História da América Independente"
+    logo: https://raw.githubusercontent.com/ericbrasiln/cclhm0081/63cc875c152f361a14f723efbe6bd161f5aaf8b6/banner_logos_hist.png
+author:
+  - name: Eric Brasil
+    orcid: 0000-0001-5067-8475
+toc: false
+---
+
+## {.center}
+
+![Acesse a apresentação](../imgs/qrc_aula7.png)
+
+---
+
+## Da Independência ao Estado Nacional {.center}
+
+- Aula 6: **como** as colônias se emanciparam
+- Aula 7: **o que veio depois** — e por que tardou a vir
+
+::: notes
+A aula de hoje parte do ponto onde a aula passada terminou. Mäder e Prado & Pellegrino nos mostraram os processos de Independência — as campanhas militares, os projetos de nação, o debate historiográfico sobre se foram ou não revoluções. O ponto de partida de hoje é outro: assumida a emancipação política, por que os Estados nacionais tardaram tanto a se constituir? Esse deslocamento é importante porque mostra que Independência e Estado Nacional são *duas coisas diferentes*. Wasserman abre o texto com uma frase de Halperín Donghi: "Esperava-se que, das ruínas desse regime colonial, surgisse uma nova ordem... Mas a nova ordem tardava a nascer." É essa demora que queremos entender.
+:::
+
+---
+
+## Texto-base da aula {.center}
+
+> WASSERMAN, Claudia. **A formação do Estado Nacional na América Latina: as emancipações políticas e o intrincado ordenamento dos novos países.** In: *História da América Latina: cinco séculos (temas e problemas)*. 3. ed. Porto Alegre: Editora da UFRGS. Cap. 5, pp. 177-214.
+
+---
+
+## Tese central de Wasserman {.center}
+
+A formação do Estado Nacional latino-americano resulta de **dois processos indissociáveis**:
+
+| Processo | Caráter |
+|---|---|
+| Internacionalização do capitalismo | econômico-social |
+| Emancipação das colônias ibéricas | político-militar |
+
+::: notes
+A tese fundamental de Wasserman está logo na primeira página: a formação do Estado nacional na América Latina corresponde a dois processos indissociáveis — a internacionalização do modo de produção capitalista e as emancipações políticas das colônias ibéricas. O primeiro processo tem caráter econômico-social; o segundo, político-militar. E o vínculo entre eles está justamente na sua articulação: não se pode compreender um sem o outro. Isso é importante porque ela recusa tanto a leitura estritamente política ("foram guerras de independência que fundaram os Estados") quanto a leitura estritamente econômica ("o capitalismo mundial determinou tudo"). Os dois processos são simultâneos e se condicionam.
+:::
+
+---
+
+## Por que o modelo europeu não serve? {.center}
+
+- **Europa**: capitalismo consolidado → burguesia → Estado nacional
+- **América Latina**: emancipação política **antes** do capitalismo consolidado
+- Ausência de: mercado interno, burguesia nacional, identidade prévia
+
+::: notes
+A historiografia latino-americana inspira-se no modelo europeu de formação do Estado nacional. Mas os autores sempre encontram grande dificuldade em identificar os ordenamentos pós-revolucionários como partes do processo de organização político-administrativa da América Latina. Frequentemente, tratam a formação do Estado nacional latino-americano como um caso tão específico e diverso dos modelos europeus que não conseguem ultrapassar a verificação de "deformações" ou "incompletudes". Wasserman nos propõe outra chave: não se trata de deformação, trata-se de um processo histórico diferente. O continente europeu foi pioneiro no desenvolvimento do capitalismo, e é natural que seus Estados tenham servido de modelo — mas isso não significa que a América Latina tenha simplesmente "falhado" em reproduzi-los. A pergunta correta é: que tipo de Estado e que tipo de capitalismo emergiram aqui?
+:::
+
+---
+
+## O problema central {.center}
+
+## Faltava um *elemento aglutinador* {.center}
+
+Uma **comunidade de interesses** capaz de atuar no plano político — e uma **identidade nacional** que a sustentasse.
+
+::: notes
+"Elemento aglutinador" é uma expressão central de Wasserman no texto. Ela se refere à combinação de duas coisas: uma base econômica comum (mercado interno, classe com interesses nacionais e não apenas regionais) e uma base cultural comum (sentimento de pertencimento a uma comunidade nacional). Nos países europeus, esse elemento aglutinador se forjou durante séculos — a idioma, religião, raça comuns, a formação de mercados internos, a ascensão da burguesia. Na América Latina, Torres Rivas observa que a conquista e a colonização forjaram uma unidade "a partir do poder colonial", por mais de duzentos anos — uma extensa comunidade de idioma, religião e raça. Mas isso foi uma ordem política construída sobre descontinuidades econômicas, geográficas, culturais e sociais: "uma nação atada por cima e solta por baixo". As Independências quebraram a atadura de cima; não construíram nada por baixo.
+:::
+
+---
+
+## Protonacionalismo popular {.center}
+
+| Europa | América Latina |
+|---|---|
+| Comunidade de pertencimento **prévia** ao Estado | **Ausente** |
+| Hobsbawm: religião, etnia, língua | — |
+| Identidade popular | Identidade de elite |
+
+::: notes
+Hobsbawm (1990, *Nações e nacionalismo desde 1780*) cunha o conceito de "protonacionalismo popular" para designar essa consciência difusa de pertencimento a uma entidade política durável, que antecede o Estado nacional moderno. Ele lista quatro critérios: religião, etnia, língua e, o mais decisivo, "consciência de pertencer ou ter pertencido a uma entidade política durável". Na América Latina hispânica, esses critérios não operam do mesmo modo. A religião católica era comum à metrópole e à colônia; a língua castelhana também; a etnia era plural e fragmentada. E a tal consciência de pertencimento era, quando existia, uma consciência de pertencimento *local* — à província, à cidade, à comunidade indígena — e não à nação que viria a ser criada. Benedict Anderson, no famoso *Comunidades Imaginadas* (1989), acrescenta uma observação aguda: o fato de os criollos se autodenominarem "americanos" não indicava vaidade alguma, mas simplesmente a "fatalidade do nascimento extra-europeu". Era uma identidade *residual*, não afirmativa.
+:::
+
+---
+
+## A elite *criolla* e o poder {.center}
+
+- Ideias de Independência: **pré-nacionais**
+- Poder **local ou regional** — não nacional
+- Economia voltada **para fora** — não há mercado interno a defender
+- **Revolução pelo alto**: medo das massas (Tupac Amaru, Haiti)
+
+::: notes
+Para a elite criolla, as ideias de Independência tinham um caráter pré-nacional. A ideia de nação não tinha maior significado para a grande maioria da população e tampouco para os proprietários de terras, que estavam limitados geograficamente à área que controlavam. O poder político tinha caráter local ou regional e esse poder não representava qualquer sentimento de nacionalidade. Além do mais, suas ligações econômicas eram realizadas preferencialmente com o exterior, o que determinava a inexistência de um mercado interno a ser defendido. Quando envolvem-se nas guerras pela independência e Estados-nações acabam proclamando suas lealdades, estão defendendo os seus interesses contra uma elite peninsular — mas também concretizando uma revolução "pelo alto", devido ao temor de rebeliões como as de Tupac Amaru II no Peru (1780-1781) e sobretudo a do Haiti (1791-1804), que tinha colocado o medo no coração das elites escravocratas de toda a América. Isso ajuda a explicar por que as Independências hispano-americanas foram, estruturalmente, tão conservadoras.
+:::
+
+---
+
+## O resultado territorial {.center}
+
+- **17 repúblicas** a partir de 4 vice-reinos
+- Limites = divisões administrativas coloniais
+- Divisões **arbitrárias decretadas pelo alto**
+- Sonho bolivariano da *nação hispano-americana*: fracasso
+
+::: notes
+Formaram-se dezessete repúblicas, cujo limite territorial era dado pela unidade administrativa, comercial ou militar anteriores ao processo. Eram divisões arbitrárias decretadas pelo alto, desde o período colonial. O insucesso das tentativas de unificação, como a ideia bolivariana de Grã-Colômbia, foi determinado pelo fato de inexistir uma ideia nacional ou identidade de interesses anterior às guerras de Independência. Os processos de emancipação simplesmente confirmaram os limites territoriais do período colonial e até criaram novas divisões internas. Em muitos casos, como no Rio da Prata, a fragmentação se aprofundou depois da independência: Alto Peru, Paraguai, Uruguai se separaram da antiga unidade virreinal. A delimitação territorial dos novos Estados se deu num movimento político-militar de longa duração, o que revela a fragilidade social dos processos de Independência latino-americanos.
+:::
+
+---
+
+## A fase da *anarquia* (c. 1820-1850) {.center}
+
+Não é desordem — é **transição** entre formas produtivas diversas até o predomínio do capitalismo.
+
+*(Cueva, 1977)*
+
+::: notes
+A historiografia latino-americana consagrou o termo "anarquia" para designar o período que se segue às lutas pela Independência. Agustín Cueva (1977) oferece a definição mais útil: "a fase denominada de 'anarquia', que não é outra coisa que o tormentoso caminho que nossas formações sociais tiveram que recorrer até constituir seus Estados nacionais, corresponde em termos gerais ao desenvolvimento de uma estrutura que, partindo de uma situação de equilíbrio instável de diversas formas produtivas, chega a uma situação de predomínio relativamente consolidado do modo de produção capitalista". Ou seja: anarquia não é desordem pura, é o período de transição em que o ordenamento anterior foi destruído e o novo ainda não se consolidou. É importante fugir das leituras reacionárias dessa fase — Sarmiento em 1852 falava em "barbárie continental"; Lambert em 1979, em "falta de maturidade das sociedades hispano-americanas"; Chaunu em 1979, em "mentalidade apolítica inerente ao temperamento latino". Tudo isso são ecos de uma historiografia liberal que naturaliza hierarquias e projeta o europeu como o normal.
+:::
+
+---
+
+## Três problemas estruturais {.center}
+
+1. **Escassez de capitais** (fuga metálica, inadimplência)
+2. **Demanda retraída** nos mercados externos
+3. **Queda de preços** dos produtos primários
+
+::: notes
+Nos anos posteriores às guerras de Independência, particularmente na segunda e terceira décadas do século XIX, houve uma fuga de capitais importante, caracterizada pela saída dos metais preciosos, sobretudo pelas mãos dos espanhóis que fugiram assustados com a instabilidade política dos novos Estados e devido aos tratados comerciais impostos pelos ingleses, que garantiam a liberdade de comércio. A estagnação das exportações foi a principal causa do desequilíbrio econômico dos novos países. Halperín Donghi (1991) apresenta números importantes: a prata sofreu uma queda de 6% em relação ao ouro; o couro do Rio da Prata, o café e o açúcar caíram em aproximadamente 30%; o tabaco baixou 50%. Três problemas atingiram a economia latino-americana: a escassez de capitais necessários para implementar o volume a ser exportado, a disponibilidade de mercados externos (problemas de demanda) e a queda do preço no mercado mundial. O resultado: a América Latina passava por uma situação econômica dramática. Sem capitais estrangeiros, sem demanda externa, sem preços competitivos, não havia como financiar os ordenamentos estatais.
+:::
+
+---
+
+## Militarização e caudilhismo {.center}
+
+- Militares como **árbitros** entre frações da elite
+- Sem "espírito de corpo"
+- **Parte das frações** da classe dominante em armas
+
+::: notes
+A penúria e o desgaste econômico dos novos países eram coetâneos a uma situação política deplorável. As dificuldades em encontrar um substrato econômico para os novos países refletiam-se nas relações de poder instáveis e violentas. A militarização terminou por dominar o cenário latino-americano. Os militares funcionavam, algumas vezes, como árbitros entre frações da classe dominante que tentavam em cada país impor sua hegemonia e também serviam para neutralizar conflitos em países cuja economia havia se deteriorado totalmente depois das guerras. Essa função arbitral dos militares frequentemente não funcionou, sobretudo porque eles ainda não possuíam "espírito de corpo" e formavam parte de frações da classe dominante, defendendo em armas seus interesses particulares. Daí o fenômeno do caudilhismo: Juan Manuel de Rosas (Argentina), Santa Anna (México), Diego Portales (Chile). O caudilho é um líder regional armado, enraizado em relações pessoais de lealdade e poder — e é também uma fração da elite que disputa em armas o controle dos nascentes Estados.
+:::
+
+---
+
+## Liberais × Conservadores {.center}
+
+| | **Liberais** | **Conservadores** |
+|---|---|---|
+| Modelo | Federalismo (EUA) | Monarquia / centralização (Inglaterra) |
+| Propriedade | Individual, mercado | Corporativa, Igreja, comunal |
+| Estado | Laico | Católico |
+| Economia | Capitalismo exportador | Tradição colonial |
+
+::: notes
+Ao longo do século XIX houve alternância de ambientes liberais e conservadores. Os liberais inspiravam-se no modelo norte-americano (no México, eram chamados "yorquinos"). Os conservadores se inspiravam na Inglaterra (no México, "escoceses"). Essa divisão não é apenas ideológica: Frank Safford (1991) observa que não é possível dividir liberais e conservadores por função econômica — eram frações da mesma classe dominante. Sua diferença estaria mais em uma "origem regional": indivíduos educados nas grandes capitais teriam ethos mais aristocrático e tendência ao conservadorismo; os provincianos periféricos, limitados financeiramente, ocupavam posição social mais periférica e tendiam ao liberalismo. Ricaurte Soler (1981) oferece outra leitura, mais econômica: conservadores baseavam seu poder em relações sociais e formas de propriedade pré-capitalistas; liberais empenhavam-se no desenvolvimento capitalista e na destruição da antiga ordem. Os liberais são portadores de um projeto de mudança social que previa a destruição dos elementos de sobrevivência das sociedades coloniais. Mas Wasserman insiste: não é uma disputa *de classe*, é uma disputa *dentro* da classe dominante sobre o ritmo e a forma da transformação capitalista.
+:::
+
+---
+
+## Cinco casos exemplares {.center}
+
+| País | Característica |
+|---|---|
+| México | Independência pelo alto; conservadorismo |
+| Argentina | Caudilhismo; hegemonia portenha |
+| Chile | Estabilidade precoce; êxito militar |
+| Peru/Bolívia | Isolamento; desarticulação |
+| América Central | Fragmentação |
+
+::: notes
+Wasserman apresenta casos exemplares para ilustrar a diversidade das trajetórias. MÉXICO: Independência como restauração conservadora — Iturbide, Santa Anna, disputas entre yorquinos (liberais) e escoceses (conservadores), perda do Texas (1836), guerra com os EUA (1845-1848), perda de metade do território. Só em 1856 os liberais chegam ao poder com Juárez. ARGENTINA: palco de lutas intestinas ligadas ao caudilhismo (Guazzelli, 1990). Confronto entre Buenos Aires (portenhos unitaristas) e províncias do interior (federalistas). Rosas (1829-1852), depois Urquiza, depois Mitre. Apenas em 1862 Mitre consolida a unidade. CHILE: país "sui generis" — estabilidade precoce graças à autoridade de Diego Portales e à Constituição de 1833, autoritária e presidencialista. Venceu a Guerra do Pacífico (1879-1884) e consolidou-se. PERU E BOLÍVIA: as Independências não modificaram a ordem colonial. Potosí decai. Abolição da mita derruba a mineração. Ambos derrotados pelo Chile em 1879-1884. AMÉRICA CENTRAL: República Federal (1821-1839) se desintegra. Guatemala, El Salvador, Honduras, Nicarágua, Costa Rica se fragmentam. Só Costa Rica encontra estabilidade precoce com o café.
+:::
+
+---
+
+## As Reformas Liberais (1850-1880) {.center}
+
+**Conteúdo:**
+
+- Fim dos dízimos e alcabalas
+- Nacionalização dos bens do clero
+- **Liberação das terras comunais indígenas**
+- Criação de mercado de terras e de trabalho
+
+::: notes
+A partir de meados do século XIX, com força na década de 1870, os liberais vencem em quase toda a América Latina e implantam as chamadas "reformas liberais" (Cardoso & Pérez Brignoli, 1984, chamam de "organização nacional"). Seu conteúdo é relativamente uniforme pelo subcontinente. Abolição dos dízimos e alcabalas (impostos coloniais). Nacionalização dos bens do clero — em muitos países, a Igreja era o maior latifundiário. Liberação das propriedades comunais indígenas, que eram vistas como "improdutivas" do ponto de vista da atividade primário-exportadora e como "sobrevivências" do período colonial. Adoção de Constituições liberais, embora Wasserman note que essas Constituições foram "frequentemente formais e não eram respeitadas na prática". O resultado material das reformas foi duplo: constituição de um mercado de terras apropriadas às culturas de exportação, e transformação das relações de produção em relações plenamente capitalistas — isto é, criação de um mercado de trabalho livre, de trabalhadores destituídos dos meios de produção. Paralelamente, modernização da infraestrutura: ferrovias, bancos, sistemas financeiros.
+:::
+
+---
+
+## Exemplos concretos {.center}
+
+- **México**: Lei Juárez (1855), Lei Lerdo (1856-57), Nacionalização dos Bens do Clero (1861)
+- **Guatemala**: extinção dos *ejidos* (Rufino Barrios, 1873-1885); Regulamento dos Jornaleiros (1877)
+- **Peru**: Castilla (1845-62) — abolição da escravidão + *coolies* chineses
+
+::: notes
+No México, a derrota de Santa Anna abre caminho para as reformas liberais. Lei Juárez (1855) despoja os eclesiásticos dos antigos privilégios jurídicos. Lei Lerdo (1856-57) transforma-se em instrumento de apropriação dos bens do clero e também de expropriação das comunidades indígenas — este é um ponto crucial: a mesma lei que atinge a Igreja atinge as comunidades indígenas. Em 1861, Juárez completa com a Lei de Nacionalização dos Bens do Clero. A Constituição Liberal de 1857. Em seguida, invasão francesa e Maximiliano (1862-1867). Juárez retorna, depois Porfirio Díaz (1876-1910), que dissolve completamente as comunidades indígenas. Na Guatemala, Justo Rufino Barrios (1873-1885) extingue os ejidos (terras comunais) e promulga o Regulamento dos Jornaleiros (1877), que faculta às autoridades locais forçar os índios comuneiros ao trabalho nas fazendas de café. No Peru, Ramón Castilla (1845-1862) abole a escravidão em 1854 e elimina os tributos indígenas — mas promove a imigração chinesa dos coolies para as lavouras de algodão e açúcar. Em todos os países, o padrão é o mesmo: desmontagem das formas coloniais de propriedade comunal e eclesiástica para criar mercado de terras; criação de mecanismos coercitivos para criar mercado de trabalho.
+:::
+
+---
+
+## A violência das reformas {.center}
+
+- **Argentina**: Campanha do Deserto (Roca, 1878-85)
+- **Chile**: extermínio dos *araucanos*
+- **México**: dissolução das comunidades (Porfirio Díaz)
+
+> "Entre 1850 e 1870 houve mais usurpações de terras das comunidades indígenas do que em toda a vida independente dos países."
+
+(HALPERÍN DONGHI, 1991, p. 39)
+
+::: notes
+A liberação das terras comunais não foi um processo pacífico — foi uma guerra sistemática contra as populações indígenas. Campanha do Deserto: o general Julio Roca, entre 1878 e 1885, dirige uma campanha militar que extermina as populações indígenas dos pampas argentinos, liberando terras para as estâncias ovinas e a pecuária de exportação. No sul do Chile, campanhas análogas contra os araucanos. No México, a política de Porfirio Díaz completa a expropriação das comunidades indígenas iniciada pelas leis de Juárez. Halperín Donghi oferece o dado síntese que Wasserman cita: entre 1850 e 1870 ocorreram mais usurpações de terras das comunidades indígenas do que em toda a vida independente anterior dos países, e incluso antes. As reformas legais minaram a base jurídica da existência das comunidades indígenas. O capitalismo latino-americano, portanto, nasceu sobre uma violência específica: a violência contra as populações indígenas. Isso precisa ser dito com todas as letras: as reformas liberais foram uma segunda conquista, uma reedição da Conquista ibérica do século XVI, agora sob bandeira republicana.
+:::
+
+---
+
+## A *via oligárquica* {.center}
+
+**Agustín Cueva** (1977): o capitalismo latino-americano
+
+- **NÃO** se implantou por revolução democrático-burguesa
+- Nasceu subsumido à **divisão internacional do trabalho**
+- Conduzido pelas **oligarquias primário-exportadoras**
+
+::: notes
+O conceito de "via oligárquica" é de Agustín Cueva (1977), que Wasserman mobiliza como chave interpretativa central. A via oligárquica designa a forma específica pela qual o modo de produção capitalista se implantou na América Latina: não através de uma revolução democrático-burguesa como na França ou na Inglaterra, nem através de uma revolução industrial autônoma como nos EUA, mas através da vitória política das oligarquias primário-exportadoras sobre as frações mais atrasadas das classes dominantes. Essas oligarquias subordinam a economia à divisão internacional do trabalho como exportadoras de produtos primários, estreitam vínculos com o capital monopolista internacional, recebem polpudos empréstimos para infraestrutura, aparelham a estrutura estatal para servir aos negócios de importação e exportação. E, crucialmente: embora tenham "liberado" terras para as culturas de exportação, mantiveram sob seu domínio os trabalhadores por meio de vários graus de dependência pessoal — desde semi-servidão até escravidão por dívidas. Ou seja: um capitalismo agrário, dependente, sob hegemonia oligárquica, assentado sobre relações de trabalho não plenamente livres. Esse é o desenho do Estado nacional latino-americano na virada para o século XX.
+:::
+
+---
+
+## A consolidação (1880+) {.center}
+
+- Estabilidade social, econômica e política
+- Inserção plena no **capitalismo mundial**
+- Função **subordinada** no concerto internacional
+
+::: notes
+A partir de 1880, aproximadamente, abre-se uma época de estabilidade social, econômica e política na América Latina. Essa estabilidade foi obtida graças ao domínio que as oligarquias primário-exportadoras conseguiram exercer sobre grupos periféricos das classes dominantes, cujos produtos não eram adequados ao funcionamento de uma economia de exportação, e também sobre as classes populares. O Estado nacional da América Latina consolida-se com a plena inserção das economias latino-americanas no modo de produção capitalista. As principais tarefas realizadas pelas oligarquias para a implantação do capitalismo foram a constituição da propriedade capitalista dos meios de produção e a criação de um mercado de trabalho livre, ou seja, sem meios de subsistência. No entanto, a situação concreta dos países latino-americanos determinou que essas tarefas não fossem realizadas sem a destruição completa das relações sociais anteriores. O capitalismo latino-americano não se implantou mediante uma revolução democrático-burguesa — nasceu subsumido à divisão internacional do trabalho, que determinava uma função subordinada aos países latino-americanos no concerto internacional. Essa é a marca fundadora dos Estados Nacionais latino-americanos: nascem como Estados periféricos de um sistema capitalista mundial centrado na Europa e, a partir do fim do século XIX, nos EUA.
+:::
+
+---
+
+## Cuba, 1898: a última Independência {.center}
+
+- Guerra pela Independência cubana (1895-1898)
+- Intervenção dos **EUA** (1898)
+- **Emenda Platt** (1901): direito de intervenção norte-americana
+
+::: notes
+A consolidação dos Estados Nacionais latino-americanos coincide, não por acaso, com a última luta político-militar pela Independência colonial: a de Cuba. A Independência cubana foi declarada em novembro de 1897, dois anos depois da morte de Martí. Em janeiro de 1899, a bandeira americana era hasteada em Cuba. Em 1901, graças à Emenda Platt, ficou assegurado aos Estados Unidos o direito de intervir em Cuba toda vez que fosse necessário "garantir a vida, a propriedade e a liberdade individual" — leia-se, "garantir os interesses norte-americanos". A Emenda Platt é o símbolo de uma nova configuração: já não é o colonialismo europeu, é o imperialismo norte-americano. Cuba torna-se, no momento da sua independência formal, protetorado de fato dos EUA. É o nascimento do imperialismo norte-americano na América Latina. A partir daí, a história do subcontinente será escrita sob essa nova sombra.
+:::
+
+---
+
+## José Martí, *duas batalhas* {.center}
+
+> "Impedir a tempo, com a independência de Cuba, que os Estados Unidos se alastrem pelas Antilhas e caiam, com essa força a mais, sobre nossas terras de América."
+
+(MARTÍ, 1991, p. 252, *apud* WASSERMAN, 2010, p. 213)
+
+::: notes
+José Martí é a figura central dessa virada. Em sua última carta a Manuel Mercado, escrita na véspera de sua morte em combate (1895), Martí explicita seu diagnóstico: Cuba travava duas batalhas ao mesmo tempo. A primeira, contra o velho sistema colonial espanhol — a batalha do XIX. A segunda, contra o nascente imperialismo norte-americano — a batalha do XX. "Martí compreendia a necessidade de lutar contra a interferência norte-americana, mas não tinha a possibilidade concreta de realizar aquela tarefa, porque no seu tempo lhe exigiam mais enfaticamente a tarefa do século XIX, da luta anticolonialista." Lênin, em *Imperialismo, fase superior do capitalismo* (1979), enxerga o mesmo movimento desde a Europa: a guerra hispano-americana e a guerra anglo-bôer são expressões dos reordenamentos imperialistas do fim do século XIX. A história atravessa José Martí — ele morre na transição entre dois mundos.
+:::
+
+---
+
+## A virada do século {.center}
+
+> "A idade contemporânea começa justamente alguns anos antes de terminar o século XIX, com a **última batalha pela Independência colonial vencida** e a **primeira batalha perdida contra o imperialismo**."
+
+(WASSERMAN, 2010, p. 214)
+
+::: notes
+Essa é a tese mais ousada do texto — e a forma como Wasserman fecha o capítulo. Em uma periodização especificamente latino-americana, o século XIX não termina em 1900 nem em 1914. Ele termina na virada 1898-1901, quando se fecham duas trajetórias simultâneas: a das Independências nacionais (que começaram em 1776 nos EUA e se encerram em 1898 em Cuba) e a do imperialismo (que começa, para a América Latina, em 1898 com a Guerra Hispano-Americana). A idade contemporânea latino-americana começa ali — marcada por essa dupla face: libertação formal do colonialismo europeu, subordinação real ao imperialismo norte-americano. É essa dupla face que vamos estudar ao longo do semestre. As abolições da escravidão, as lutas pela cidadania, os populismos, as revoluções do século XX — tudo será pensado na chave dessa contradição fundante: Estados formalmente independentes, materialmente dependentes; populações formalmente livres, materialmente subordinadas.
+:::
+
+---
+
+## Para a discussão {.center}
+
+> Se o modelo europeu de formação do Estado Nacional não se aplica à América Latina, como entender o que aconteceu aqui — sem cair nem na ideia de "atraso" nem no elogio fácil da "via oligárquica"?
+
+Vamos debater a partir do texto.
+
+---
+
+## Bibliografia da aula {.center}
+
+- **WASSERMAN, Claudia.** A formação do Estado Nacional na América Latina: as emancipações políticas e o intrincado ordenamento dos novos países. In: *História da América Latina: cinco séculos (temas e problemas)*. 3. ed. Porto Alegre: Editora da UFRGS, pp. 177-214.
+
+**Complementar**
+
+- PRADO, Maria Lígia Coelho. "Sonhos e desilusões nas independências hispano-americanas". In: *América Latina no Século XIX: Tramas, Telas e Textos*. São Paulo: Edusp, 2ª ed.
