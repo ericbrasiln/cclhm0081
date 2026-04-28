@@ -1,20 +1,27 @@
 ---
-title: "Era das Abolições I: Caribe"
-subtitle: "CCLHM0081 - História da América Independente"
-author: Eric Brasil
-date: today
+title: "Aula 8: Era das Abolições I — Caribe"
+date: "2026-04-30"
+date-format: full
 lang: pt-br
 format:
-  revealjs: 
-    theme: black
+  revealjs:
+    theme: [default, ../custom.scss]
     slide-number: true
     incremental: false
-    chalkboard: 
+    chalkboard:
       buttons: true
-    preview-links: auto
-    #logo: logo.png
-    #css: styles.css
-    footer: "<a href=https://ericbrasil.com.br/>Eric Brasil</a> | <a href=https://ericbrasil.com.br/contact/>Entre em contato</a>"
+    footer: "Eric Brasil | <a href=https://ericbrasil.com.br/contact/>Entre em contato</a> | CCLHM0081 — História da América Independente"
+    logo: https://raw.githubusercontent.com/ericbrasiln/cclhm0081/63cc875c152f361a14f723efbe6bd161f5aaf8b6/banner_logos_hist.png
+author:
+  - name: Eric Brasil
+    orcid: 0000-0001-5067-8475
+toc: false
+---
+
+## {.center}
+
+![Acesse a apresentação](../imgs/qrc_aula8.png)
+
 ---
 
 ## A Era das Abolições no Caribe {.center}
