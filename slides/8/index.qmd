@@ -38,6 +38,13 @@ toc: false
 1. **1807** — Abolição do tráfico transatlântico de escravos pelo Parlamento britânico.
 2. **1816** — Revolta escrava na Barbados (Bussa's Rebellion).
 3. **1823** — Revolta escrava na Demerara (Guiana Britânica).
+:::
+
+---
+
+## Os caminhos da abolição no Caribe britânico {.center}
+
+::: {.incremental}
 4. **1831–1832** — Grande revolta na Jamaica (Baptist War / Christmas Rebellion).
 5. **1833** — *Slavery Abolition Act* — abolição com sistema de Aprendizado.
 6. **1838** — Fim do Aprendizado — abolição definitiva.
@@ -62,9 +69,8 @@ toc: false
 
 ---
 
-## O fim do tráfico e o "modelo Trinidad" {.center}
+## O fim do tráfico (1805) e o "modelo Trinidad" {.center}
 
-- Em 1805, o tráfico é proibido para Trinidad — dois anos antes da abolição definitiva.
 - Campanha liderada por George Canning: Trinidad como modelo de **"colonização crioula"** — soldados dos regimentos de negros das Índias Ocidentais, africanos livres, trabalhadores da Venezuela, ameríndios, imigrantes asiáticos.
 - A ilha se torna **Colônia da Coroa** (*Crown Colony*): controle rígido do governo metropolitano, sem assembleia legislativa eleita localmente.
 
@@ -85,6 +91,10 @@ Quatro pontos centrais:
 
 > "O processo prezou pelo respeito pela ordem, processos legais e direitos de propriedade."  
 > — Eric Foner, 1988, p. 33
+
+---
+
+## Crítica ao processo de abolição {.center}
 
 - Fazendeiros permaneceram com o **controle sobre as terras** e, em muitos casos, com o **poder político** nas colônias — e ainda foram indenizados.
 - O sistema de Aprendizado visava "suavizar a transição" e "remoldar a cultura dos ex-escravos" (Foner, 1988, p. 36–37).
@@ -123,6 +133,11 @@ Quatro pontos centrais:
 - Indianos eram encaminhados para *plantations* sob contrato mínimo de cinco anos.
 - Mantiveram **coesão cultural e práticas endogâmicas** — evitaram crioulização acentuada.
 - Para as autoridades coloniais, isso era **vantajoso**: diminuía a possibilidade de alianças com os negros.
+
+---
+
+## Imigração indiana: segregação e tensão {.center}
+
 - A tensão entre indianos e negros foi marca da sociedade de Trinidad no século XIX.
 - Em Port-of-Spain, porém, a presença indiana foi pequena até o início do século XX.
 
@@ -135,6 +150,13 @@ Segundo Bridget Brereton:
 - **Pessoa de cor** (*coloured*): ascendência mestiça europeia e africana, compleição clara.
 - **Negro** (*black*): ascendência africana sem mistura ou predominantemente africana.
 - **Africano**: pessoa nascida na África.
+
+---
+
+## Sociedade Crioula e categorias raciais {.center}
+
+Segundo Bridget Brereton:
+
 - **Crioulo** (*Creole*): nascido em Trinidad de ascendência europeia e africana.
 - **French Creole**: ascendência europeia (normalmente francesa), considerado "branco puro".
 
@@ -164,8 +186,6 @@ Segundo Bridget Brereton:
 ---
 
 ## Participação negra antes da abolição {.center}
-
-O autor demonstra que a presença negra no carnaval **anterior à abolição** é documentável:
 
 - **Regiments** (1797–1830): grupos negros com estrutura militarizada, rei, rainha, tambores de origem africana — desfilavam no período natalino.
 - Regulamentações policiais logo após a conquista britânica (1797) já **controlavam estritamente** danças e reuniões negras.
@@ -228,12 +248,21 @@ Segundo Lewis Osborn Inniss (1932), o Canboulay de antes de 1858:
 
 - O carnaval pós-abolição era constituído por **trabalhadores urbanos negros**, moradores das *Barracks* de Port-of-Spain.
 - Ocupar as ruas nos dias de carnaval = **representação pública de críticas ao passado escravista** e às práticas racistas do presente.
-- Camadas médias negras se afastavam do carnaval das ruas — buscando incorporar valores da branquitude europeia (paralelo com elites crioulas de Luanda e imprensa negra paulista).
+
+---
+
+## Carnaval como espaço de crítica e afirmação {.center}
+
+- Camadas médias negras se afastavam do carnaval das ruas — buscando incorporar valores da branquitude europeia 
 - Setores médios só passam a participar do carnaval a partir de 1900.
 
 ---
 
-## Abolição nas colônias francesas do Caribe {.center}
+# Abolição nas colônias francesas do Caribe {.center}
+
+---
+
+## {.center}
 
 - A abolição na Martinica e Guadalupe seguiu um caminho **distinto** do Caribe britânico.
 - A **Revolução Francesa** (1789) trouxe a primeira abolição (1794), mas Napoleão **restabeleceu** a escravidão em 1802.
@@ -247,6 +276,10 @@ Segundo Lewis Osborn Inniss (1932), o Canboulay de antes de 1858:
 > "Cegos, eles ainda pesam numa mesma balança as barricas de açúcar contra a liberdade de 250.000 escravos, e acham a liberdade muito leve."  
 > — Adolphe Gatine, 1844
 
+---
+
+## A "arca santa" do domínio senhorial {.center}
+
 - O **direito de alforriar** era a "arca santa" do poder senhorial — prerrogativa exclusiva dos proprietários.
 - Até a década de 1820, as alforrias estavam **praticamente interditadas** na Martinica.
 - A **liberdade de savana** (irregular, sem título legal) era a forma mais acessível de liberdade — mas mantinha a **dependência** do liberto em relação ao senhor-patrono.
@@ -259,6 +292,13 @@ Segundo Lewis Osborn Inniss (1932), o Canboulay de antes de 1858:
 1. **1831** — Extinção do imposto sobre alforrias; início da regularização dos *patrocinados*.
 2. **1832** — Ordenação Real sobre alforrias: todo *livre de facto* pode solicitar título oficial → **presunção de liberdade**.
 3. **1833** — Lei de 24 de abril: direitos civis e políticos aos libertos, independentemente da cor.
+:::
+
+---
+
+## Monarquia de Julho (1830–1848): mudanças legislativas {.center}
+
+::: {.incremental}
 4. **1836** — Lei de 29 de abril: regulamenta sobrenomes dos libertos nas colônias.
 5. **1839** — Ordenação de 11 de junho: escravo que casa com pessoa livre torna-se **"livre de direito"**.
 6. **1845** — **Lei Mackau**: reconhece escravos como "pessoas não livres", institui o *resgate forçado*.
@@ -270,6 +310,11 @@ Segundo Lewis Osborn Inniss (1932), o Canboulay de antes de 1858:
 
 - Delegados coloniais (Barão de Cools, Félix Patron) defendiam que a alforria era **matéria exclusiva da colônia**.
 - Argumentavam que a liberdade seria um **"fardo"** para os escravos — e para a "ordem pública".
+
+---
+
+## A resistência dos colonos {.center}
+
 - A **presunção de liberdade** era vista como perigosa: os escravos poderiam "arrastar seus senhores diante dos tribunais".
 - Paradoxo: senhores diziam sentir o "peso" da patronagem, mas queriam mantê-la como **instrumento de controle**.
 
@@ -280,61 +325,13 @@ Segundo Lewis Osborn Inniss (1932), o Canboulay de antes de 1858:
 - O **Édito de 1685** (Code Noir) regulava a escravidão nas colônias francesas.
 - **Art. 55**: senhores com mais de 20 anos poderiam alforriar seus escravos "sem prestar razão".
 - **Art. 47**: proibia a **venda separada** de marido, mulher e filhos impúberes sob o mesmo senhor.
+
+---
+
+## O Code Noir (1685) e a alforria {.center}
+
 - Contudo: **Art. 31**: escravos não podiam participar de processos civis.
 - O Código Negro seria **reinterpretado** nas décadas de 1830–1840 como instrumento de **liberdade**.
-
----
-
-## O caso Virginie (Guadalupe, 1837–1844) {.center}
-
-- **Virginie**, escrava doméstica de madame de Bellecourt, foi alforriada por testamento em 1834.
-- Seus dois filhos pequenos (Simon e Amélie) **permaneceram escravos** dos herdeiros.
-- Virginie lutou nos tribunais pela liberdade dos filhos, invocando o **art. 47 do Code Noir**.
-- Em 1838, o tribunal de Guadalupe negou: não seria "venda" separar mãe alforriada dos filhos.
-- Em **1841**, a **Cour de Cassation** reverteu: *"o favor que se liga à liberdade do homem deve fazer interpretar em um sentido mais amplo as leis"*.
-
----
-
-## O "princípio da indivisibilidade da família" {.center}
-
-- A decisão no caso Virginie criou **jurisprudência**: a proibição de separação do art. 47 aplicava-se também quando a mãe era alforriada.
-- A Corte de Poitiers enunciou: era necessário **"favorecer a família entre os escravos, e conservar as crianças sob os cuidados de seus pais"**.
-- Esse princípio seria invocado em **dezenas de ações de liberdade** nas décadas de 1840.
-- Em 1847, Gatine relatou **25 famílias** da Martinica que conseguiram alforrias vitoriosas entre 1844 e 1847.
-
----
-
-## Marie Sainte Platon (Martinica, 1840–1847) {.center}
-
-- Escrava rural da **habitation Casse-Cou** (Le François, Martinica).
-- Comprou sua liberdade em 1840 (1000 francos), com "pecúlio comum" da família.
-- Permaneceram escravos: seu companheiro **François**, 9 filhos e 4 netos.
-- Dois fundamentos para a ação de liberdade:
-  - **Ordenação de 1839**: casamento com pessoa livre = "livre de direito" (casamento canônico de 1842).
-  - **Art. 47 do Code Noir**: filhos impúberes separados da mãe alforriada.
-- Tribunal de 1ª instância: **favorável** — toda a família declarada livre.
-- Corte Real da Martinica: **anulou** — casamento canônico não seria válido sem registro civil.
-
----
-
-## {.center}
-
-> "Nas normas do casamento escravo [...] ainda deveriam seguir as prescrições do Código Negro, isto é, 'nas formas observadas pela igreja'. Desse modo, um casamento canônico seria válido e suscetível de produzir o efeito."  
-> — Adolphe Gatine, defesa de Marie Sainte Platon, 1847
-
-- A **Cour de Cassation** decidiu a favor de Marie Sainte em 1847.
-- 14 pessoas — marido, filhos e netos — conquistaram a liberdade.
-
----
-
-## Catherine Léonarde: 50 anos de luta {.center}
-
-- **Lisette** (mãe, escrava "capresse") → **Catherine** (filha, batizada como "livre" em 1794).
-- Catherine e descendentes viveram como **livres de facto** por décadas, mas eram formalmente propriedade da família Cazeneuve.
-- Em **1840**, Catherine apresentou o registro de batismo ao Procurador do Rei.
-- Cazeneuve: funcionário importante do governo colonial — a luta era contra o **próprio sistema**.
-- Cour de Cassation (1845): ausência de menção ao título de alforria no batismo **não destruía** a declaração de liberdade.
-- Alforria oficial só em **novembro de 1847** — 10 pessoas da família Montalin.
 
 ---
 
@@ -342,6 +339,11 @@ Segundo Lewis Osborn Inniss (1932), o Canboulay de antes de 1858:
 
 - As mulheres — escravas e libertas — foram **protagonistas** nas ações de liberdade no Caribe francês.
 - O conceito crioulo **poto mitan** ("o pilar do meio"): mulher que sustenta sozinha seu lar e filhos.
+
+---
+
+## Mães escravas, ações de liberdade e poto mitan {.center}
+
 - Crítica de Cottias: o modelo da **família patriarcal burguesa** foi usado como critério de cidadania, excluindo mulheres pobres.
 - Cowling demonstra que as mulheres **não agiam sozinhas**: redes de parentesco, madrinhas, companheiros e advogados formavam uma teia de apoio.
 
@@ -351,11 +353,15 @@ Segundo Lewis Osborn Inniss (1932), o Canboulay de antes de 1858:
 
 - **Schoelcher**: reconhecia o valor das ações, mas defendia a **abolição imediata e geral**.
 - Em 1847: **253.514 escravos** nas colônias francesas; ~1.200 alforrias/ano por ações judiciais.
+
+---
+
+## Ação judicial × Abolição geral {.center}
+
 - Canelas demonstra que as ações de liberdade **não competiam** com a abolição geral — eram complementares:
   - Desgastavam o **domínio senhorial**.
   - Criavam **jurisprudência** que enfraquecia o sistema escravista.
   - Mostravam que os escravos **percebiam** as contradições do sistema e as exploravam.
-- Gatine: *"é sem dúvida uma grande audácia, é algo que não foi visto durante duzentos anos de escravidão colonial"*.
 
 ---
 
@@ -364,31 +370,13 @@ Segundo Lewis Osborn Inniss (1932), o Canboulay de antes de 1858:
 - **27 de abril de 1848**: Decreto de abolição da escravidão nas colônias francesas.
 - Na Martinica, a escravidão foi abolida **imediatamente** em 23 de maio de 1848 — antes do prazo legal — pela pressão dos escravos.
 - **Comissão de Abolição** presidida por Schoelcher, com participação de Gatine e Perrinon.
+
+---
+
+## Abolição de 1848 no Caribe francês {.center}
+
 - A abolição francesa, ao contrário da britânica, **não instituiu** sistema de Aprendizado.
 - Mas as lutas judiciais anteriores a 1848 já haviam **desestruturado** o sistema escravista por dentro.
-
----
-
-## Discussão: Abolição, Carnaval e Cidadania no Caribe {.center}
-
-Questões para o debate:
-
-- Como a narrativa do "carnaval branco e civilizado" servia aos interesses das elites pós-abolição?
-- De que formas a população negra de Trinidad utilizou o carnaval como **espaço de afirmação política e cidadã**?
-- Que paralelos podemos traçar entre as ações de liberdade no Caribe francês e no Brasil escravista?
-- Como as mães escravas da Martinica e Guadalupe utilizaram o **direito e a justiça** como instrumentos de liberdade? Que semelhanças e diferenças com o caso brasileiro?
-
----
-
-## Questões de apoio à leitura {.center}
-
-**Brasil (2018) — "Abolição e Carnaval"**
-
-[Questões de apoio — 7 questões](../bibliografia/apoio/brasil_2018_questoes-apoio.pdf)
-
-**Canelas (2017) — "Escravidão e liberdade no Caribe francês"**
-
-[Questões de apoio — 8 questões](../bibliografia/apoio/canelas_2017_questoes-apoio.pdf)
 
 ---
 
@@ -398,6 +386,10 @@ Questões para o debate:
 
 - BRASIL, Eric. "Abolição e Carnaval: performance e experiência social negra em Trinidad (cc. 1790-1850)". *Revista de Estudos e Pesquisas sobre as Américas*, V.12, N.3, 2018. pp. 204–227.
 - CANELAS, Letícia Gregorio. *Escravidão e liberdade no Caribe francês: a alforria na Martinica sob uma perspectiva de gênero, raça e classe (1830-1848)*. Dissertação (Mestrado) — Unicamp, 2017. Capítulo 5.
+
+---
+
+## Bibliografia da aula {.center}
 
 **Complementar:**
 
