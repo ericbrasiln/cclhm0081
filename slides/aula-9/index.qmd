@@ -1,0 +1,467 @@
+---
+title: "Aula 9: Era das Abolições II — Guerra Civil e Abolição nos EUA (1861-1865)"
+date: "2026-05-07"
+date-format: full
+lang: pt-br
+format:
+  revealjs:
+    theme: [default, ../custom.scss]
+    slide-number: true
+    incremental: false
+    chalkboard:
+      buttons: true
+    footer: "Eric Brasil | <a href=https://ericbrasil.com.br/contact/>Entre em contato</a> | CCLHM0081 — História da América Independente"
+    logo: https://raw.githubusercontent.com/ericbrasiln/cclhm0081/63cc875c152f361a14f723efbe6bd161f5aaf8b6/banner_logos_hist.png
+author:
+  - name: Eric Brasil
+    orcid: 0000-0001-5067-8475
+toc: false
+---
+
+## {.center}
+
+![Acesse a apresentação](../imgs/qrc_aula9.png)
+
+---
+
+## Objetivos da aula {.center}
+
+- Analisar a Guerra Civil estadunidense (1861-1865) e suas implicações para a abolição da escravidão.
+- Compreender o papel dos movimentos sociais — em especial dos afro-americanos — na luta pela liberdade.
+- Discutir, a partir de Drescher (2011) e Izecksohn (2017), por que e como a guerra se tornou guerra contra a escravidão.
+- Refletir, com Miranda (2015), sobre as repercussões da Guerra Civil no debate abolicionista brasileiro.
+
+---
+
+## Recapitulando: Aula 8 {.center}
+
+- Era das Abolições I — Caribe.
+- Diferentes caminhos para o fim da escravidão: emancipação britânica (1833-1838), ações de liberdade na Martinica, abolição francesa de 1848.
+- Hoje: o caso mais sangrento — os EUA.
+
+---
+
+# Parte I — O abolicionismo nos EUA antes da guerra {.center}
+
+---
+
+## Abolicionismo emerge na sociedade dos EUA {.center}
+
+- Nas décadas de 1830 e 1840, o abolicionismo nos Estados Unidos ganha força no Norte, especialmente em Massachusetts.
+- Influência de movimentos internacionais — sobretudo do Reino Unido — após a emancipação britânica (1833-1838).
+- Inovação tática: campanhas em massa, publicações, turnês de palestras, mobilização de petições.
+
+---
+
+## Mobilização abolicionista {.center}
+
+- **Sociedade Antiescravagista Americana (AAS)**, fundada logo após a Lei de Emancipação Britânica.
+- Em 5 anos: mais de 1.300 organizações locais nos estados do norte, com 100.000 membros.
+- Entre 1834 e 1840: milhões de folhetos publicados, turnês com palestras abolicionistas.
+
+---
+
+## Influência religiosa e moral {.center}
+
+- O **Second Great Awakening** impulsionou ação moral e organização política contra a escravidão.
+- William Lloyd Garrison exaltou o modelo britânico como "o maior milagre moral da época".
+- No Sul, as elites defendiam a escravidão como "benção" e "parte do plano divino" — argumentos racializados.
+
+---
+
+## Participação feminina e Gag Rule {.center}
+
+- Estratégia da petição foi **amplamente feminina**:
+  - 400.000 peticionários entre 1837 e 1838.
+  - 286.000 eram mulheres — entrada importante na esfera pública nacional.
+- **Gag Rule** (1836-1844): bloqueio das petições abolicionistas no Congresso.
+- Efeito inesperado: a oposição ao direito de petição mobilizou setores da sociedade que não eram diretamente abolicionistas.
+
+---
+
+# Parte II — Economia escravista e divisão continental {.center}
+
+---
+
+## Economia do Sul escravista {.center}
+
+- O **algodão** dominava a economia do sul: quase metade do valor das exportações dos EUA entre 1820 e 1860.
+- Mão de obra escravizada era central na produção agrícola.
+- Entre 1840 e 1860, o sul cresceu mais rápido que o norte, com infraestrutura avançada — incluindo extensa malha ferroviária.
+
+---
+
+## Comparação Sul × Norte {.center}
+
+- Embora atrás do norte e da Grã-Bretanha em industrialização, o sul tinha setores comerciais e industriais relativamente dinâmicos.
+- **Riqueza concentrada**: quase dois terços dos homens com patrimônio acima de 100.000 dólares residiam em estados escravistas.
+- O norte, povoado por milhões de imigrantes europeus a partir dos anos 1840, deslocava o equilíbrio eleitoral em sua direção a cada década.
+
+---
+
+## A "contração" — segundo Drescher {.center}
+
+> O destino da escravidão nos EUA foi *politicamente* decidido na disputa pela expansão territorial — não em função do declínio econômico do Sul.
+
+(DRESCHER, 2011, pp. 451-473)
+
+- A escravidão estadunidense **não era um sistema moribundo** quando foi mortalmente ferida.
+- Foi necessário "esmagador poder político ou militar" para encerrá-la.
+
+---
+
+## A divisão continental {.center}
+
+- A questão central: a **expansão da escravidão** para os territórios ocidentais.
+- **Compromisso de Missouri (1820)**: linha divisória 36°30′ entre estados livres e escravistas.
+- **Anexação do Texas (1845)**, **Guerra com o México (1846-1848)**, **Compromisso de 1850** — cada estágio reabre a disputa.
+
+---
+
+## {.center}
+
+![](https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/2511956/US_Slave_Free_1789-1861.0.gif?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=750)
+
+---
+
+## O eixo Texas-Caribe {.center}
+
+- Drescher destaca a dimensão **transatlântica** do debate.
+- John C. Calhoun mobilizou as dificuldades das colônias britânicas pós-emancipação para uma defesa global da escravidão.
+- A "desilusão" com a emancipação britânica e a dependência do algodão alimentaram a aposta sulista de apoio europeu em caso de secessão.
+
+---
+
+## Lei do Escravo Fugitivo (1850) {.center}
+
+- O Compromisso de 1850 incluiu uma Lei de Escravos Fugitivos mais rígida.
+- Permitia a captura de fugitivos nos estados livres do Norte.
+- Gerou revolta abolicionista e nova onda de resistência — afro-americanos e aliados brancos.
+- **Underground Railroad**: rede clandestina de fuga para o Norte e Canadá.
+
+---
+
+## {.center}
+
+![Rotas de fuga pela "Underground Railroad"](https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/3597888/23320.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=750)
+
+---
+
+## Kansas-Nebraska e Bleeding Kansas {.center}
+
+- **Lei Kansas-Nebraska (1854)**, de Stephen Douglas: cada novo território decidiria por "soberania popular".
+- Eliminou na prática o Compromisso de Missouri.
+- Resultado: violência política — "Bleeding Kansas" — e o desabamento do sistema bipartidário.
+- 1856: o senador Charles Sumner (MA) é espancado no Senado por Preston Brooks (SC).
+
+---
+
+## Dred Scott e o impasse jurídico {.center}
+
+- **Decisão Dred Scott (1857)**: a Suprema Corte declara que o Congresso não pode interferir nos direitos sulistas de propriedade nos territórios.
+- Os afro-americanos não eram nem poderiam ser cidadãos dos EUA.
+- A decisão **fechou** o caminho para qualquer compromisso legislativo.
+
+---
+
+## Dissolução do sistema de partidos {.center}
+
+- A questão da expansão da escravidão **desintegrou** o Partido Whig.
+- 1854: surge o **Partido Republicano**, com plataforma de "solo livre".
+- 1860: eleição de **Abraham Lincoln** — catalisador final da secessão.
+
+---
+
+## {.center}
+
+![Mathew Brady's Portrait of Abraham Lincoln, 1860](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Abraham_Lincoln_by_Mathew_Brady%2C_1860.tif/lossy-page1-800px-Abraham_Lincoln_by_Mathew_Brady%2C_1860.tif.jpg)
+
+---
+
+# Parte III — A Guerra Civil (1861-1865) {.center}
+
+---
+
+## Cronologia I: secessão e início (1860-1861) {.center}
+
+- **6/11/1860**: Lincoln é eleito presidente.
+- **4/2/1861**: estados do Sul formam a *Confederate States of America*, com Jefferson Davis.
+- **12/4/1861**: começa a guerra com o ataque a **Fort Sumter**.
+- **21/7/1861**: **Primeira Batalha de Bull Run** — vitória confederada. A guerra será longa.
+
+---
+
+## Cronologia II: 1862, ano de tensão {.center}
+
+- **9/3/1862**: batalha naval entre os couraçados **Monitor** e **Merrimack**.
+- **6-7/4/1862**: **Batalha de Shiloh** — vitória da União com pesadas baixas.
+- **17/9/1862**: **Batalha de Antietam** — o dia mais sangrento da guerra. Vitória estratégica que prepara a Proclamação de Emancipação.
+
+---
+
+## {.center}
+
+![Battle of Antietam — Thure de Thulstrup, 1862](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Thure_de_Thulstrup_-_Battle_of_Antietam.jpg/800px-Thure_de_Thulstrup_-_Battle_of_Antietam.jpg)
+
+---
+
+## Cronologia III: 1863, ponto de virada {.center}
+
+- **1/1/1863**: Lincoln emite a **Proclamação de Emancipação** — liberta escravizados nos estados confederados e autoriza o alistamento de afro-americanos no exército da União.
+- **1-3/7/1863**: **Batalha de Gettysburg** — vitória decisiva da União.
+- **4/7/1863**: queda de **Vicksburg** — controle do rio Mississippi, divisão da Confederação.
+
+---
+
+## Cronologia IV: marcha para a vitória (1864-1865) {.center}
+
+- **Novembro 1864**: **Marcha de Sherman ao Mar** — destruição da infraestrutura sulista.
+- **1864**: Lincoln é reeleito.
+- **9/4/1865**: General Lee se rende a Grant em **Appomattox Court House**.
+- **14/4/1865**: Lincoln é assassinado.
+- **26/4/1865**: rendição final das tropas confederadas.
+
+---
+
+## Custos da guerra {.center}
+
+- Aproximadamente **620.000 a 850.000 mortes**.
+- Drescher: a Guerra Civil produziu o maior contingente militar de homens de descendência africana que participou dos conflitos do Novo Mundo (DRESCHER, 2011, p. 469).
+- Resultado: preservação da União, abolição da escravidão (13ª Emenda, 1865) — mas a luta por igualdade racial está apenas começando.
+
+---
+
+# Parte IV — Afro-americanos como agentes da emancipação {.center}
+
+---
+
+## A questão racial no início da guerra {.center}
+
+- Lincoln, no início, **recusa** o alistamento negro.
+- Objetivo: preservar os **Border States** (Delaware, Kentucky, Maryland, Missouri).
+
+---
+
+## {.center}
+
+Frederick Douglass, maio de 1861:
+
+> "Estamos prontos para partir, sentindo-nos felizes em servir e sofrer pela causa da liberdade e das instituições livres. Mas vocês não nos deixarão ir."
+
+(DOUGLASS apud IZECKSOHN, 2017, p. 183)
+
+---
+
+## "Contrabando de guerra" {.center}
+
+- Maio de 1861: general Benjamin Butler, em Forte Monroe (Virgínia), recusa-se a devolver fugitivos.
+- Argumenta: são "contrabando de guerra".
+- A categoria evita definir o *status* legal dos fugitivos, mas abre precedente.
+- **Segundo Ato do Confisco** (agosto de 1862): confirma a política.
+
+---
+
+## "Votar com os pés" {.center}
+
+- Cerca de **520.000** afro-americanos da Confederação cruzaram para as linhas da União durante a guerra.
+- A fuga em massa **desorganiza** a economia e o esforço de guerra confederado.
+
+---
+
+## {.center}
+
+Susie King Taylor, ex-escravizada da Carolina do Sul:
+
+> "Eu queria tanto encontrar esses maravilhosos Yankees, enquanto ouvia meus pais dizerem que os Yankees iriam nos libertar a todos."
+
+(TAYLOR apud IZECKSOHN, 2017, p. 186)
+
+---
+
+## Experiências iniciais com soldados negros {.center}
+
+- Iniciativas locais, sem sanção federal:
+  - **Butler** (Louisiana, 1862): organiza o primeiro regimento negro da União.
+  - **Hunter** (Carolina do Sul, 1862): recrutamento *forçado* em Port Royal — gera desconfiança duradoura entre os ex-escravizados.
+  - **Lane** (Kansas, 1862): inova ao usar agentes recrutadores negros.
+
+---
+
+## A Proclamação de Emancipação (1863) {.center}
+
+- **1° de janeiro de 1863**: Lincoln autoriza o alistamento de libertos.
+- Medida apresentada como *medida de guerra* — não apenas humanitária.
+- Em maio de 1863: criada a **Bureau of Colored Troops**, centralizando a organização dos regimentos negros sob comando federal.
+
+---
+
+## United States Colored Troops (USCT) {.center}
+
+- Cerca de **180.000-200.000** afro-americanos serviram no exército da União — 10% das tropas.
+- 144.000 (78,5%) provinham de estados escravistas.
+- Mesmo número *per capita* de mortes da Revolução Haitiana — em magnitude, o maior contingente militar afrodescendente das Américas (DRESCHER, 2011, p. 469).
+
+---
+
+## {.center}
+
+![Come and Join Us Brothers, by the Supervisory Committee For Recruiting Colored Regiments](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Come_and_Join_Us_Brothers%2C_by_the_Supervisory_Committee_For_Recruiting_Colored_Regiments.jpg/733px-Come_and_Join_Us_Brothers%2C_by_the_Supervisory_Committee_For_Recruiting_Colored_Regiments.jpg)
+
+---
+
+## {.center}
+
+![Men of Color Civil War Recruitment Broadside, 1863](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Men_of_Color_Civil_War_Recruitment_Broadside_1863.png/408px-Men_of_Color_Civil_War_Recruitment_Broadside_1863.png)
+
+---
+
+## {.center}
+
+![Soldado afro-americano em uniforme da União, com esposa e duas filhas](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/African_American_soldier_in_Union_uniform_with_wife_and_two_daughters_%28cropped%29.jpg/784px-African_American_soldier_in_Union_uniform_with_wife_and_two_daughters_%28cropped%29.jpg)
+
+---
+
+## O 54º de Massachusetts {.center}
+
+- Fevereiro-maio de 1863: formados o 54º e o 55º de infantaria "colored" de Massachusetts.
+- **Frederick Douglass**, **Martin Delany**, **John Langston** entre os recrutadores.
+- **18/7/1863**: ataque a **Fort Wagner** (Carolina do Sul) — pesadas baixas, mas reputação de coragem.
+- Acelerou o recrutamento negro nos demais estados do Norte.
+
+---
+
+## "Fardo da raça" {.center}
+
+- Apesar da bravura, os USCTs foram tratados como cidadãos de segunda classe:
+  - Regimentos **segregados**.
+  - Salários inferiores até 1864.
+  - Proibição de oficialato negro.
+  - Funções degradantes; alta taxa de mortalidade por doenças.
+
+---
+
+## Cidadania pelo serviço militar {.center}
+
+- Izecksohn: o recrutamento federal **federalizou** direitos.
+- Alterou a relação entre cidadãos e governo federal.
+- Ira Berlin: *minor revolution*.
+- Politizou milhares de afro-americanos, criando lideranças que seriam centrais na **Reconstrução**.
+
+---
+
+# Parte V — Discussão da bibliografia {.center}
+
+---
+
+## Drescher (2011) — questão para debate {.center}
+
+- A tese: a escravidão estadunidense **não era moribunda** quando foi destruída.
+- Foi necessário "esmagador poder político ou militar" para encerrá-la.
+
+. . .
+
+**Pergunta:** se a escravidão era economicamente robusta às vésperas da guerra, **o que explica seu fim**? Que peso atribuir à expansão territorial, ao abolicionismo, à ação dos próprios escravizados?
+
+---
+
+## Drescher (2011) — eixo transatlântico {.center}
+
+> A combinação do acesso dos abolicionistas ao governo britânico com a afirmação do reiterado interesse de Aberdeen na abolição "em todos os lugares" deu ao governo dos Estados Unidos em Washington um atrativo muito vantajoso para que o Congresso aprovasse a anexação do Texas. (DRESCHER, 2011, p. 454)
+
+. . .
+
+**Pergunta:** como o **abolicionismo britânico** funcionou como variável estratégica do debate político estadunidense entre 1840 e 1860?
+
+---
+
+## Izecksohn (2017) — protagonismo afro-americano {.center}
+
+> A despeito do papel crucial desempenhado pelo governo federal no desmantelamento da escravidão, foram os próprios escravos que fizeram a maior contribuição. (IZECKSOHN, 2017, p. 204)
+
+. . .
+
+**Pergunta:** como o conceito de **"votar com os pés"** redefine quem são os agentes da emancipação? O que muda em uma narrativa centrada em Lincoln e os generais brancos?
+
+---
+
+## Izecksohn (2017) — limites do recrutamento {.center}
+
+- Recrutamento *forçado* em Port Royal e na Louisiana.
+- "Caçada humana" familiar a brasileiros da mesma época.
+- Salários desiguais, oficialato negro proibido, alta mortalidade por doenças.
+
+. . .
+
+**Pergunta:** em que medida o serviço militar foi caminho para a cidadania e em que medida reproduziu, internamente, as hierarquias raciais que a guerra supostamente combatia?
+
+---
+
+## Miranda (2015) — repercussões no Brasil {.center}
+
+- Silvério da Mota, no Senado brasileiro (1861):
+
+> "se acaso os Estados do Sul da Confederação Norte Americana tivessem seguido esse sistema de ir melhorando a condição legal dos seus escravos, talvez senhores, não víssemos hoje em perigo a União Norte Americana." (MOTA apud MIRANDA, 2015, p. 4)
+
+---
+
+## {.center}
+
+**Pergunta:** como o **exemplo da Guerra Civil** foi mobilizado, no debate político brasileiro, para justificar uma abolição "lenta, gradual e sem conflitos"?
+
+---
+
+## Miranda (2015) — imaginário comparado {.center}
+
+- O contraste com a violência da Guerra Civil ajudou a construir o mito de uma escravidão brasileira "branda" e de relações raciais "harmoniosas".
+
+. . .
+
+**Pergunta:** que efeitos esse imaginário comparado produz **até hoje** sobre como pensamos as relações raciais no Brasil?
+
+---
+
+## Síntese {.center}
+
+- Guerra Civil = guerra contra a escravidão **só quando o conflito está bem avançado** (Drescher).
+- Afro-americanos foram **agentes**, não apenas beneficiários (Izecksohn).
+- O exemplo estadunidense ressoou em outras sociedades escravistas — inclusive no Brasil (Miranda).
+- A 13ª Emenda (1865) **aboliu a escravidão**, mas não removeu a continuidade da privação de direitos no Sul.
+
+---
+
+# Recursos audiovisuais {.center}
+
+---
+
+## A guerra dia a dia {.center}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pDEK4gJBKW0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Harriet Tubman e a estrada para liberdade {.center}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dv7YhVKFqbQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Frederick Douglass {.center}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7QOTexnD-NE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Bibliografia da aula {.center}
+
+**Leitura obrigatória:**
+
+- DRESCHER, Seymour. O fim da escravidão na América Inglesa. In: *Abolição: uma história da escravidão e do antiescravismo*. São Paulo: Editora UNESP, 2011. pp. 451-473.
+- IZECKSOHN, Vitor. O recrutamento de negros nas tropas da União durante a Guerra Civil Americana. *Afro-Ásia*, n. 55, p. 177–212, 2017.
+
+---
+
+## Bibliografia da aula {.center}
+
+**Complementar:**
+
+- MIRANDA, Clícea Maria. Repercussões da Guerra Civil Americana no debate político sobre a abolição no Brasil, 1861-1888. *Anais do VII Encontro Escravidão e Liberdade no Brasil Meridional*. Curitiba: UFPR, 2015.
