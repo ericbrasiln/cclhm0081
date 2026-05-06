@@ -228,7 +228,7 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 
 **Bibliografia básica**
 
-- Drescher, Seymour. O fim da escravidão na América Inglesa. In: *Abolição: uma História da Escravidão e do Antiescravismo.* Edição: 1. São Paulo: Editora Unesp, 2011. pp. 451-573.
+- Drescher, Seymour. O fim da escravidão na América Inglesa. In: *Abolição: uma História da Escravidão e do Antiescravismo.* Edição: 1. São Paulo: Editora Unesp, 2011. pp. 451-473 [seção "A contração"].
 - IZECKSOHN, Vitor. O recrutamento de negros nas tropas da União durante a guerra civil americana. *Afro-Ásia*, v. 0, n. 55, 3 out. 2017.
 
 **Bibliografia complementar**
