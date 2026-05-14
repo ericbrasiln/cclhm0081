@@ -1,0 +1,264 @@
+---
+title: "Aula 10: Era das Abolições III — Cuba, abolição e independência (1870-1900)"
+date: "2026-05-14"
+date-format: full
+lang: pt-br
+format:
+  revealjs:
+    theme: [default, ../custom.scss]
+    slide-number: true
+    incremental: false
+    chalkboard:
+      buttons: true
+    preview-links: auto
+    footer: "Eric Brasil | <a href=https://ericbrasil.com.br/contact/>Entre em contato</a> | CCLHM0081 — História da América Independente"
+    logo: https://raw.githubusercontent.com/ericbrasiln/cclhm0081/63cc875c152f361a14f723efbe6bd161f5aaf8b6/banner_logos_hist.png
+author:
+  - name: Eric Brasil
+    orcid: 0000-0001-5067-8475
+toc: false
+---
+
+## Uma breve cronologia das guerras de independência de Cuba {.center}
+
+---
+
+## **Guerra dos Dez Anos (1868–1878)** {.center}
+
+- Início da luta pela independência de Cuba contra o domínio espanhol
+- Participação de pequenos proprietários, negros e libertos
+- Pacto de Zanjón (10 de fevereiro de 1878): paz sem independência e sem abolição
+- Resistência em Oriente, liderada por **Antonio Maceo** — Protesto de Baraguá
+
+---
+
+## **Guerra Chiquita (1879–1880)** {.center}
+
+- Liderança de Calixto García e Guillermo Moncada
+- Derrotada rapidamente, mas manteve viva a resistência cubana
+- Muitos negros ganharam projeção política; Maceo tornou-se uma das principais lideranças
+
+---
+
+## **Guerra de Independência (1895–1898)** {.center}
+
+- Liderada por José Martí e Antonio Maceo
+- Intervenção dos EUA em 1898
+- Independência formal em 1902, após ocupação norte-americana
+
+---
+
+## Abolição entre a guerra e a legislação {.center}
+
+> SCOTT, Rebecca J. Abolição Gradual e a Dinâmica da Emancipação dos Escravos em Cuba, 1868–86. *Estudos Econômicos*, v. 17, n. 3, p. 457–485, 1987.
+
+---
+
+## A Rebelião de 1868 {.center}
+
+- Pequenos proprietários rebelam-se contra o governo espanhol e novas taxações
+- Liberação de escravos pelos insurgentes para fortalecer o exército rebelde
+- Escravos libertados tornaram-se soldados: liberdade e desafio ao sistema escravista
+- Reglamento de Libertos (julho de 1869): exigia trabalho forçado dos ex-escravos
+- Revogação dos regulamentos restritivos no final de 1870: posição de genuíno abolicionismo
+
+---
+
+## O liberto como desafio ambulante {.center}
+
+> O liberto, agora soldado, tornava-se uma potencial causa de perturbação da ordem estabelecida, um símbolo de liberdade e um desafio ambulante à instituição da escravidão. (SCOTT, 1987, p. 459)
+
+- Caso de Florentine: senhor tentou impedir que o soldado liberto visitasse seus antigos companheiros escravos
+- Libertas recusaram-se a permanecer nas propriedades: "o decreto de emancipação as declarou livres"
+
+---
+
+## A Lei Moret de 1870 {.center}
+
+- "Lei preparatória para a abolição gradual da escravidão"
+- Libertava crianças nascidas a partir de 1868 e escravos com mais de 60 anos
+- Proibia o uso de castigos corporais (açoite)
+- Crianças libertas deviam trabalhar até os 18 anos
+- Resistência dos senhores limitava a aplicação efetiva da lei
+- Juntas Protectoras de Libertos: maioria composta por proprietários de escravos
+
+---
+
+## A Lei Moret: menos e mais do que parecia {.center}
+
+- **Menos**: a liberdade garantida era limitada, transigível e em muitos casos ilusória
+  - Crianças libertas, mas sujeitas a trabalho gratuito até 18 anos
+  - Idosos libertos, mas idades questionáveis — fraudes generalizadas
+  - Escravos não registrados eram legalmente livres, mas petições retardavam a manumissão
+- **Mais**: a lei representou uma brecha que escravos e libertos souberam aproveitar
+
+---
+
+## População escrava em Cuba: declínio {.center}
+
+| Ano | População escrava |
+|:---:|:------------------:|
+| 1861–62 | 368.550 |
+| 1877 | 199.094 |
+| 1883 | 99.566 |
+| 1885 | 53.381 |
+| 1886 | 25.381 |
+
+Fonte: Scott (1987), Tab. 1
+
+---
+
+## O Patronato de 1880 {.center}
+
+- Criou uma transição gradual para a liberdade, mantendo ex-escravos sob controle dos senhores
+- Agora chamados de **patrocinados**: recebiam pequenos salários e tinham direito à autocompra
+- Um quarto dos patrocinados deveria ser libertado a cada ano a partir de 1885
+- Na prática: senhores tentavam manter as estruturas da escravidão intactas
+- Patronato = "aprendizado" que preservava a autoridade do senhor
+
+---
+
+## O fim dos castigos corporais (1883) {.center}
+
+- Proibição do uso de troncos e correntes marca o declínio da escravidão
+- Mesmo após a proibição, senhores resistiam ao fim do controle sobre os ex-escravos
+- Patrões tentaram manter disciplina por meios informais
+- A dinâmica social pressionava por mudanças mais rápidas do que a legislação previa
+
+---
+
+## **Abolição Final (1886)** {.center}
+
+- Em 1886, o patronato foi finalmente abolido
+- Abolição completa da escravidão em Cuba
+- Resultado de uma luta prolongada entre escravizados e senhores
+- Scott: a abolição não foi apenas concessão legal — foi resultado da **pressão de insurgentes, escravos e patrocinados**
+
+---
+
+## Dinâmica social da abolição {.center}
+
+- Scott argumenta contra uma leitura puramente legislativa da abolição
+- A estrutura legal foi desmontada **peça por peça**, mas cada etapa foi disputada
+- Escravos e patrocinados souberam aproveitar concessões parciais
+- Senhores tentaram reter a maior parte da ordem escravista
+- A legislação não conseguiu frear as pressões por mudanças mais rápidas
+
+---
+
+# Antiescravismo transnacional {.center}
+
+---
+
+## Raça e antiescravismo no Caribe espanhol {.center}
+
+> MATA, Iacy Maia. Raça e antiescravismo no Caribe espanhol: o ativismo de Antonio Maceo e Ramón Emeterio Betances. *Revista Brasileira de História*, v. 41, n. 86, p. 13–37, 2021.
+
+---
+
+## "Cumplicidade" entre os negros {.center}
+
+- 1865: autoridades coloniais espanholas temiam uma insurreição geral de negros no sul dos EUA com ramificações no Caribe
+- "Uma espécie de cumplicidade que se vai estendendo entre elas, cumplicidade criada e sustentada pela conspiração incessante das sociedades abolicionistas"
+- Uma rede de **solidariedade transnacional** entre negros estava sendo forjada (1863–1881)
+- População negra significativa em Cuba e Porto Rico: participação decisiva nos acontecimentos políticos
+
+---
+
+## Ramón Emeterio Betances (1827–1898) {.center}
+
+- Médico e revolucionário porto-riquenho
+- Atuou na Revolução de 1848 (abolição nas colônias francesas)
+- 1858: fundou sociedades abolicionistas secretas em Porto Rico
+- 1866: presente na fundação da Sociedade Republicana de Cuba e Porto Rico em Nova Iorque
+- 1867: lançou os **Dez Mandamentos dos Homens Livres** — a abolição como prioridade absoluta
+
+---
+
+## Os Dez Mandamentos dos Homens Livres {.center}
+
+> "Considerando que de toda a história da humanidade, a escravidão tem sido, é e será a mais solene injustiça: **Art. I – A escravidão fica abolida definitivamente e para sempre na Ilha de Porto Rico.**"
+
+Betances, 1867 (apud Suárez Díaz, 1980, p. 33)
+
+---
+
+## Antonio Maceo (1845–1896) {.center}
+
+- Ingressou nas forças rebeldes em 1868, aos 23 anos
+- Ascendeu aposições de comando por talento militar
+- **Protesto de Baraguá (1878)**: recusou o Pacto de Zanjón sem garantia de abolição
+- Tornou-se referência internacional do abolicionismo
+- Para Maceo, luta pela abolição = luta pela independência
+
+---
+
+## Protesto de Baraguá (1878) {.center}
+
+- Pacto de Zanjón: paz sem independência e sem abolição
+- Maceo insistiu: só deporiam as armas se a Espanha garantisse a liberdade de todos os escravos
+- Reconhecimento imediato do movimento abolicionista internacional:
+  - Mensagem da American and Foreign Anti-Slavery Society (1878)
+  - Convite de Henry Highland Garnet para reunião em Nova Iorque
+
+---
+
+## Maceo: abolição e independência {.center}
+
+> "Minha missão é mais nobre e mais digna de consideração porque não é melhor lutar em um partido político para dominar mais que trabalhar pelo bem de uma coletividade que sofre os horrores da escravidão." (MACEO, 1886)
+
+> Lutava pela independência "para com ela obter a regeneração de um povo humilhado pela servidão" (MACEO, 1880)
+
+---
+
+## Solidariedade racial e aliança inter-racial {.center}
+
+- Narrativa da insurreição anticolonial fundava-se na **aliança inter-racial**
+- Exército multirracial + abolição nominal = manto do nacionalismo cubano contra espanhóis
+- Maceo acusado de fomentar "guerra racial" — respondeu defendendo a aliança
+- Mas também reivindicou pertencimento racial:
+  > "Pertenço à classe de cor, sem que por isto se considere valer menos que os outros homens" (MACEO, 1876)
+
+---
+
+## Referência ao Haiti no vocabulário político {.center}
+
+- A Revolução Haitiana (1791–1804) inspirou ativistas negros como Maceo e Betances
+- Haiti como símbolo de liberdade e revolução bem-sucedida contra a escravidão
+- Maceo buscou apoio haitiano na luta contra a escravidão em Cuba
+- Autoridades coloniais temiam a "cumplicidade" entre negros do Caribe
+- Interlocução constante com haitianos: referência insistente no vocabulário político
+
+---
+
+## Redes transnacionais {.center}
+
+- Maceo e Betances mantiveram correspondência com abolicionistas e líderes negros em outras regiões
+- Construíram alianças antiescravistas que transcendiam fronteiras
+- Conexões: Nova Iorque, Kingston (Jamaica), Haiti, Venezuela, República Dominicana
+- Sociedade Republicana de Cuba e Porto Rico (1866): independência e abolição juntas
+- Correspondência com Wendell Phillips e Henry Highland Garnet
+
+---
+
+## Impacto e legado {.center}
+
+- A luta de Maceo e Betances foi central para a **abolição e os movimentos de independência**
+- Seu ativismo criou uma **identidade política e racial transnacional**
+- Legado: inspirou gerações futuras na luta por direitos civis e igualdade racial
+- A abolição em Cuba (1886) resultou da conjugação de pressões locais, guerra e ativismo transnacional
+
+---
+
+## Questões para debate {.center}
+
+1. Scott argumenta que a abolição em Cuba foi resultado de uma "dinâmica social" e não apenas legislativa. Como os escravos e patrocinados aproveitaram as brechas legais para pressionar por mais liberdade?
+2. A aliança inter-racial no Exército Libertador era contraditória com a solidariedade racial reivindicada por Maceo? Como articular essas duas dimensões?
+3. Qual o papel das redes transnacionais (Maceo-Betances-Haiti-abolicionistas dos EUA) no processo de abolição em Cuba?
+
+---
+
+## Bibliografia da aula {.center}
+
+- MATA, Iacy Maia. Raça e antiescravismo no Caribe espanhol: o ativismo de Antonio Maceo e Ramón Emeterio Betances. *Revista Brasileira de História*, v. 41, n. 86, p. 13–37, 2021.
+- SCOTT, Rebecca J. Abolição Gradual e a Dinâmica da Emancipação dos Escravos em Cuba, 1868–86. *Estudos Econômicos*, v. 17, n. 3, p. 457–485, 1987.
