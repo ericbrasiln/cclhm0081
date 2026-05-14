@@ -1,5 +1,5 @@
 ---
-title: "Aula 10: Era das Abolições III — Cuba, abolição e independência (1870-1900)"
+title: "Aula 10: Cuba, abolição e independência (1870-1900)"
 date: "2026-05-14"
 date-format: full
 lang: pt-br
@@ -90,6 +90,11 @@ toc: false
   - Crianças libertas, mas sujeitas a trabalho gratuito até 18 anos
   - Idosos libertos, mas idades questionáveis — fraudes generalizadas
   - Escravos não registrados eram legalmente livres, mas petições retardavam a manumissão
+
+---
+
+## A Lei Moret: menos e mais do que parecia {.center}
+
 - **Mais**: a lei representou uma brecha que escravos e libertos souberam aproveitar
 
 ---
@@ -171,11 +176,12 @@ Fonte: Scott (1987), Tab. 1
 - Atuou na Revolução de 1848 (abolição nas colônias francesas)
 - 1858: fundou sociedades abolicionistas secretas em Porto Rico
 - 1866: presente na fundação da Sociedade Republicana de Cuba e Porto Rico em Nova Iorque
-- 1867: lançou os **Dez Mandamentos dos Homens Livres** — a abolição como prioridade absoluta
 
 ---
 
 ## Os Dez Mandamentos dos Homens Livres {.center}
+
+- 1867: lançou os **Dez Mandamentos dos Homens Livres** — a abolição como prioridade absoluta
 
 > "Considerando que de toda a história da humanidade, a escravidão tem sido, é e será a mais solene injustiça: **Art. I – A escravidão fica abolida definitivamente e para sempre na Ilha de Porto Rico.**"
 
@@ -205,9 +211,7 @@ Betances, 1867 (apud Suárez Díaz, 1980, p. 33)
 
 ## Maceo: abolição e independência {.center}
 
-> "Minha missão é mais nobre e mais digna de consideração porque não é melhor lutar em um partido político para dominar mais que trabalhar pelo bem de uma coletividade que sofre os horrores da escravidão." (MACEO, 1886)
-
-> Lutava pela independência "para com ela obter a regeneração de um povo humilhado pela servidão" (MACEO, 1880)
+> [Lutava pela independência] para com ela obter a regeneração de um povo humilhado pela servidão. (MACEO, 1880)
 
 ---
 
@@ -216,7 +220,13 @@ Betances, 1867 (apud Suárez Díaz, 1980, p. 33)
 - Narrativa da insurreição anticolonial fundava-se na **aliança inter-racial**
 - Exército multirracial + abolição nominal = manto do nacionalismo cubano contra espanhóis
 - Maceo acusado de fomentar "guerra racial" — respondeu defendendo a aliança
+
+---
+
+## Solidariedade racial e aliança inter-racial {.center}
+
 - Mas também reivindicou pertencimento racial:
+
   > "Pertenço à classe de cor, sem que por isto se considere valer menos que os outros homens" (MACEO, 1876)
 
 ---
@@ -225,6 +235,11 @@ Betances, 1867 (apud Suárez Díaz, 1980, p. 33)
 
 - A Revolução Haitiana (1791–1804) inspirou ativistas negros como Maceo e Betances
 - Haiti como símbolo de liberdade e revolução bem-sucedida contra a escravidão
+
+---
+
+## Referência ao Haiti no vocabulário político {.center}
+
 - Maceo buscou apoio haitiano na luta contra a escravidão em Cuba
 - Autoridades coloniais temiam a "cumplicidade" entre negros do Caribe
 - Interlocução constante com haitianos: referência insistente no vocabulário político
@@ -237,7 +252,6 @@ Betances, 1867 (apud Suárez Díaz, 1980, p. 33)
 - Construíram alianças antiescravistas que transcendiam fronteiras
 - Conexões: Nova Iorque, Kingston (Jamaica), Haiti, Venezuela, República Dominicana
 - Sociedade Republicana de Cuba e Porto Rico (1866): independência e abolição juntas
-- Correspondência com Wendell Phillips e Henry Highland Garnet
 
 ---
 
@@ -245,16 +259,8 @@ Betances, 1867 (apud Suárez Díaz, 1980, p. 33)
 
 - A luta de Maceo e Betances foi central para a **abolição e os movimentos de independência**
 - Seu ativismo criou uma **identidade política e racial transnacional**
-- Legado: inspirou gerações futuras na luta por direitos civis e igualdade racial
+- inspirou gerações futuras na luta por direitos civis e igualdade racial
 - A abolição em Cuba (1886) resultou da conjugação de pressões locais, guerra e ativismo transnacional
-
----
-
-## Questões para debate {.center}
-
-1. Scott argumenta que a abolição em Cuba foi resultado de uma "dinâmica social" e não apenas legislativa. Como os escravos e patrocinados aproveitaram as brechas legais para pressionar por mais liberdade?
-2. A aliança inter-racial no Exército Libertador era contraditória com a solidariedade racial reivindicada por Maceo? Como articular essas duas dimensões?
-3. Qual o papel das redes transnacionais (Maceo-Betances-Haiti-abolicionistas dos EUA) no processo de abolição em Cuba?
 
 ---
 
