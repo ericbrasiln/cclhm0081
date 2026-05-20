@@ -58,15 +58,15 @@ A crise do sistema colonial; Processos de independência e formação dos Estado
 
 # Avaliação
 
-| Atividade | Qtd. | Pontuação |
-|:----------|:----:|:---------:|
-| Atividade remota | 2 | 1 ponto cada |
-| Apresentação de texto da bibliografia em sala | 2 | 1 ponto cada |
-| Trabalho final | 1 | 6 pontos |
-| **Total** | | **10 pontos** |
+|| Atividade | Qtd. | Pontuação | Subtotal |
+|:----------|:----:|:---------:|:---:|
+| Atividade remota | 2 | 1 ponto cada | 2 |
+| Apresentação de texto da bibliografia em sala | 2 | 1 ponto cada | 2 |
+| Ensaio comparativo — Pós-abolição | 1 | 8 pontos | 8 |
+| **Total** | | | **12 pontos** |
 
 ::: {.callout-important}
-A nota final é a soma das atividades e do trabalho final, totalizando **10 pontos**. Informações detalhadas sobre cada atividade serão apresentadas e discutidas ao longo do semestre.
+A nota final é a soma das atividades, totalizando **12 pontos**. Informações detalhadas sobre cada atividade serão apresentadas e discutidas ao longo do semestre.
 :::
 
 ***
@@ -258,18 +258,33 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 
 **Tema**: Pós-abolição, cidadania e direitos nas Américas
 
+**Modalidade**: Atividade assíncrona (ensaio comparativo)
+
 **Objetivos**:
 
-- 
--
+- Comparar os processos de abolição da escravidão em diferentes contextos americanos
+- Analisar os impactos da abolição na formação das sociedades pós-abolição (racismo, exclusão, cidadania)
 
 **Bibliografia básica**
 
-[EM BREVE]
+- ROCHA, E. P. "Um lugar para chamar de seu: a luta dos negros barbadianos pela moradia no Pós-abolição." *Revista Eletrônica da ANPHLAC*, n. 27, p. 37–65, 2019. DOI: 10.46752/anphlac.27.2019.3432
+- SCOTT, Rebecca. "Raça, trabalho e ação coletiva em Louisiana e Cuba, 1868–1912." In: COOPER, Frederick; HOLT, Thomas C.; SCOTT, Rebecca J. *Além da Escravidão: investigações sobre raça, trabalho e cidadania em sociedades pós-emancipação.* Rio de Janeiro: Civilização Brasileira, 2005.
+- BRITO, L. da C. "'MR. PERPETUAL MOTION' enfrenta o Jim Crow: André Rebouças e sua passagem pelos Estados Unidos no Pós-abolição." *Estudos Históricos* (Rio de Janeiro), v. 32, n. 66, p. 241–266, 2019. DOI: 10.1590/S2178-14942019000100012
 
 **Bibliografia complementar**
 
-[EM BREVE]
+- BRASIL, Eric. "Abolição e Carnaval: performance e experiência social negra em Trinidad (cc. 1790-1850)." *Revista de Estudos e Pesquisas sobre as Américas*, v. 12, n. 3, p. 204–227, 2018.
+- DRESCHER, Seymour. "A emancipação britânica." In: *Abolição: uma História da Escravidão e do Antiescravismo.* São Paulo: Editora Unesp, 2011.
+- DRESCHER, Seymour. "O fim da escravidão na América Inglesa." In: *Abolição: uma História da Escravidão e do Antiescravismo.* São Paulo: Editora Unesp, 2011. pp. 451-473.
+- IZECKSOHN, Vitor. "O recrutamento de negros nas tropas da União durante a guerra civil americana." *Afro-Ásia*, n. 55, 2017.
+- SCOTT, Rebecca J. "Abolição Gradual e a Dinâmica da Emancipação dos Escravos em Cuba, 1868-86." *Estudos Econômicos*, v. 17, n. 3, p. 457–485, 1987.
+- MATA, Iacy Maia. "Raça e antiescravismo no Caribe espanhol: o ativismo de Antonio Maceo e Ramón Emeterio Betances." *Revista Brasileira de História*, v. 41, n. 86, p. 13–37, 2021.
+
+**Atividade assíncrona**
+
+::: {.callout-important}
+Esta aula será realizada de forma **assíncrona**, por meio de um **ensaio acadêmico comparativo**. A atividade vale **8,0 pontos** e deve ser entregue até **18/06/2026** pelo SIGAA. Consulte o enunciado completo em: [Ensaio comparativo — Aula 11](../tarefas/ensaio_pos-abolicao_aula11.pdf)
+:::
 
 ## Módulo III – Revoluções, Estado e Democracia no Século XX
 

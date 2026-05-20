@@ -57,7 +57,7 @@ A disciplina propõe um estudo comparado das experiências de independência nas
 | 8 | 30/04/2026 | Era das Abolições I: Caribe | — |
 | 9 | 07/05/2026 | Era das Abolições II: Guerra Civil e Abolição nos EUA | — |
 | 10 | 14/05/2026 | Era das Abolições III: Cuba, abolição e independência | — |
-| 11 | 21/05/2026 | Pós-abolição, cidadania e direitos nas Américas | — |
+| 11 | 21/05/2026 | Pós-abolição, cidadania e direitos nas Américas *(assíncrona — ensaio comparativo)* | [ensaio](https://ericbrasil.com.br/cclhm0081/tarefas/ensaio_pos-abolicao_aula11.pdf) |
 | 12 | 28/05/2026 | Revolução Mexicana de 1910 | — |
 | — | 04/06/2026 | **SEM AULA — Corpus Christi** | — |
 | 13 | 11/06/2026 | Populismo, autoritarismo e democracia no século XX | — |

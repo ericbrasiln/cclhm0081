@@ -49,7 +49,7 @@ format:
 | 8    | 30/04/2026 | II     | Era das Abolições I: Caribe                                          | 4  | Presencial |
 | 9    | 07/05/2026 | II     | Era das Abolições II: Guerra Civil e Abolição nos EUA (1861-1865)    | 4  | Presencial |
 |10    | 14/05/2026 | II     | Era das Abolições III: Cuba, abolição e independência (1870-1900)    | 4  | Presencial |
-|11    | 21/05/2026 | II     | Pós-abolição, cidadania e direitos nas Américas                      | 4  | Presencial |
+|11    | 21/05/2026 | II     | Pós-abolição, cidadania e direitos nas Américas                      | 4  | Assíncrona (ensaio comparativo) |
 |12    | 28/05/2026 | III    | Revolução Mexicana de 1910                                           | 4  | Presencial |
 | —    | 04/06/2026 | —      | **SEM AULA — Corpus Christi (feriado)**                              | —  | — |
 |13    | 11/06/2026 | III    | Populismo, autoritarismo e democracia no século XX                   | 4  | Presencial |
