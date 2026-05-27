@@ -1,0 +1,347 @@
+---
+title: "Aula 12: Revolução Mexicana de 1910"
+date: "2026-05-28"
+date-format: full
+lang: pt-br
+format:
+  revealjs:
+    theme: [default, ../custom.scss]
+    slide-number: true
+    incremental: false
+    chalkboard:
+      buttons: true
+    preview-links: auto
+    footer: "Eric Brasil | <a href=https://ericbrasil.com.br/contact/>Entre em contato</a> | CCLHM0081 — História da América Independente"
+    logo: https://raw.githubusercontent.com/ericbrasiln/cclhm0081/63cc875c152f361a14f723efbe6bd161f5aaf8b6/banner_logos_hist.png
+author:
+  - name: Eric Brasil
+    orcid: 0000-0001-5067-8475
+toc: false
+---
+
+## {.center}
+
+![Acesse a apresentação](../imgs/qrc_aula12.png)
+
+---
+
+## Revolução Mexicana (1910–1917) {.center}
+
+- O que levou diferentes setores da sociedade mexicana a pegar em armas em 1910?
+- Quais projetos revolucionários entraram em conflito?
+- Por que a revolução foi a interrupção e não o atendimento das demandas camponesas?
+
+---
+
+# O Porfiriato (1876–1910) {.center}
+
+---
+
+## Porfiriato: progresso e violência {.center}
+
+- Crescimento e progresso econômico: ferrovias, mineração, exportação
+- Concentração fundiária e expropriação de terras camponesas e indígenas
+- Crise econômica + Greves de Cananea e Río Blanco (1906–1907)
+- Reeleições consecutivas sustentadas por fraude e violência estatal
+- Insatisfação generalizada: camponeses, operários, classe média e setores liberais
+
+---
+
+## Porfirio Díaz {.center}
+
+![Porfirio Díaz, 1911. [Fonte](https://www.britannica.com/biography/Porfirio-Diaz)](https://cdn.britannica.com/18/145218-050-1FEE64B2/Pres-Mexican-uniform-Porfirio-Diaz-1911.jpg){width=45%}
+
+---
+
+# A oposição se organiza {.center}
+
+---
+
+## 1908: a oposição ganha força nacional {.center}
+
+- **Francisco Madero**: grande fazendeiro do norte (Coahuila)
+- Ligado às elites latifundiárias, mas excluído dos privilégios do Porfiriato
+- Campanha anti-reeleição (1909–1910): percorre o país estabelecendo alianças com diferentes grupos sociais
+
+---
+
+## Francisco Madero {.center}
+
+![Francisco I. Madero. [Fonte](https://commons.wikimedia.org/wiki/File:Francisco_I_Madero.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f4/Francisco_I_Madero.jpg){width=45%}
+
+---
+
+## Giras de Madero (1909–1910) {.center}
+
+![Rotas das giras de Madero pelo México. [Fonte](https://commons.wikimedia.org/wiki/File:Giras_de_Madero.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Giras_de_Madero.svg/1280px-Giras_de_Madero.svg.png){width=70%}
+
+---
+
+## Plano de San Luis de Potosí {.center}
+
+:::incremental
+- **Centenário da Independência (1910)**: Porfírio Díaz prende os opositores, inclusive Madero
+- Do exílio no Texas, Madero lança o **Plano de San Luis de Potosí**, convocando a revolução para 20/11/1910
+- Resposta de diferentes setores sociais: pegam em armas para apoiar Madero
+- Insurgência em diferentes pontos do país + Retorno de Madero = **Renúncia de Porfirio Díaz** em maio de 1911
+:::
+
+---
+
+## Insurgência maderista {.center}
+
+![Principais batalhas da fase maderista. [Fonte](https://commons.wikimedia.org/wiki/File:Batallas_durante_la_revoluci%C3%B3n_maderista.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Batallas_durante_la_revoluci%C3%B3n_maderista.svg/1280px-Batallas_durante_la_revoluci%C3%B3n_maderista.svg.png){width=75%}
+
+---
+
+# Madero no poder e a revolução camponesa {.center}
+
+---
+
+## Madero no poder: a revolução interrompida? {.center}
+
+- Outubro de 1911: Madero é eleito presidente
+- Vitória principal: fim da ditadura do Porfiriato
+- Porém: garantiu a democracia com eleições e escolha de representantes, mas **não atendeu as demandas dos camponeses**
+- As forças que derrotaram Díaz se recusam a aceitar o projeto de Madero
+
+---
+
+## A revolução ainda está no começo {.center}
+
+- Os grupos que lutaram a partir de outras experiências entendiam que a vitória representada por Madero era muito pouco
+- Ainda no final de 1911, demonstram que **não aceitariam a interrupção do processo revolucionário**
+
+---
+
+## Plan de Ayala (novembro de 1911) {.center}
+
+- Liderado por **Emiliano Zapata**, do estado de Morelos, ao sul do México
+- Projeto sofisticado, com vários interlocutores — principal: **Otilio Montaño** (professor de escolas rurais)
+- Madero traiu a causa dos camponeses — a luta continua
+
+---
+
+## Emiliano Zapata {.center}
+
+![Emiliano Zapata e Eufemio Zapata. [Fonte](https://commons.wikimedia.org/wiki/File:Euphemio_y_Emiliano_Zapata.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/06/Euphemio_y_Emiliano_Zapata.jpg){width=70%}
+
+---
+
+## Zapata em Cuernavaca {.center}
+
+![Emiliano Zapata na cidade de Cuernavaca. [Fonte](https://commons.wikimedia.org/wiki/File:Emiliano_Zapata_en_la_ciudad_de_Cuernavaca.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/46/Emiliano_Zapata_en_la_ciudad_de_Cuernavaca.jpg){width=80%}
+
+---
+
+## O que queriam os camponeses do Centro-Sul? {.center}
+
+![Morelos, estado natal de Zapata. [Fonte](https://commons.wikimedia.org/wiki/File:Morelos_in_Mexico_(location_map_scheme).svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Morelos_in_Mexico_%28location_map_scheme%29.svg/1280px-Morelos_in_Mexico_%28location_map_scheme%29.svg.png){width=55%}
+
+---
+
+## Projeto revolucionário camponês {.center}
+
+- Recuperar prerrogativas perdidas com a **reforma liberal** e a **modernização econômica**
+- Retomar formas de vida possíveis até o início do século XIX
+- Autonomia dos *pueblos*: controle comunitário sobre a terra
+
+---
+
+## Exército Libertador do Sul {.center}
+
+:::incremental
+- 20 mil combatentes, em sua maioria camponeses
+- Liderança de **Emiliano Zapata**
+- Comandantes militares não poderiam sobrepujar a vida social dos *pueblos*: seus conselhos, decisões, tradições e práticas
+- Plantio, colheita e guerra: ciclos entrelaçados
+:::
+
+---
+
+# Golpe e contra-revolução (1913) {.center}
+
+---
+
+## Huerta: golpe e ditadura {.center}
+
+:::incremental
+- **Pascual Orozco** desafia a autoridade de Madero no Norte
+- Madero indica o general **Victoriano Huerta** para pacificar o Norte
+- Huerta ganha força política e organiza um **golpe de Estado**, com apoio de antigos porfiristas
+- **Assassinato de Madero** e seu vice — Huerta assume o poder
+- Ditadura de Huerta: restauração do modelo do Porfiriato, com os mesmos nomes nos cargos
+- Oposição revolucionária se unifica contra Huerta como antes contra Díaz
+:::
+
+---
+
+# Pancho Villa e a Divisão do Norte {.center}
+
+---
+
+## O Norte: ferrovias, minas e latifúndios {.center}
+
+- Região mais afetada pelo Porfiriato: desenvolvimento das ferrovias, fábricas têxteis e mineração
+- Expropriação de terras e aumento do poder dos latifundiários
+- Proximidade com os EUA: influência econômica e política
+
+---
+
+## Pancho Villa e a Divisão do Norte {.center}
+
+![Villa e suas tropas. [Fonte](https://commons.wikimedia.org/wiki/File:Villa_toma.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d0/Villa_toma.jpg){width=70%}
+
+---
+
+## Quem formava o exército de Villa? {.center}
+
+:::incremental
+- *Bandoleros*, ex-membros das colônias militares, trabalhadores das minas, ferrovias e fábricas têxteis
+- Exército muito mais heterogêneo — a sociedade do Norte era mais heterogênea
+- Ideais **agraristas**: terras (re)conquistadas dos latifúndios seriam distribuídas por reforma agrária
+- Disciplina, controle e organização mais difíceis: violência, saques, estupros
+:::
+
+---
+
+## Francisco Villa {.center}
+
+![Fotografia de Mutual Film Corporation, 1914. [Fonte](https://commons.wikimedia.org/wiki/File:Francisco_Villa.gif)](https://upload.wikimedia.org/wikipedia/commons/1/11/Francisco_Villa.gif){width=60%}
+
+---
+
+# Carranza e a causa constitucionalista {.center}
+
+---
+
+## Carranza e Obregón {.center}
+
+:::incremental
+- **Venustiano Carranza**: governador de Coahuila, lidera o **Exército Constitucionalista**
+- Defesa do reestabelecimento da normalidade constitucional
+- Recebe auxílio de **Álvaro Obregón**, de Sonora, fortalecendo o exército
+- Derrotam Huerta em 1914, que foge do país
+:::
+
+---
+
+## Convenção de Águas Calientes (1914) {.center}
+
+- Sem acordo entre as lideranças revolucionárias
+- Carranza se retira e busca se reorganizar militarmente
+- Objetivo: **subordinar os revolucionários do Norte (Villa) e do Sul (Zapata)**
+
+---
+
+# Forças agrárias unidas pela Revolução (1914) {.center}
+
+---
+
+## Zapata e Villa na Cidade do México {.center}
+
+- Exército Libertador do Sul (Zapata) e Divisão do Norte (Villa) se articulam para defender a revolução
+- **6 de dezembro de 1914**: Zapata e Villa entram na Cidade do México e sentam na cadeira presidencial
+
+![Villa e Zapata na Cidade do México, dezembro de 1914. [Fonte](https://commons.wikimedia.org/wiki/File:Villa_y_zapata.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/57/Villa_y_zapata.jpg){width=70%}
+
+---
+
+## A aliança que não se consolidou {.center}
+
+:::incremental
+- Villa e Zapata retornam ao Norte e ao Sul — a Cidade do México fica sem controle do poder central
+- A aliança foi passageira e fortuita: **não estabeleceram um encaminhamento comum para uma nova ordem**
+- Carranza se consolida como liderança capaz de pacificar e reconstruir o país
+- Para tanto, seria preciso derrotar os opositores
+:::
+
+---
+
+## Obregón e a eliminação da Divisão do Norte (1915) {.center}
+
+- Carranza envia Obregón, armado com as mais modernas tecnologias militares
+- **Derrota decisiva das tropas de Villa**
+
+---
+
+## A experiência zapatista {.center}
+
+- Camponeses-soldados buscam implementar o projeto do **Plan de Ayala**
+- Autonomia administrativa plena: cada *pueblo* escolheria as formas de uso e distribuição das terras
+
+---
+
+## 1916: ataques contra o Sul {.center}
+
+- Exército liderado por **Pablo González** brutaliza os *pueblos* e massacra camponeses, crianças e mulheres
+- Subjugação milimétrica do território zapatista
+
+---
+
+# Constituição de 1917 {.center}
+
+---
+
+## Constituição de 1917 {.center}
+
+:::incremental
+- Poder executivo forte e interventor
+- Reformas sociais importantes: **leis trabalhistas** e **reforma agrária**
+- *Ejidos*: unidades fundiárias controladas pelo Estado, com usufruto individual (não comunitário)
+- **Subsolo**: toda riqueza pertence ao Estado — cria enormes tensões com empresas de capital estrangeiro, principalmente EUA
+:::
+
+---
+
+# Os assassinatos {.center}
+
+---
+
+## A violência estatal continua {.center}
+
+:::incremental
+- **Zapata** é assassinado em uma emboscada em 1919, organizada por Carranza
+- **Carranza**, presidente após 1917, é assassinado em 1920 em um plano de Obregón
+- **Villa** é assassinado em 1923 numa emboscada no Norte
+- As demandas dos camponeses permanecem insatisfeitas
+:::
+
+---
+
+# Como entender essa Revolução? {.center}
+
+---
+
+## Filha da Revolução {.center}
+
+> "Lembro de quando tinha quatro anos [...] testemunhei com meus próprios olhos a batalha dos camponeses de Zapata contra os carrancistas. Minha situação era muito clara. Minha mãe abria as janelas [...] ela dava acesso aos zapatistas, de modo que os feridos e famintos entrassem pelas janelas na minha casa [...] Ela cuidava dos ferimentos e os alimentava com grossas tortillas, a única comida que se conseguia arranjar em Coyoacán naqueles dias."
+>
+> — Frida Kahlo (apud Herrera, 2018, pp. 25–26)
+
+---
+
+## Questões para debate {.center}
+
+1. Como a diversidade de projetos revolucionários (camponeses, liberais, constitucionalistas) explica a complexidade e os limites da Revolução Mexicana?
+2. Por que a aliança entre Zapata e Villa não se consolidou em um projeto político nacional?
+3. Em que sentido a Constituição de 1917 atendeu e, ao mesmo tempo, limitou as demandas dos movimentos sociais?
+4. Qual a importância da reforma agrária e do controle do subsolo para a soberania mexicana?
+
+---
+
+## Síntese {.center}
+
+- O Porfiriato gerou progresso econômico concentrado e violência estrutural
+- A Revolução foi um movimento múltiplo: liberais (Madero), camponeses do Sul (Zapata), camponeses e operários do Norte (Villa), constitucionalistas (Carranza)
+- A aliança entre Villa e Zapata foi tática, não programática
+- A Constituição de 1917 incorporou demandas populares, mas sob controle estatal
+- Os assassinatos de Zapata, Villa e Carranza revelam que a revolução foi interrompida, não concluída
+
+---
+
+## Bibliografia da aula {.center}
+
+- BRUIT, Hector. *Revoluções na América Latina*. São Paulo: Atual, 1988. "Introdução" e "1. A Revolução Mexicana".
+- AGUILAR CAMÍN, Héctor & MEYER, Lorenzo. *À Sombra da Revolução Mexicana: História mexicana contemporânea, 1910–1989*. São Paulo: EdUSP, 2000.
+- WOMACK, John. *Zapata y la Revolución*. México: Siglo XXI, 1969.
