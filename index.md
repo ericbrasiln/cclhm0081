@@ -51,12 +51,12 @@ A disciplina propõe um estudo comparado das experiências de independência nas
 | 3 | 19/03/2026 | Quem escreve a história das Américas? E que disciplina é essa? | [Slides](https://ericbrasil.com.br/cclhm0081/slides/aula-3/) |
 | 4 | 26/03/2026 | Revolução Americana e a Formação da República dos EUA | [Slides](https://ericbrasil.com.br/cclhm0081/slides/aula-4/) |
 | — | 02/04/2026 | **SEM AULA — Recesso decretado pela reitoria** | — |
-| 5 | 09/04/2026 | A Revolução de Santo Domingo e a construção da nação haitiana | — |
-| 6 | 16/04/2026 | Independências da América Hispânica | — |
-| 7 | 23/04/2026 | Formação dos Estados Nacionais da América Latina | — |
-| 8 | 30/04/2026 | Era das Abolições I: Caribe | — |
-| 9 | 07/05/2026 | Era das Abolições II: Guerra Civil e Abolição nos EUA | — |
-| 10 | 14/05/2026 | Era das Abolições III: Cuba, abolição e independência | — |
+|| 5 | 09/04/2026 | A Revolução de Santo Domingo e a construção da nação haitiana | [Slides](https://ericbrasil.com.br/cclhm0081/slides/aula-5/) ||
+|| 6 | 16/04/2026 | Independências da América Hispânica | [Slides](https://ericbrasil.com.br/cclhm0081/slides/aula-6/) ||
+|| 7 | 23/04/2026 | Formação dos Estados Nacionais da América Latina | [Slides](https://ericbrasil.com.br/cclhm0081/slides/aula-7/) ||
+|| 8 | 30/04/2026 | Era das Abolições I: Caribe | [Slides](https://ericbrasil.com.br/cclhm0081/slides/aula-8/) ||
+|| 9 | 07/05/2026 | Era das Abolições II: Guerra Civil e Abolição nos EUA | [Slides](https://ericbrasil.com.br/cclhm0081/slides/aula-9/) ||
+|| 10 | 14/05/2026 | Era das Abolições III: Cuba, abolição e independência | [Slides](https://ericbrasil.com.br/cclhm0081/slides/aula-10/) ||
 | 11 | 21/05/2026 | Pós-abolição, cidadania e direitos nas Américas *(assíncrona — ensaio comparativo)* | [ensaio](https://ericbrasil.com.br/cclhm0081/tarefas/ensaio_pos-abolicao_aula11.pdf) |
 | 12 | 28/05/2026 | Revolução Mexicana de 1910 | [Slides](https://ericbrasil.com.br/cclhm0081/slides/aula-12/) |
 | — | 04/06/2026 | **SEM AULA — Corpus Christi** | — |
