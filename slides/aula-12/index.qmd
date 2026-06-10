@@ -169,6 +169,13 @@ toc: false
 - **Pascual Orozco** desafia a autoridade de Madero no Norte
 - Madero indica o general **Victoriano Huerta** para pacificar o Norte
 - Huerta ganha força política e organiza um **golpe de Estado**, com apoio de antigos porfiristas
+:::
+
+---
+
+## Huerta: golpe e ditadura {.center}
+
+:::incremental
 - **Assassinato de Madero** e seu vice — Huerta assume o poder
 - Ditadura de Huerta: restauração do modelo do Porfiriato, com os mesmos nomes nos cargos
 - Oposição revolucionária se unifica contra Huerta como antes contra Díaz
@@ -242,6 +249,10 @@ toc: false
 
 - Exército Libertador do Sul (Zapata) e Divisão do Norte (Villa) se articulam para defender a revolução
 - **6 de dezembro de 1914**: Zapata e Villa entram na Cidade do México e sentam na cadeira presidencial
+
+---
+
+## {.center}
 
 ![Villa e Zapata na Cidade do México, dezembro de 1914. [Fonte](https://commons.wikimedia.org/wiki/File:Villa_y_zapata.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/57/Villa_y_zapata.jpg){width=70%}
 
