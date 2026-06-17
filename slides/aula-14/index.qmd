@@ -1,0 +1,239 @@
+---
+title: "Aula 14: Revolução Cubana de 1959"
+date: "2026-06-18"
+date-format: full
+lang: pt-br
+format:
+  revealjs:
+    theme: [default, ../custom.scss]
+    slide-number: true
+    incremental: false
+    chalkboard:
+      buttons: true
+    preview-links: auto
+    footer: "Eric Brasil | <a href=https://ericbrasil.com.br/contact/>Entre em contato</a> | CCLHM0081 — História da América Independente"
+    logo: https://raw.githubusercontent.com/ericbrasiln/cclhm0081/63cc875c152f361a14f723efbe6bd161f5aaf8b6/banner_logos_hist.png
+author:
+  - name: Eric Brasil
+    orcid: 0000-0001-5067-8475
+toc: false
+---
+
+## {.center}
+
+![Acesse a apresentação](../imgs/qrc_aula14.png)
+
+---
+
+## Revolução Cubana (1959) {.center}
+
+- Marco simbólico fundamental para todo o continente
+- Êxito e apoio a movimentos na América Latina
+- Inspiração intelectual e artística
+
+---
+
+# Presença estadunidense em Cuba {.center}
+
+---
+
+## Cuba: dependência e ditadura {.center}
+
+- Emenda Platt (1901): interferência estadunidense na constituição cubana
+- Base de Guantánamo: ocupação militar permanente dos EUA
+- Ditadura de Fulgencio Batista: regime autoritário com apoio dos EUA
+- Dependência econômica: monocultura do açúcar voltada ao mercado estadunidense
+- Imperialismo: controle econômico, político e militar
+
+---
+
+# Movimento 26 de Julho {.center}
+
+---
+
+## Movimento 26 de Julho {.center}
+
+- Jovens liderados por Fidel Castro
+- Ataque ao Quartel de Moncada (26/07/1953): aparente fracasso militar, mas vitória política e simbólica
+- "A história me absolverá!" — discurso de Fidel na prisão, que se torna manifesto revolucionário
+
+---
+
+## Fidel Castro preso após Moncada {.center}
+
+![Fidel Castro sob prisão após o ataque ao Quartel de Moncada, 1953. [Fonte](https://commons.wikimedia.org/wiki/File:Fidel_Castro_under_arrest_after_the_Moncada_attack.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/17/Fidel_Castro_under_arrest_after_the_Moncada_attack.jpg){width=55%}
+
+---
+
+## Ernesto Che Guevara {.center}
+
+![Che Guevara, 1951. [Fonte](https://commons.wikimedia.org/wiki/File:CheG1951.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c8/CheG1951.jpg){width=40%}
+
+---
+
+## Diários de Motocicleta (1952) {.center}
+
+![Mapa da primeira viagem de Che Guevara pela América Latina, 1952. [Fonte](https://commons.wikimedia.org/wiki/File:Che_Guevara-Granado_-_Mapa_1er_viaje_-_1952.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/94/Che_Guevara-Granado_-_Mapa_1er_viaje_-_1952.jpg){width=65%}
+
+[Diários de Motocicleta (filme, 2004)](https://www.youtube.com/watch?v=IvuDnj_K_Q8)
+
+---
+
+## Viagens de 1956 {.center}
+
+![Mapa das viagens de Che Guevara, 1953–1955. [Fonte](https://commons.wikimedia.org/wiki/File:Che_Guevara_-_2do_Viaje_-_1953-55.png)](https://upload.wikimedia.org/wikipedia/commons/0/00/Che_Guevara_-_2do_Viaje_-_1953-55.png){width=60%}
+
+---
+
+# Guerrilha de Sierra Maestra (1956–1958) {.center}
+
+---
+
+## Sierra Maestra {.center}
+
+- Relação com as populações rurais na região Oriental de Cuba
+- Em Havana, apoio urbano crescente: Partido Ortodoxo (nacional-popular, anti-imperialista)
+- Estratégia de guerrilha rural como base para a revolução
+
+---
+
+## Caminho até Havana {.center}
+
+![Mapa do avanço revolucionário até Havana. [Fonte](https://commons.wikimedia.org/wiki/File:Revolution_Map_of_progress.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/33/Revolution_Map_of_progress.jpg){width=70%}
+
+---
+
+# As mulheres na Revolução {.center}
+
+---
+
+## As mulheres na Revolução Cubana {.center}
+
+![Mulheres na Revolução Cubana.](https://rebellives.files.wordpress.com/2012/03/hdyee.png){width=70%}
+
+---
+
+## Celia Sánchez {.center}
+
+![Celia Sánchez, fundadora do Movimento 26 de Julho em Sierra Maestra.](https://lh3.googleusercontent.com/proxy/VPMuC76qc4clpBlktDbgC14mrwlOIxPqvkOYe5x228gPTjjhxRy4loPub4xj1AATdBdAFre91o9jFGld3n7ssr6E6XsYcCA26jEoiSLeOT5bvxOmFdjKrrHv1MfKJkXIDMXW92OyuQUS9zE){width=55%}
+
+---
+
+## Haydée Santamaría {.center}
+
+![Haydée Santamaría, combatente e fundadora da Casa das Américas.](https://laii.unm.edu/news/2016/04/margaret-randall-to-present-introducing-haydee-santamaria.jpg){width=55%}
+
+---
+
+## Bibliografia sobre mulheres na Revolução {.center}
+
+- GUITAN, A. Cuban Revolutionary Women. *Temas de Nuestra América. Revista de Estudios Latinoamericanos*, v. 27, n. 50, p. 157–185, 2011. [Link](http://45.162.204.69/index.php/tdna/article/view/5528/5352)
+- STOUT, N.; WALKER, A. *One Day in December: Celia Sánchez and the Cuban Revolution*. Monthly Review, 2013.
+- RANDALL, M. *Haydée Santamaría, Cuban Revolutionary: She Led by Transgression*. Duke University Press Books, 2015.
+
+---
+
+# A vitória revolucionária (1959) {.center}
+
+---
+
+## A virada de 1959 {.center}
+
+![Entrada dos revolucionários em Havana, janeiro de 1959.](http://cponline.thecanadianpress.com/graphics/2015/cubans-in-america/images/backgrounds/5.jpg){width=85%}
+
+---
+
+## A Revolução vitoriosa {.center}
+
+- Após 3 anos de consolidação, especialmente entre os trabalhadores rurais
+- Os guerrilheiros de Sierra Maestra, estruturados militarmente, com apoiadores em Havana
+- Conseguem pressionar o ditador Fulgencio Batista, que foge do país com seus principais aliados
+
+---
+
+## Che e Fidel {.center}
+
+![Che Guevara e Fidel Castro. [Fonte](https://commons.wikimedia.org/wiki/File:CheyFidel.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/CheyFidel.jpg/574px-CheyFidel.jpg){width=55%}
+
+---
+
+## Elementos centrais e convergentes {.center}
+
+- Projeto educacional: campanha de alfabetização (1961)
+- Reforma agrária: redistribuição de terras
+- Esses dois pontos caminham rapidamente no início dos anos 1960
+
+---
+
+# Invasão da Baía dos Porcos e alinhamento soviético {.center}
+
+---
+
+## 1961: Invasão da Baía dos Porcos {.center}
+
+- Cubanos exilados na Flórida, com conivência e apoio velado dos EUA
+- Demonstra que os EUA não aceitariam a "perda" de Cuba no contexto da Guerra Fria
+- Como garantir a revolução e afastar as ameaças estadunidenses?
+
+---
+
+## Aproximação com a URSS: "Revolução dentro da Revolução"? {.center}
+
+- Acordos econômicos entre Cuba e URSS: açúcar em troca de apoio econômico e logístico
+- Caminho inverso ao pensado por Che Guevara e outros intelectuais: defendiam autonomia econômica e modernização industrial
+
+---
+
+## 1962: Crise dos Mísseis {.center}
+
+- Crise de proporções globais: mundo à beira de uma guerra nuclear
+- Revolução assume um caminho de ortodoxia política: não há espaço para divergência, liberdade de pensamento ou diretrizes contrárias ao projeto ligado à URSS
+
+---
+
+## Autoritarismo e limites {.center}
+
+- Centralismo político
+- Falta de transparência
+- Censura
+
+---
+
+## Perseguição e exílio {.center}
+
+- Percepção de que o papel do artista e do intelectual era subsidiar o projeto revolucionário: fortalecer a direção implementada pelo Estado
+- Colônias de trabalho forçado: punição a artistas, intelectuais e homossexuais
+- Exílio: muitos que tiveram possibilidade deixaram Cuba para a Flórida
+
+---
+
+## Igualdade social e resistência anti-imperialista {.center}
+
+- Criação de instrumentos de promoção da igualdade social: educação, saúde, alguns aspectos da cultura (balé, esporte)
+- Símbolo de resistência contra o imperialismo
+
+---
+
+# Debate de textos {.center}
+
+---
+
+## Jorge Amado sobre Cuba, Brasil e a herança africana {.center}
+
+> Havana, 1986 — reflexão de Jorge Amado sobre as conexões entre Cuba, Brasil e a herança africana.
+>
+> — Jorge Amado, *Navegação de Cabotagem*. São Paulo: Círculo do Livro, pp. 239–241. [Link para o texto](https://drive.google.com/open?id=1pn6H9gaw7CZ1gJIgHhsMlR51NgMJEPo9)
+
+---
+
+## Debate: Cuba, os afro-cubanos e a Revolução {.center}
+
+- DURÃES, B. J. R. & MATA, I. M. Cuba, os afro-cubanos e a revolução: passado e presente. *História Social*, n. 17, p. 133–152. [Link](https://www.ifch.unicamp.br/ojs/index.php/rhs/article/view/280)
+
+---
+
+## Bibliografia da aula {.center}
+
+- MAIA, Iacy Maia & DURÃES, Bruno José R. Cuba, os afro-cubanos e a revolução: passado e presente. *História Social*, n. 17, 2009.
+- WASSERMAN, Cláudia. Historiografia sobre a Revolução Cubana no Brasil. *Historia Caribe*, n. 12, p. 57–76, 2007.
+- SADDI, Rafael & MELO, Érica Isabel. Gênero e Revolução Cubana: reflexões sobre as relações de gênero no Exército Rebelde. *Diálogos*, v. 6, n. 3, p. 1267–1287, 2012.
