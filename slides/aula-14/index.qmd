@@ -153,7 +153,7 @@ toc: false
 
 ## Che e Fidel {.center}
 
-![Che Guevara e Fidel Castro. [Fonte](https://commons.wikimedia.org/wiki/File:CheyFidel.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/CheyFidel.jpg/574px-CheyFidel.jpg){width=55%}
+![Che Guevara e Fidel Castro. [Fonte](https://commons.wikimedia.org/wiki/File:CheyFidel.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/CheyFidel.jpg/330px-CheyFidel.jpg){width=55%}
 
 ---
 
@@ -237,21 +237,33 @@ toc: false
 
 ---
 
-## O mito da democracia racial {.center}
+## O mito da democracia racial (1/2) {.center}
 
 - Após a abolição (1886) e as guerras de independência, discurso de "nação para todos os cubanos" e "democracia racial"
 - Partido dos Independentes de Cor (1912): tentativa de organização política negra autônoma → proibida e massacrada
+
+---
+
+## O mito da democracia racial (2/2) {.center}
+
 - **Aline Helg**: o mito da democracia racial negou reivindicações raciais e justificou repressão
 - **Alejandro de La Fuente**: o mesmo mito criou oportunidades reais (sufrágio universal, mobilização multirracial) e impediu segregação formal
 
 ---
 
-## Revolução e questão racial {.center}
+## Revolução e questão racial (1/2) {.center}
 
 :::incremental
 - Participação negra pouco expressiva no Moncada e na guerrilha
 - 1959: Fidel Castro proclama a "Proclamação contra a Discriminação"
 - Porém: fechamento das sociedades negras por temor ao "separatismo"
+:::
+
+---
+
+## Revolução e questão racial (2/2) {.center}
+
+:::incremental
 - Política de Estado: declarar que a questão racial estava resolvida
 - Políticas universalistas (educação, saúde, emprego) sem ações afirmativas específicas
 - Resultado: racismo estrutural não enfrentado
@@ -281,29 +293,17 @@ toc: false
 
 ---
 
-## Wasserman (2007): Cuba como espelho do Brasil {.center}
+## Wasserman (2007): Cuba como espelho do Brasil (1/2) {.center}
 
 - Os intelectuais brasileiros, ao escreverem sobre Cuba, faziam perguntas sobre o Brasil
 - A recepção da Revolução Cubana revela mais sobre a sociedade brasileira (Guerra Fria, ditadura, redemocratização) do que sobre Cuba
+
+---
+
+## Wasserman (2007): Cuba como espelho do Brasil (2/2) {.center}
+
 - Imprensa como "lugar de enunciação": os jornais não informavam sobre Cuba, construíam versões que se tornavam senso comum
 - Emir Sader: Cuba foi "a referência socialista mais importante" para a esquerda brasileira
-
----
-
-## Questões para debate {.center}
-
-1. A Revolução de 1959 é continuidade das lutas anticoloniais do século XIX ou ruptura? O que muda nessa perspectiva?
-2. O mito da democracia racial em Cuba se compara ao mito da democracia racial brasileiro? Que semelhanças e diferenças?
-3. Políticas universalistas sem recorte racial resolvem o racismo? O "período especial" mostra os limites dessa abordagem?
-4. Por que a produção acadêmica brasileira sobre a Revolução Cubana foi tão escassa? Como a ditadura militar moldou esse silêncio?
-
----
-
-## Questões para debate {.center}
-
-5. Como a recepção da Revolução Cubana no Brasil revela mais sobre a sociedade brasileira do que sobre Cuba?
-6. A historiografia brasileira tendeu a narrar a Revolução como um desfecho inevitável (de Martí a Fidel). Por que essa narrativa teleológica é problemática?
-7. Como pensar políticas de enfrentamento ao racismo em contextos de soberania ameaçada (embargo, Guerra Fria)?
 
 ---
 
@@ -311,12 +311,3 @@ toc: false
 
 - **Durães & Mata (2009)**: Cuba, os afro-cubanos e a revolução: passado e presente. *História Social*, n. 17. [Link](https://www.ifch.unicamp.br/ojs/index.php/rhs/article/view/280)
 - **Wasserman (2007)**: Historiografia sobre a Revolução Cubana no Brasil. *Historia Caribe*, n. 12, p. 57–76.
-
----
-
-## Bibliografia complementar {.center}
-
-- SADDI, Rafael & MELO, Érica Isabel. Gênero e Revolução Cubana: reflexões sobre as relações de gênero no Exército Rebelde. *Diálogos*, v. 6, n. 3, p. 1267–1287, 2012.
-- LÖWY, Michel (Org.). *O marxismo na América Latina*. São Paulo: Fundação Perseu Abramo, 1999.
-- GOTT, Richard. *Cuba: uma nova história*. Rio de Janeiro: Zahar, 2006.
-- FERNANDES, Florestan. *Da Guerrilha ao Socialismo: a Revolução Cubana*. São Paulo: T. A. Queiroz, 1979.
