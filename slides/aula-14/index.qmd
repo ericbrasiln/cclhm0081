@@ -67,7 +67,7 @@ toc: false
 
 ## Ernesto Che Guevara {.center}
 
-![Che Guevara, 1951. [Fonte](https://commons.wikimedia.org/wiki/File:CheG1951.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c8/CheG1951.jpg){width=40%}
+![Ernesto Guevara. Retrato. ca. 1945. [Fonte](https://commons.wikimedia.org/wiki/File:Che_Guevara_-_ca._1945.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c1/Che_Guevara_-_ca._1945.jpg){width=40%}
 
 ---
 
@@ -115,7 +115,7 @@ toc: false
 
 ## Celia Sánchez {.center}
 
-![Celia Sánchez, fundadora do Movimento 26 de Julho em Sierra Maestra.](https://lh3.googleusercontent.com/proxy/VPMuC76qc4clpBlktDbgC14mrwlOIxPqvkOYe5x228gPTjjhxRy4loPub4xj1AATdBdAFre91o9jFGld3n7ssr6E6XsYcCA26jEoiSLeOT5bvxOmFdjKrrHv1MfKJkXIDMXW92OyuQUS9zE){width=55%}
+![Celia Sánchez. [Fonte](https://commons.wikimedia.org/wiki/File:Celia_Sanchez.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b4/Celia_Sanchez.jpg){width=55%}
 
 ---
 
@@ -139,7 +139,7 @@ toc: false
 
 ## A virada de 1959 {.center}
 
-![Entrada dos revolucionários em Havana, janeiro de 1959.](http://cponline.thecanadianpress.com/graphics/2015/cubans-in-america/images/backgrounds/5.jpg){width=85%}
+![Entrada dos revolucionários em Havana, janeiro de 1959. [Fonte](https://www.voicesfromcuba.com/vfcnews/castro-enters-havana-triumphant-60-years-ago-today)](https://images.squarespace-cdn.com/content/v1/586d5a7dd2b85764bdd3ce56/1546876523864-KHDSR2P3JB4GM1C4ZAS7/Castro+Enters+Havana+Victorious+Jan+8%2C+1959){width=85%}
 
 ---
 
