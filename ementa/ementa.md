@@ -61,11 +61,12 @@ A crise do sistema colonial; Processos de independência e formação dos Estado
 
 O calendário prevê as seguintes atividades avaliativas:
 
-- **Análise de fontes**: atividade remota em **08/10/2026**.
-- **Trabalho final**: atividade remota em **10/12/2026**.
+- **AT1. Análise de fontes**: atividade remota em **08/10/2026**. **Valor: 2,0 pontos.**
+- **AT2. Apresentação de texto em sala**: será realizada ao longo do semestre. **Valor: 1,0 ponto.**
+- **TR. Trabalho final**: atividade remota em **10/12/2026**. **Valor: 7,0 pontos.**
 
 ::: {.callout-important}
-A composição das notas, a pontuação, os critérios e as orientações das atividades serão atualizados antes do início do semestre.
+A nota final corresponde à soma de **AT1 + AT2 + TR**, totalizando **10,0 pontos**. Os critérios e as orientações das atividades serão apresentados ao longo do semestre.
 :::
 
 ***
@@ -211,6 +212,8 @@ O conteúdo programático, assim como cronograma e leituras previstas, estão em
 
 **Modalidade**: Atividade remota
 
+**Atividade avaliativa**: AT1 — **2,0 pontos**
+
 ### 15/10/2026 — DIA NÃO LETIVO
 
 ::: {.callout-warning}
@@ -346,7 +349,7 @@ O conteúdo programático, assim como cronograma e leituras previstas, estão em
 **Modalidade**: Atividade remota
 
 ::: {.callout-important}
-As orientações, o formato de entrega e os critérios de avaliação serão divulgados antes da atividade.
+O trabalho final vale **7,0 pontos**. As orientações, o formato de entrega e os critérios de avaliação serão divulgados antes da atividade.
 :::
 
 ![](../imgs/banner_logos_hist.png)
