@@ -4,7 +4,7 @@ Repositório da disciplina **História da América Independente**, ministrada pe
 
 | Docente     | Período | CH  | Horário        | Sala | Contato                         |
 |:-----------:|:-------:|:---:|:--------------:|:----:|:-------------------------------:|
-| Eric Brasil | 2026.1  | 60h | Quintas, 14h   | 11    | profericbrasil@unilab.edu.br    |
+| Eric Brasil | 2026.2  | 60h | Quintas, 14h   | A definir | profericbrasil@unilab.edu.br    |
 
 ---
 
@@ -25,10 +25,13 @@ Repositório da disciplina **História da América Independente**, ministrada pe
 | 7 | Formação dos Estados Nacionais da América Latina | [Acessar](https://ericbrasil.com.br/cclhm0081/slides/aula-7/) |
 | 8 | Era das Abolições I — Caribe | [Acessar](https://ericbrasil.com.br/cclhm0081/slides/aula-8/) |
 | 9 | Era das Abolições II — Guerra Civil e Abolição nos EUA (1861-1865) | [Acessar](https://ericbrasil.com.br/cclhm0081/slides/aula-9/) |
+| 10 | Era das Abolições III — Cuba, abolição e independência | [Acessar](https://ericbrasil.com.br/cclhm0081/slides/aula-10/) |
+| 12 | Revolução Mexicana de 1910 | [Acessar](https://ericbrasil.com.br/cclhm0081/slides/aula-12/) |
+| 14 | Revolução Cubana de 1959 | [Acessar](https://ericbrasil.com.br/cclhm0081/slides/aula-14/) |
 
 ---
 
-Versão atual, semestre 2026.1, no branch `main`.
+Versão atual, semestre 2026.2, no branch `2026_2`.
 
 ---
 
