@@ -1,13 +1,13 @@
 ---
 title: "História da América Independente"
-subtitle: "CCLHM0081 - 2026.1"
+subtitle: "CCLHM0081 - 2026.2"
 author:
   - name: Eric Brasil
     email: profericbrasil@unilab.edu.br
     orcid: 0000-0001-5067-8475
     affiliation: Instituto de Humanidades e Letras - UNILAB
 date: today
-description: "Plano de Ensino da disciplina História da América Independente, ministrada pelo Prof. Eric Brasil, no semestre 2026.1, no curso de Licenciatura em História da UNILAB."
+description: "Plano de Ensino da disciplina História da América Independente, ministrada pelo Prof. Eric Brasil, no semestre 2026.2, no curso de Licenciatura em História da UNILAB."
 lang: pt-BR
 date-format: long
 format:
@@ -34,7 +34,7 @@ format:
 
 |   Código   |           Disciplina            |  CH | Dia | Horário     | Sala |
 | :--------: | :-----------------------------: | :-: | :-: | :---------: | :--: |
-| CCLHM0081  | História da América Independente | 60h | 5ª  | 14h–17h     | 11  |
+| CCLHM0081  | História da América Independente | 60h | 5ª  | 14h–17h     | A definir |
 
 ***
 
@@ -43,30 +43,30 @@ format:
 A crise do sistema colonial; Processos de independência e formação dos Estados Nacionais: história e historiografia; A revolução haitiana; Resistência negra, abolicionismos e luta pela cidadania; Povo e revolução na América Central e no Caribe; Populismo, autoritarismo e democracia no século XX; A construção do conceito de “América Latina”. O ensino de história e historiografia da América Latina na escola básica.
 
 ::: {.callout-tip}
-[Clique aqui para acessar o cronograma completo](http://ericbrasil.com.br/cclhm0081/calendario.pdf)
+[Clique aqui para acessar o cronograma completo](https://ericbrasil.com.br/cclhm0081/ementa/calendario.pdf)
 :::
 
 ::: {.callout-warning}
-**Observações (Calendário 2026.1 / UNILAB):**
+**Observações (Calendário 2026.2 / UNILAB):**
 
-- Não haverá aula em **12/03/2026** em razão da **paralisação estudantil**.
-- Não haverá aula em **02/04/2026** em razão do **recesso decretado pela reitoria**.
-- Não haverá aula em **04/06/2026 (Corpus Christi)**.
+- Não haverá aula em **17/09/2026**, durante o **Festival das Culturas**.
+- Não haverá aula em **15/10/2026**, em razão do feriado.
+- Não haverá aula em **22/10/2026**, durante a **Semana Universitária**.
+- As atividades de **08/10**, **12/11** e **10/12/2026** serão realizadas remotamente.
 :::
 
 ***
 
 # Avaliação
 
-|| Atividade | Qtd. | Pontuação | Subtotal |
-|:----------|:----:|:---------:|:---:|
-| Atividade remota | 2 | 1 ponto cada | 2 |
-| Apresentação de texto da bibliografia em sala | 2 | 1 ponto cada | 2 |
-| Ensaio comparativo — Pós-abolição | 1 | 8 pontos | 8 |
-| **Total** | | | **12 pontos** |
+O calendário prevê as seguintes atividades avaliativas:
+
+- **AT1. Análise de fontes**: atividade remota em **08/10/2026**. **Valor: 2,0 pontos.**
+- **AT2. Apresentação de texto em sala**: será realizada ao longo do semestre. **Valor: 1,0 ponto.**
+- **TR. Trabalho final**: atividade remota em **10/12/2026**. **Valor: 7,0 pontos.**
 
 ::: {.callout-important}
-A nota final é a soma das atividades, totalizando **12 pontos**. Informações detalhadas sobre cada atividade serão apresentadas e discutidas ao longo do semestre.
+A nota final corresponde à soma de **AT1 + AT2 + TR**, totalizando **10,0 pontos**. Os critérios e as orientações das atividades serão apresentados ao longo do semestre.
 :::
 
 ***
@@ -79,29 +79,7 @@ O conteúdo programático, assim como cronograma e leituras previstas, estão em
 
 ## Módulo I – Crise do Sistema colonial e os processos de independência nas Américas
 
-### AULA 1 (26/02/2026)
-
-Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a forma como o Brasil é percebido (ou não) nesse campo.
-
-✅ Esta atividade corresponde à aula do dia 26/02
-
-⏱️ Carga horária: 4 horas
-
-📝 Valor: 1,0 ponto
-
-📌 Prazo para envio: 12/03 (até 23:59)
-
-🔗 [Link do formulário](https://forms.gle/6vY4XeqP8NUas3vM6)
-
-### AULA 2 (05/03/2026)
-
-**Tema**: Cuba nos Malês! 
-
-**Modalidade**: Atividade presencial 
-
-🔗 [Clique para ver o cartaz na atividade](https://sig.unilab.edu.br/shared/verImagem?salvar=false&idArquivo=1458905&key=a45ceafc3e0480b6343c85c00ab35bdb)
-
-### AULA 3 (19/03/2026)
+### AULA 1 (13/08/2026)
 
 **Tema**: Quem escreve a história das Américas? E que disciplina é essa?
 
@@ -110,41 +88,54 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 - Discutir os fundamentos epistemológicos e historiográficos da disciplina
 - Apresentar a proposta do semestre e os combinados da disciplina
 
-### AULA 4 (26/03/2026)
+### AULA 2 (20/08/2026)
 
-**Tema**: Revolução Americana e a Formação da República dos EUA
+**Tema**: Revolução Americana
 
 **Objetivos**
 
 - Compreender os antecedentes e o processo da independência dos EUA
-- Analisar criticamente os limites do projeto de liberdade norte-americano
 
 **Bibliografia básica**
 
 - Wood Gordon. “III. Revolução”. In: *A revolução americana*. Rio de Janeiro: Objetiva, 2013.
-- Viana, Larissa Moreira. “A América negra em tempo de revolução: Raça e republica nos Estados Unidos (1776-1860)”. *Revista de História Comparada* 8, nº 2 (2014): 146–65.
 
 **Bibliografia complementar**
 
-- Karnal; Purdy; Fernandes; Morais. “O Início”. In: *História dos Estados Unidos: das origens aos século XXI*. São Paulo: Contexto, 2007. pp. 39-80.
 - Linebaugh, Peter, e Marcus Rediker. “A horda heterogênea na Revolução America”. In: *A hidra de muitas cabeças: marinheiros, escravos, plebeus e a história oculta do Atlântico revolucionário*. São Paulo: Editora Companhia das Letras, 2008.
 
 **Material de apoio**
 
 - [Questões de apoio à leitura — Wood (2013)](../bibliografia/apoio/wood_2013_questoes-apoio.pdf): roteiro com 6 perguntas sobre o capítulo “III. Revolução”, para orientar a leitura e o debate em sala.
+
+### AULA 3 (27/08/2026)
+
+**Tema**: Formação da República dos EUA
+
+**Objetivos**
+
+- Analisar criticamente os limites do projeto de liberdade norte-americano
+
+**Bibliografia básica**
+
+- Viana, Larissa Moreira. “A América negra em tempo de revolução: Raça e republica nos Estados Unidos (1776-1860)”. *Revista de História Comparada* 8, nº 2 (2014): 146–65.
+
+**Bibliografia complementar**
+
+- Karnal; Purdy; Fernandes; Morais. “O Início”. In: *História dos Estados Unidos: das origens aos século XXI*. São Paulo: Contexto, 2007. pp. 39-80.
+
+**Material de apoio**
+
 - [Questões de apoio à leitura — Viana (2014)](../bibliografia/apoio/viana_2014_questoes-apoio.pdf): roteiro com 7 perguntas sobre o artigo, para orientar a leitura e o debate em sala.
 
-### (02/04/2026) **SEM AULA — Recesso decretado pela reitoria**
+### AULA 4 (03/09/2026)
 
-### AULA 5 (09/04/2026)
-
-**Tema**: A Revolução de Santo Domingo e a construção da nação haitiana
+**Tema**: Revolução de Santo Domingo
 
 **Objetivos**
 
 - Compreender o processo da revolução haitiana
 - Analisar o papel da população negra escravizada na independência
-- Discutir os desdobramentos da revolução haitiana
 
 **Bibliografia básica**
 
@@ -154,14 +145,31 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 **Bibliografia complementar**
 
 - James, Cyril Lionel Robert. Os jacobinos negros: Toussaint L’Ouverture e a Revolução de São Domingos. São Paulo: Boitempo, 2000. [Trechos selecionados]
-- Grafenstein, Johanna von. “Haití En El Siglo XIX. Desde La Revolución de Esclavos Hasta La Ocupación Norteamericana (1791-1915)” *Istor, Revista de Historia Internacional*, CIDE, Año XII, Número 46. Otoño de 2011, Pp. 3- 32.
 
 **Material de apoio**
 
 - [Questões de apoio à leitura — Pereira (2025)](../bibliografia/apoio/pereira_2025_questoes-apoio.pdf): roteiro com 7 perguntas sobre os Capítulos 3 e 4, para orientar a leitura e o debate em sala.
 - [Questões de apoio à leitura — Fick (2004)](../bibliografia/apoio/fick_2004_questoes-apoio.pdf): roteiro com 6 perguntas sobre o artigo, para orientar a leitura e o debate em sala.
 
-### AULA 6 (16/04/2026)
+### AULA 5 (10/09/2026)
+
+**Tema**: Construção da nação haitiana
+
+**Objetivos**
+
+- Discutir os desdobramentos da revolução haitiana
+
+**Bibliografia complementar**
+
+- Grafenstein, Johanna von. “Haití En El Siglo XIX. Desde La Revolución de Esclavos Hasta La Ocupación Norteamericana (1791-1915)” *Istor, Revista de Historia Internacional*, CIDE, Año XII, Número 46. Otoño de 2011, Pp. 3- 32.
+
+### 17/09/2026 — DIA NÃO LETIVO
+
+::: {.callout-warning}
+**Festival das Culturas:** não haverá aula.
+:::
+
+### AULA 6 (24/09/2026)
 
 **Tema**: Independências da América Hispânica
 
@@ -179,7 +187,7 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 
 - Prado, Maria Lígia Coelho. “A participação das mulheres nas lutas pela independência política da América Latina”. In *América Latina no Século XIX: Tramas, Telas e Textos*. São Paulo: Edusp, 2ª. São Paulo: Edusp, 2014.
 
-### AULA 7 (23/04/2026)
+### AULA 7 (01/10/2026)
 
 **Tema**: Formação dos Estados Nacionais da América Latina
 
@@ -198,7 +206,27 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 
 ## Módulo II – Abolições, Pós-abolição e Cidadania
 
-### AULA 8 (30/04/2026)
+### AULA 8 (08/10/2026)
+
+**Tema**: Análise de fontes
+
+**Modalidade**: Atividade remota
+
+**Atividade avaliativa**: AT1 — **2,0 pontos**
+
+### 15/10/2026 — DIA NÃO LETIVO
+
+::: {.callout-warning}
+**Feriado:** não haverá aula.
+:::
+
+### 22/10/2026 — DIA NÃO LETIVO
+
+::: {.callout-warning}
+**Semana Universitária:** não haverá aula. As/os estudantes deverão participar das atividades do evento.
+:::
+
+### AULA 9 (29/10/2026)
 
 **Tema**: Era das abolições I: Caribe
 
@@ -217,7 +245,7 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 - Drescher, Seymour. A emancipação britânica. In: *Abolição: uma História da Escravidão e do Antiescravismo.* Edição: 1. São Paulo: Editora Unesp, 2011.
 - Beckles, Hilary, e Verene A Shepherd. *Freedoms Won: Caribbean Emancipations, Ethnicities, and Nationhood.* Cambridge: Cambridge University Press, 2008. pp 7-16.
 
-### AULA 9 (07/05/2026)
+### AULA 10 (05/11/2026)
 
 **Tema**: Era das abolições II: Guerra Civil e Abolição nos EUA
 
@@ -235,9 +263,11 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 
 - MIRANDA, Clícea Maria. Repercussões da Guerra Civil Americana no debate político sobre a abolição no Brasil, 1861-1888. *Anais do VII Encontro Escravidão e Liberdade no Brasil Meridional*, p. 13, 2015.
 
-### AULA 10 (14/05/2026)
+### AULA 11 (12/11/2026)
 
 **Tema**: Era das abolições III: Cuba, abolição e independência
+
+**Modalidade**: Aula remota
 
 **Objetivos**
 
@@ -254,11 +284,9 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 - FERRER, Ada. Cuba, 1898: Rethinking Race, Nation, and Empire. *Radical History Review*, v. 1999, n. 73, p. 22–46, 1999.
 - HELG, Aline. Sentido e impacto de la participación negra en la guerra de independencia de Cuba. *Revista de Indias*, v. 58, n. 212, p. 47–63, 1998.
 
-### AULA 11 (21/05/2026)
+### AULA 12 (19/11/2026)
 
 **Tema**: Pós-abolição, cidadania e direitos nas Américas
-
-**Modalidade**: Atividade assíncrona (ensaio comparativo)
 
 **Objetivos**:
 
@@ -280,15 +308,9 @@ Atividade assíncrona: debatendo o conceito de América Latina / latinidad e a f
 - SCOTT, Rebecca J. "Abolição Gradual e a Dinâmica da Emancipação dos Escravos em Cuba, 1868-86." *Estudos Econômicos*, v. 17, n. 3, p. 457–485, 1987.
 - MATA, Iacy Maia. "Raça e antiescravismo no Caribe espanhol: o ativismo de Antonio Maceo e Ramón Emeterio Betances." *Revista Brasileira de História*, v. 41, n. 86, p. 13–37, 2021.
 
-**Atividade assíncrona**
-
-::: {.callout-important}
-Esta aula será realizada de forma **assíncrona**, por meio de um **ensaio acadêmico comparativo**. A atividade vale **8,0 pontos** e deve ser entregue até **18/06/2026** pelo SIGAA. Consulte o enunciado completo em: [Ensaio comparativo — Aula 11](../tarefas/ensaio_pos-abolicao_aula11.pdf)
-:::
-
 ## Módulo III – Revoluções, Estado e Democracia no Século XX
 
-### AULA 12 (28/05/2026)
+### AULA 13 (26/11/2026)
 
 **Tema**: Revolução Mexicana de 1910
 
@@ -302,23 +324,7 @@ Esta aula será realizada de forma **assíncrona**, por meio de um **ensaio acad
 - BRUIT, Hector. *Revoluções na América Latina*. São Paulo: Atual, 1988. “Introdução” e “1. A Revolução Mexicana”.
 - Aguilar Camín, Héctor & Meyer, Lorenzo. *À Sombra da Revolução Mexicana: História mexicana contemporãnea, 1910-1989.* São Paulo: EdUSP, 2000. [Trechos selecionados]
 
-### AULA 13 (11/06/2026)
-
-**Tema**: Populismo, autoritarismo e democracia no século XX
-
-**Objetivos**
-
-- Debater os conceitos de populismo e autoritarismo
-- Analisar os regimes populistas e autoritários na América Latina
-- Compreender os desafios democráticos enfrentados na região
-
-**Bibliografia básica**
-
-- EM BREVE.
-
-### (04/06/2026) **SEM AULA — Corpus Christi (feriado)**
-
-### AULA 14 (18/06/2026)
+### AULA 14 (03/12/2026)
 
 **Tema**: Revolução Cubana de 1959
 
@@ -336,12 +342,14 @@ Esta aula será realizada de forma **assíncrona**, por meio de um **ensaio acad
 
 - SADDI, Rafael; MELO, Érica Isabel. Gênero e Revolução Cubana: reflexões sobre as relações de gênero no Exército Rebelde. *Diálogos*, vol. 6, núm. 3, sep-dez, 2012, pp. 1267-1287.
 
-### AULA 15 (25/06/2026)
+### AULA 15 (10/12/2026)
 
-**Tema**: Encerramento e avaliação da disciplina
+**Tema**: Trabalho final
 
-::: {.callout-warning}
-***Informações em breve.***
+**Modalidade**: Atividade remota
+
+::: {.callout-important}
+O trabalho final vale **7,0 pontos**. As orientações, o formato de entrega e os critérios de avaliação serão divulgados antes da atividade.
 :::
 
 ![](../imgs/banner_logos_hist.png)
