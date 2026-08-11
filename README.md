@@ -18,6 +18,7 @@ Repositório da disciplina **História da América Independente**, ministrada pe
 
 | Aula | Tema | Link |
 |:----:|------|:----:|
+| 1 | Quem escreve a história das Américas? E que disciplina é essa? | [Acessar](https://ericbrasil.com.br/cclhm0081/slides/aula-1/) |
 | 3 | Quem escreve a história das Américas? E que disciplina é essa? | [Acessar](https://ericbrasil.com.br/cclhm0081/slides/aula-3/) |
 | 4 | Revolução Americana e a Formação da República dos EUA | [Acessar](https://ericbrasil.com.br/cclhm0081/slides/aula-4/) |
 | 5 | A Revolução de Santo Domingo e a construção da nação haitiana | [Acessar](https://ericbrasil.com.br/cclhm0081/slides/aula-5/) |
