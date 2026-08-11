@@ -41,15 +41,15 @@ A disciplina propõe um estudo comparado das experiências de independência nas
 | Ementa completa | [ementa](https://ericbrasil.com.br/cclhm0081/ementa/ementa) | [ementa.pdf](https://ericbrasil.com.br/cclhm0081/ementa/ementa.pdf) |
 | Cronograma | [calendario](https://ericbrasil.com.br/cclhm0081/ementa/calendario) | [calendario.pdf](https://ericbrasil.com.br/cclhm0081/ementa/calendario.pdf) |
 
-## Slides das Aulas
+## Aulas e slides — 2026.2
 
-| Aula | Data | Tema | Link |
+| Aula | Data | Tema | Slides |
 |---|---|---|---|
-| 1 | 13/08/2026 | Quem escreve a história das Américas? E que disciplina é essa? | — |
-| 2 | 20/08/2026 | Revolução Americana | — |
-| 3 | 27/08/2026 | Formação da República dos EUA | [slides](https://ericbrasil.com.br/cclhm0081/slides/aula-3/) |
-| 4 | 03/09/2026 | Revolução de Santo Domingo | [slides](https://ericbrasil.com.br/cclhm0081/slides/aula-4/) |
-| 5 | 10/09/2026 | Construção da nação haitiana | [slides](https://ericbrasil.com.br/cclhm0081/slides/aula-5/) |
+| 1 | 13/08/2026 | Quem escreve a história das Américas? E que disciplina é essa? | [slides](https://ericbrasil.com.br/cclhm0081/slides/aula-1/) |
+| 2 | 20/08/2026 | Revolução Americana | [material conjunto das Aulas 2–3](https://ericbrasil.com.br/cclhm0081/slides/aula-4/) |
+| 3 | 27/08/2026 | Formação da República dos EUA | [material conjunto das Aulas 2–3](https://ericbrasil.com.br/cclhm0081/slides/aula-4/) |
+| 4 | 03/09/2026 | Revolução de Santo Domingo | [material conjunto das Aulas 4–5](https://ericbrasil.com.br/cclhm0081/slides/aula-5/) |
+| 5 | 10/09/2026 | Construção da nação haitiana | [material conjunto das Aulas 4–5](https://ericbrasil.com.br/cclhm0081/slides/aula-5/) |
 | — | 17/09/2026 | *Festival das Culturas — dia não letivo* | — |
 | 6 | 24/09/2026 | Independências da América Hispânica | [slides](https://ericbrasil.com.br/cclhm0081/slides/aula-6/) |
 | 7 | 01/10/2026 | Formação dos Estados Nacionais da América Latina | [slides](https://ericbrasil.com.br/cclhm0081/slides/aula-7/) |
