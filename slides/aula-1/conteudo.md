@@ -5,7 +5,7 @@ codigo: "CCLHM0081"
 semestre: "2026.2"
 aula: 1
 data: "2026-08-13"
-status: "em revisão"
+status: "aprovado"
 qmd: "index.qmd"
 html: "index.html"
 ---
