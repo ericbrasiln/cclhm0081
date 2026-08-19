@@ -108,6 +108,10 @@ O conteúdo programático, assim como cronograma e leituras previstas, estão em
 
 - [Questões de apoio à leitura — Wood (2013)](../bibliografia/apoio/wood_2013_questoes-apoio.pdf): roteiro com 6 perguntas sobre o capítulo “III. Revolução”, para orientar a leitura e o debate em sala.
 
+**Slides da aula**
+
+- [Aula 2 — Revolução Americana](https://ericbrasil.com.br/cclhm0081/slides/aula-2/)
+
 ### AULA 3 (27/08/2026)
 
 **Tema**: Formação da República dos EUA
