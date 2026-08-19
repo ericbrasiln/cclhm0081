@@ -159,13 +159,17 @@ Ocupações a Oeste: longe do controle colonial, sem representatividade nas casa
 
 ## Slide 15 — 7. Debate imperial sobre política, representação e autonomia
 
-- O Papel da Representação: No centro do debate imperial estava a questão da "representação virtual," defendida pelos britânicos, que afirmava que o Parlamento representava todos os súditos do Império, mesmo sem representantes eleitos. Os colonos americanos, porém, consideravam essa representação insuficiente e argumentavam que a imposição de impostos sem representação direta era ilegítima, resumindo sua demanda no slogan "no taxation without representation."
+- A “representação virtual” era defendida pelos britânicos: o Parlamento representaria todos os súditos do Império, mesmo sem representantes eleitos.
+- Os colonos consideravam essa representação insuficiente.
+- A imposição de impostos sem representação direta seria ilegítima: “no taxation without representation”.
 
 ---
 
 ## Slide 16 — 7. Debate imperial sobre política, representação e autonomia
 
-- Diferenças Ideológicas entre Colonos e Britânicos: Enquanto os britânicos consideravam as reformas e impostos necessários para manter o império, os colonos viam essas medidas como um ataque a seus direitos e liberdades. Essas divergências ampliaram o distanciamento entre colônias e metrópole, dificultando a reconciliação e pavimentando o caminho para a independência.
+- Os britânicos consideravam as reformas e os impostos necessários para manter o Império.
+- Os colonos viam essas medidas como um ataque a seus direitos e liberdades.
+- As divergências ampliaram o distanciamento entre colônias e metrópole, dificultando a reconciliação e pavimentando o caminho para a independência.
 
 ---
 
@@ -173,8 +177,8 @@ Ocupações a Oeste: longe do controle colonial, sem representatividade nas casa
 
 ### **Governos Informais Substituindo o Controle Real**
 
-- **Desintegração do Controle Britânico**
-- **Comitês de Correspondência**
+- Desintegração do Controle Britânico
+- Comitês de Correspondência
 
 
 **Notas docentes:**
@@ -187,9 +191,9 @@ Ocupações a Oeste: longe do controle colonial, sem representatividade nas casa
 ## Slide 18 — Criação de Governos Informais e o Congresso Continental
 
 ### **Formação do Congresso Continental da Filadélfia (1774)**
-- **Primeiro Congresso Continental**
-- **Declaração de Direitos e Agravos**
-- **Organização do Boicote**
+- Primeiro Congresso Continental
+- Declaração de Direitos e Agravos
+- Organização do Boicote
 
 
 **Notas docentes:**
@@ -203,8 +207,8 @@ Ocupações a Oeste: longe do controle colonial, sem representatividade nas casa
 ## Slide 19 — Novo Tipo de Política Popular e Retórica da Liberdade
 
 ### **Emergência de uma Política Popular**
-- **Ampliação da Participação Política**
-- **Ascensão de Líderes Populares**
+- Ampliação da Participação Política
+- Ascensão de Líderes Populares
 
 
 **Notas docentes:**
@@ -217,8 +221,8 @@ Ocupações a Oeste: longe do controle colonial, sem representatividade nas casa
 ## Slide 20 — Novo Tipo de Política Popular e Retórica da Liberdade
 
 ### **Retórica da Liberdade**
-- **Centralidade da Liberdade no Discurso Político**
-- **Impacto da Retórica**
+- Centralidade da Liberdade no Discurso Político
+- Impacto da Retórica
 
 
 **Notas docentes:**
@@ -231,8 +235,8 @@ Ocupações a Oeste: longe do controle colonial, sem representatividade nas casa
 ## Slide 21 — Novo Tipo de Política Popular e Retórica da Liberdade
 
 ### **Ampliação da Arena Política**
-- **Inclusão de Novos Grupos**
-- **Movimento de Resistência Unificado**
+- Inclusão de Novos Grupos
+- Movimento de Resistência Unificado
 
 
 **Notas docentes:**
@@ -245,8 +249,8 @@ Ocupações a Oeste: longe do controle colonial, sem representatividade nas casa
 ## Slide 22 — A Declaração de Independência
 
 ### **O Segundo Congresso Continental**
-- **Contexto e Função**
-- **Decisões Cruciais**
+- Contexto e Função
+- Decisões Cruciais
 
 
 **Notas docentes:**
@@ -259,8 +263,8 @@ Ocupações a Oeste: longe do controle colonial, sem representatividade nas casa
 ## Slide 23 — A Declaração de Independência
 
 ### **Ações Militares em Boston**
-- **Cerco de Boston**
-- **Mobilização Popular**
+- Cerco de Boston
+- Mobilização Popular
 
 
 **Notas docentes:**
@@ -273,8 +277,8 @@ Ocupações a Oeste: longe do controle colonial, sem representatividade nas casa
 ## Slide 24 — A Declaração de Independência
 
 ### **Criação do Exército Continental**
-- **Estabelecimento do Exército**
-- **Liderança de Washington**
+- Estabelecimento do Exército
+- Liderança de Washington
 
 
 **Notas docentes:**
@@ -287,8 +291,8 @@ Ocupações a Oeste: longe do controle colonial, sem representatividade nas casa
 ## Slide 25 — A Declaração de Independência
 
 ### **Importância da Obra e Ação de Thomas Paine**
-- **Publicação de "Common Sense"**
-- **Impacto Intelectual e Político**
+- Publicação de "Common Sense"
+- Impacto Intelectual e Político
 
 
 **Notas docentes:**
@@ -301,9 +305,9 @@ Ocupações a Oeste: longe do controle colonial, sem representatividade nas casa
 ## Slide 26 — A Declaração de Independência
 
 ### **A Declaração de Independência de 1776**
-- **Redação e Influências**
-- **Questões de Escravidão**
-- **Impacto Democrático**
+- Redação e Influências
+- Questões de Escravidão
+- Impacto Democrático
 
 
 **Notas docentes:**
@@ -320,6 +324,18 @@ Ocupações a Oeste: longe do controle colonial, sem representatividade nas casa
 
 ---
 
+## Slide 28 — Próxima aula
+
+**Aula 3 — 27/08/2026**
+
+**Tema:** Formação da República dos EUA
+
+**Leitura obrigatória:** VIANA, Larissa Moreira. “A América negra em tempo de revolução: raça e república nos Estados Unidos (1776–1860)”. *Revista de História Comparada*, v. 8, n. 2, 2014, p. 146–165.
+
+**Material de apoio:** [Questões de apoio à leitura — Viana (2014)](../../bibliografia/apoio/viana_2014_questoes-apoio.pdf).
+
+---
+
 # Ponto de corte editorial
 
-A Aula 2 termina no slide com a imagem da **Declaração de Independência dos EUA, de 4 de julho de 1776**. O slide seguinte do material legado, **“Um Asilo para a Liberdade”**, e todo o conteúdo posterior permanecem reservados à Aula 3.
+O conteúdo histórico da Aula 2 termina no slide com a imagem da **Declaração de Independência dos EUA, de 4 de julho de 1776**. O slide 28 é um encerramento pedagógico criado para anunciar a Aula 3. O slide seguinte do material legado, **“Um Asilo para a Liberdade”**, e todo o conteúdo posterior permanecem reservados à Aula 3.
