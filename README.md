@@ -19,7 +19,7 @@ Repositório da disciplina **História da América Independente**, ministrada pe
 | Aula | Data | Tema | Slides |
 |:----:|:----:|------|:------:|
 | 1 | 13/08/2026 | Quem escreve a história das Américas? E que disciplina é essa? | [Acessar](https://ericbrasil.com.br/cclhm0081/slides/aula-1/) |
-| 2 | 20/08/2026 | Revolução Americana | [Material conjunto das Aulas 2–3](https://ericbrasil.com.br/cclhm0081/slides/aula-4/) |
+| 2 | 20/08/2026 | Revolução Americana | [Acessar](https://ericbrasil.com.br/cclhm0081/slides/aula-2/) |
 | 3 | 27/08/2026 | Formação da República dos EUA | [Material conjunto das Aulas 2–3](https://ericbrasil.com.br/cclhm0081/slides/aula-4/) |
 | 4 | 03/09/2026 | Revolução de Santo Domingo | [Material conjunto das Aulas 4–5](https://ericbrasil.com.br/cclhm0081/slides/aula-5/) |
 | 5 | 10/09/2026 | Construção da nação haitiana | [Material conjunto das Aulas 4–5](https://ericbrasil.com.br/cclhm0081/slides/aula-5/) |
