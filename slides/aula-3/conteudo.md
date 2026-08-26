@@ -67,26 +67,29 @@ ponto_de_corte: "a partir do slide 'Um Asilo para a Liberdade'"
 
 ### É radical? Em qual contexto?
 
-- **Radicalismo da ideia:** o conceito de "Um Asilo para a Liberdade" representava uma ruptura completa com as tradições monárquicas e aristocráticas da Europa. A ideia de criar uma nação baseada em princípios de liberdade individual e igualdade foi vista como uma afronta aos sistemas estabelecidos.
-- **Contexto revolucionário:** essa ideia foi impulsionada pela necessidade de justificar a independência não apenas como uma separação política, mas como a fundação de uma sociedade completamente nova, livre das opressões do Velho Mundo.
+- Ruptura completa com as tradições monárquicas e aristocráticas da Europa.
+- Criação de uma nação baseada em princípios de liberdade individual e igualdade — vista como afronta aos sistemas estabelecidos.
+- A independência justificada não apenas como separação política, mas como fundação de uma sociedade nova, livre das opressões do Velho Mundo.
 
 ---
 
 ## Slide 6 — Um Asilo para a Liberdade: herança liberal
 
-### Herança do pensamento liberal
+### Pensamento liberal local e popular
 
-- **Pensamento liberal local e popular:** a Revolução Americana bebeu profundamente da tradição liberal que havia se desenvolvido nas colônias, onde as práticas de autogoverno local e a valorização da liberdade individual eram amplamente difundidas entre a população.
-- **Conflito com autoridades centrais:** o pensamento liberal herdado defendia uma desconfiança inerente em relação às autoridades centrais, promovendo a ideia de que o poder deve ser descentralizado e que as comunidades locais devem ter máxima autonomia. Esse conflito entre o local e o central foi uma característica duradoura do pensamento político americano.
+- A Revolução Americana bebeu da tradição liberal desenvolvida nas colônias: práticas de autogoverno local e valorização da liberdade individual.
+- Desconfiança inerente em relação às autoridades centrais: o poder deve ser descentralizado e as comunidades locais devem ter máxima autonomia.
+- O conflito entre o local e o central foi uma característica duradoura do pensamento político americano.
 
 ---
 
-## Slide 7 — A Guerra pela Independência: exércitos
+## Slide 7 — A Guerra pela Independência: exércitos em confronto
 
-### Constituição dos Exércitos Continental e Britânico
+### Exército Continental vs. Exército Britânico
 
-- **Exército Continental:** formado pelo Segundo Congresso Continental em 1775, sob o comando de George Washington. Composto principalmente por milícias coloniais; seus oficiais muitas vezes vinham de classes populares, o que diferenciava o exército colonial das forças britânicas.
-- **Exército Britânico:** um dos mais poderosos do mundo, composto por soldados profissionais e mercenários alemães (hessianos). Tinha vantagem de treinamento superior e suporte logístico, mas enfrentava desafios significativos devido à distância e à geografia americana.
+**Exército Continental:** Formado pelo Segundo Congresso Continental em 1775, sob George Washington. Milícias coloniais; oficiais de classes populares.
+
+**Exército Britânico:** Um dos mais poderosos do mundo. Soldados profissionais e mercenários alemães (hessianos). Vantagem de treinamento e logística, mas desafiado pela distância e geografia.
 
 ---
 
@@ -98,9 +101,11 @@ ponto_de_corte: "a partir do slide 'Um Asilo para a Liberdade'"
 
 ---
 
-## Slide 9 — Descrição da fonte
+## Slide 9 — Análise da fonte: questões para sala
 
-Esta aquarela, criada por Jean Baptiste Antoine de Verger, um oficial francês que lutou na Guerra da Independência Americana, retrata a diversidade dos soldados que participaram do conflito. Da esquerda para a direita, a imagem mostra um soldado negro do Primeiro Regimento de Rhode Island, um miliciano da Nova Inglaterra, um atirador de fronteira e um oficial francês. O Primeiro Regimento de Rhode Island foi uma unidade composta por 197 homens negros comandados por oficiais brancos, considerada uma unidade de elite que participou de batalhas significativas como a Batalha de Rhode Island e o Cerco de Yorktown.
+1. Quem são os quatro soldados representados e o que suas vestimentas indicam sobre suas origens e funções no conflito?
+2. Por que um oficial francês retratou essa diversidade de soldados em seu diário? O que isso revela sobre o caráter da Guerra de Independência?
+3. Qual é o significado histórico da presença de um soldado negro do Primeiro Regimento de Rhode Island nesta imagem?
 
 ---
 
@@ -114,40 +119,61 @@ Esta aquarela, criada por Jean Baptiste Antoine de Verger, um oficial francês q
 
 ---
 
-## Slide 11 — A Guerra pela Independência: desenvolvimento
+## Slide 11 — A Guerra pela Independência: desenvolvimento e consequências
 
-### Desenvolvimento e consequências
-
-- **Duração e desdobramentos:** a guerra durou quase oito anos (1775–1783), passando por diferentes fases. Começou como um conflito regional em Massachusetts e se transformou em uma guerra global, envolvendo potências europeias como a França.
-- **Consequências:** para os colonos americanos, a guerra resultou na independência e na formação de uma nova nação. Para a Grã-Bretanha, significou a perda de suas colônias mais valiosas e uma reavaliação de suas políticas imperiais.
+- A guerra durou quase oito anos (1775–1783), passando por diferentes fases. Começou como um conflito regional em Massachusetts e se transformou em uma guerra global, envolvendo potências europeias como a França.
+- Para os colonos americanos, a guerra resultou na independência e na formação de uma nova nação. Para a Grã-Bretanha, significou a perda de suas colônias mais valiosas e uma reavaliação de suas políticas imperiais.
 
 ---
 
-## Slide 12 — A Guerra pela Independência: estratégia britânica
+## Slide 12 — A Guerra: estratégia britânica — objetivo (1/2)
 
-### Estratégia britânica
+### Objetivo central
 
-- **Objetivo central:** a Grã-Bretanha inicialmente buscou isolar as colônias rebeldes, especialmente a Nova Inglaterra, mas mudou para uma estratégia de contenção e pacificação. Tentaram dominar grandes cidades como Nova York e derrotar o exército de Washington em batalhas decisivas.
-- **Desafios:** os britânicos enfrentaram dificuldades logísticas, subestimaram a resistência americana e tiveram que lidar com a vastidão do território e o apoio popular à causa rebelde.
-
----
-
-## Slide 13 — A Guerra pela Independência: o papel da França
-
-### O papel da França
-
-- **Apoio decisivo:** a entrada da França em 1778 transformou a guerra em um conflito global. Os franceses forneceram suporte militar e naval essencial, culminando na vitória americana na Batalha de Yorktown em 1781.
-- **Consequências diplomáticas:** a aliança franco-americana pressionou a Grã-Bretanha a negociar a paz, resultando no Tratado de Paris em 1783, que reconheceu a independência dos Estados Unidos.
+- Isolar as colônias rebeldes, especialmente a Nova Inglaterra.
+- Depois mudou para contenção e pacificação.
+- Dominar grandes cidades como Nova York.
+- Derrotar o exército de Washington em batalhas decisivas.
 
 ---
 
-## Slide 14 — Afro-Americanos na Guerra de Independência
+## Slide 13 — A Guerra: estratégia britânica — desafios (2/2)
+
+### Desafios
+
+- Dificuldades logísticas.
+- Subestimação da resistência americana.
+- Vastidão do território americano.
+- Apoio popular à causa rebelde.
+
+---
+
+## Slide 14 — A Guerra: o papel da França — apoio decisivo (1/2)
+
+### Apoio decisivo
+
+- Entrada da França em 1778 transformou a guerra em um conflito global.
+- Suporte militar e naval essencial.
+- Vitória americana na Batalha de Yorktown em 1781.
+
+---
+
+## Slide 15 — A Guerra: o papel da França — consequências diplomáticas (2/2)
+
+### Consequências diplomáticas
+
+- Aliança franco-americana pressionou a Grã-Bretanha a negociar a paz.
+- Tratado de Paris em 1783 reconheceu a independência dos Estados Unidos.
+
+---
+
+## Slide 16 — Afro-Americanos na Guerra de Independência
 
 > Lanning, Michael Lee. *African Americans in the Revolutionary War*. New York: Citadel Press, 2021.
 
 ---
 
-## Slide 15 — Debates sobre o alistamento de Afro-Americanos (1/2)
+## Slide 17 — Debates sobre o alistamento de Afro-Americanos (1/2)
 
 ### Exclusão inicial
 
@@ -156,7 +182,7 @@ Esta aquarela, criada por Jean Baptiste Antoine de Verger, um oficial francês q
 
 ---
 
-## Slide 16 — Debates sobre o alistamento de Afro-Americanos (2/2)
+## Slide 18 — Debates sobre o alistamento de Afro-Americanos (2/2)
 
 ### Mudança na política
 
@@ -165,7 +191,7 @@ Esta aquarela, criada por Jean Baptiste Antoine de Verger, um oficial francês q
 
 ---
 
-## Slide 17 — Utilização e papel dos soldados afro-americanos (1/2)
+## Slide 19 — Utilização e papel dos soldados afro-americanos (1/2)
 
 ### Papéis em combate
 
@@ -174,7 +200,7 @@ Esta aquarela, criada por Jean Baptiste Antoine de Verger, um oficial francês q
 
 ---
 
-## Slide 18 — Utilização e papel dos soldados afro-americanos (2/2)
+## Slide 20 — Utilização e papel dos soldados afro-americanos (2/2)
 
 ### Unidades notáveis
 
@@ -183,7 +209,7 @@ Esta aquarela, criada por Jean Baptiste Antoine de Verger, um oficial francês q
 
 ---
 
-## Slide 19 — Afro-Americanos e o desfecho da guerra (1/2)
+## Slide 21 — Afro-Americanos e o desfecho da guerra (1/2)
 
 ### Estratégia britânica
 
@@ -192,7 +218,7 @@ Esta aquarela, criada por Jean Baptiste Antoine de Verger, um oficial francês q
 
 ---
 
-## Slide 20 — Afro-Americanos e o desfecho da guerra (2/2)
+## Slide 22 — Afro-Americanos e o desfecho da guerra (2/2)
 
 ### Consequências para os afro-americanos
 
@@ -201,16 +227,16 @@ Esta aquarela, criada por Jean Baptiste Antoine de Verger, um oficial francês q
 
 ---
 
-## Slide 21 — O término da Guerra e a Constituição da República
+## Slide 23 — O término da Guerra e a Constituição da República
 
 ### Como a guerra termina
 
-- **Fatores decisivos:** a guerra pela independência americana terminou em grande parte devido à exaustão militar e econômica da Grã-Bretanha, à entrada decisiva da França no conflito e às estratégias militares eficazes de George Washington, incluindo a vitória crucial em Yorktown em 1781.
-- **Tratado de Paris de 1783:** assinado em 1783, oficialmente reconhecendo a independência dos Estados Unidos e estabelecendo as fronteiras da nova nação. A Grã-Bretanha foi forçada a ceder vastos territórios aos americanos, marcando o fim de suas colônias na América do Norte.
+- A guerra terminou devido à exaustão militar e econômica da Grã-Bretanha, à entrada decisiva da França e às estratégias de George Washington, incluindo a vitória em Yorktown em 1781.
+- Tratado de Paris de 1783: reconheceu oficialmente a independência dos Estados Unidos e estabeleceu as fronteiras da nova nação.
 
 ---
 
-## Slide 22 — A Constituição dos EUA
+## Slide 24 — A Constituição dos EUA
 
 **Mídia:** primeira página da Constituição dos Estados Unidos. Lê-se acima a frase *We, the People* (Nós, o povo).
 
@@ -218,42 +244,55 @@ Esta aquarela, criada por Jean Baptiste Antoine de Verger, um oficial francês q
 
 ---
 
-## Slide 23 — A Constituição da República dos EUA
+## Slide 25 — A Constituição da República dos EUA
 
 ### Formação de uma nova nação
 
-- Com o fim da guerra, os Estados Unidos enfrentaram o desafio de criar um governo estável. O período pós-guerra viu a criação dos Artigos da Confederação, que inicialmente governaram a nova nação, mas provaram ser insuficientes devido à falta de um governo central forte.
-- Reconhecendo a necessidade de uma estrutura de governo mais robusta, os líderes americanos se reuniram na Filadélfia para redigir a Constituição dos Estados Unidos. Esta convenção estabeleceu um sistema federal com equilíbrio de poderes entre executivo, legislativo e judiciário.
+- Pós-guerra: criação dos Artigos da Confederação — governo insuficiente, sem poder central forte.
+- Líderes se reúnem na Filadélfia para redigir a Constituição.
+- Sistema federal com equilíbrio de poderes: executivo, legislativo e judiciário.
 
 ---
 
-## Slide 24 — A Constituição da República dos EUA: republicanismo
+## Slide 26 — A Constituição da República dos EUA: republicanismo
 
 ### Estabelecimento do republicanismo
 
-- A nova república foi fundada sobre princípios republicanos, com ênfase na liberdade individual, no autogoverno e na separação de poderes. A Constituição incorporou esses ideais, promovendo a ideia de uma nação governada por leis e não por monarcas.
-- A ratificação da Constituição foi acompanhada por intensos debates, resultando na adoção da Declaração de Direitos (Bill of Rights) em 1791, que garantiu liberdades fundamentais como a liberdade de expressão, religião e o direito a um julgamento justo.
+- República fundada em princípios republicanos: liberdade individual, autogoverno e separação de poderes.
+- Nação governada por leis, não por monarcas.
+- Ratificação acompanhada de intensos debates.
+- Adoção da Declaração de Direitos (Bill of Rights) em 1791: liberdade de expressão, religião e julgamento justo.
 
 ---
 
-## Slide 25 — Raça e República nos Estados Unidos
+## Slide 27 — Raça e República nos Estados Unidos
 
 > Viana, Larissa Moreira. "A América negra em tempo de revolução: raça e república nos Estados Unidos (1776–1860)". *Revista de História Comparada*, v. 8, n. 2, 2014, pp. 146–165.
 
 ---
 
-## Slide 26 — Questões principais do texto
+## Slide 28 — Questões principais do texto
 
 ### Viana (2014)
 
 - **Objetivo central:** analisar e contrapor as visões de Thomas Jefferson e James McCune Smith sobre o lugar político e social dos negros na república norte-americana.
-- **Thomas Jefferson:** defensor da inferioridade racial, cujas ideias sobre a natureza e posição dos negros na sociedade foram influentes na formação da república.
-- **James McCune Smith:** médico e abolicionista negro que desafiou as ideias de Jefferson, defendendo uma visão radicalmente antirracista e a plena integração dos negros na sociedade americana.
+- **Thomas Jefferson:** defensor da inferioridade racial, cujas ideias foram influentes na formação da república.
+- **James McCune Smith:** médico e abolicionista negro que desafiou as ideias de Jefferson, defendendo uma visão radicalmente antirracista.
 - **Contexto histórico:** o debate ocorre no contexto da formação da república americana e da luta dos negros por reconhecimento e direitos em meio ao avanço das ideias racistas no século XIX.
 
 ---
 
-## Slide 27 — Thomas Jefferson (1743–1826)
+## Slide 29 — Thomas Jefferson (retrato)
+
+**Mídia:** retrato oficial de Thomas Jefferson por Rembrandt Peale, 1800.
+
+**Arquivo local:** `../imgs/jefferson.jpg`.
+
+**Fonte da imagem:** [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/0/07/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg).
+
+---
+
+## Slide 30 — Thomas Jefferson (1743–1826)
 
 - Foi um proeminente líder da independência americana, terceiro presidente dos Estados Unidos e autor da Declaração de Independência.
 - Acreditava na inferioridade dos negros em relação aos brancos, como expresso em sua obra *Notas sobre o Estado da Virgínia*. Defendia a segregação e colonização dos negros libertos fora dos Estados Unidos.
@@ -261,7 +300,7 @@ Esta aquarela, criada por Jean Baptiste Antoine de Verger, um oficial francês q
 
 ---
 
-## Slide 28 — James McCune Smith (1813–1865)
+## Slide 31 — James McCune Smith (retrato)
 
 **Mídia:** retrato de James McCune Smith.
 
@@ -269,7 +308,7 @@ Esta aquarela, criada por Jean Baptiste Antoine de Verger, um oficial francês q
 
 ---
 
-## Slide 29 — James McCune Smith: trajetória
+## Slide 32 — James McCune Smith: trajetória
 
 - Primeiro médico afro-americano a obter um diploma universitário, educado na Universidade de Glasgow, Escócia.
 - Como ativista contra a escravidão, usou sua voz para desafiar as noções de inferioridade racial propagadas por Jefferson e outros contemporâneos.
@@ -277,15 +316,15 @@ Esta aquarela, criada por Jean Baptiste Antoine de Verger, um oficial francês q
 
 ---
 
-## Slide 30 — Jefferson e a condição dos negros na República
+## Slide 33 — Jefferson e a condição dos negros na República
 
-- **Visão de Jefferson:** defendeu que os negros eram naturalmente inferiores aos brancos. Via a escravidão como problemática, mas acreditava que a emancipação deveria ser acompanhada da colonização dos negros fora dos Estados Unidos.
-- **Impacto na república:** as ideias de Jefferson sobre raça influenciaram profundamente a formação da república americana, onde a cidadania plena foi negada aos negros. Ele considerava inviável a coexistência de brancos e negros em igualdade no mesmo território.
+- **Visão de Jefferson:** defendeu que os negros eram naturalmente inferiores aos brancos. Via a escravidão como problemática, mas acreditava que a emancipação deveria ser acompanhada da colonização dos negros fora dos EUA.
+- **Impacto na república:** as ideias de Jefferson influenciaram profundamente a formação da república, onde a cidadania plena foi negada aos negros. Ele considerava inviável a coexistência de brancos e negros em igualdade no mesmo território.
 - **Contradições:** embora autor da Declaração de Independência, que proclamava que "todos os homens são criados iguais", Jefferson manteve a escravidão e defendeu políticas que perpetuavam a exclusão racial.
 
 ---
 
-## Slide 31 — McCune Smith: república, exclusão e cidadania negra
+## Slide 34 — McCune Smith: república, exclusão e cidadania negra
 
 - **Contraponto a Jefferson:** argumentou que os negros tinham tanto direito à cidadania plena quanto os brancos. Refutava as noções de inferioridade racial e lutava contra a exclusão dos negros da república americana.
 - **Visão de cidadania:** defendia que a república deveria ser inclusiva e democrática, garantindo direitos iguais para todos os seus cidadãos, independentemente da raça. Via a exclusão dos negros como uma falha moral e política da república em formação.
@@ -293,22 +332,23 @@ Esta aquarela, criada por Jean Baptiste Antoine de Verger, um oficial francês q
 
 ---
 
-## Slide 32 — De McCune Smith a Jefferson: raça e antirracismo em debate
+## Slide 35 — De Thomas Jefferson a McCune Smith: raça e antirracismo em debate
 
-- **Debate central:** o confronto entre as ideias de Thomas Jefferson e James McCune Smith encapsula o debate central sobre raça na república americana. Jefferson representa a visão tradicional e excludente; McCune Smith simboliza a luta por inclusão e igualdade.
-- **Raça e democracia:** McCune Smith criticava a república por não cumprir suas promessas de liberdade e igualdade, destacando as contradições entre os princípios fundadores da nação e a realidade vivida pelos negros.
+- **Debate central:** o confronto entre as ideias de Jefferson e McCune Smith encapsula o debate central sobre raça na república americana. Jefferson representa a visão tradicional e excludente; McCune Smith simboliza a luta por inclusão e igualdade.
+- **Raça e democracia:** McCune Smith criticava a república por não cumprir suas promessas de liberdade e igualdade, destacando as contradições entre os princípios fundadores e a realidade vivida pelos negros.
 - **Legado do debate:** o diálogo entre as ideias de Jefferson e McCune Smith continua a ressoar na história americana, influenciando os debates contemporâneos sobre raça, cidadania e os desafios da inclusão em uma democracia multirracial.
 
 ---
 
-## Slide 33 — Bibliografia
+## Slide 36 — Bibliografia
 
+- LANNING, Michael Lee. *African Americans in the Revolutionary War*. New York: Citadel Press, 2021.
 - WOOD, Gordon. "III. Revolução". In: **A revolução americana**. Rio de Janeiro: Objetiva, 2013.
 - VIANA, Larissa Moreira. "A América negra em tempo de revolução: raça e república nos Estados Unidos (1776–1860)". **Revista de História Comparada**, v. 8, n. 2, 2014, pp. 146–165.
 
 ---
 
-## Slide 34 — Próxima aula
+## Slide 37 — Próxima aula
 
 **Aula 4 — 03/09/2026**
 
