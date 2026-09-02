@@ -5,7 +5,7 @@ codigo: "CCLHM0081"
 semestre: "2026.2"
 aula: 4
 data: "2026-09-03"
-status: "em revisão"
+status: "aprovado"
 qmd: "index.qmd"
 html: "index.html"
 fonte_legada: "slides/aula-5/index.md (2026.1, Parte I); slides/aula-5/index-aula5.md (= 2025-2 aulas/5/index.qmd); slides/aula-5/index-aula6.md (= 2025-2, reservado à aula 5)"
@@ -14,7 +14,7 @@ ponto_de_corte: "Independência do Haiti (1º/01/1804). Construção da nação 
 
 # Conteúdo da Aula 4
 
-> **Arquivo editorial de revisão.** Faça aqui as alterações de conteúdo da aula. Enquanto o campo `status` estiver como `em revisão`, o `index.qmd` não deve ser atualizado. O `index.html` pode ser mantido como **prévia de leitura**, quando solicitado pelo docente, mas não constitui a versão final aprovada. Ao encerrar a revisão, altere o status para `aprovado` ou informe ao Stoner; então o conteúdo será sincronizado com `index.qmd` e transposto para a versão final do HTML responsivo.
+> **Revisão encerrada e aprovada pelo docente em 03/09/2026** (padrão de fechamento da aula 3). O `index.html` desta aula é a **versão publicada**. O `index.qmd` permanece como legado de 2026.1 (referência histórica), sem sincronização — a fonte de verdade do conteúdo 2026.2 é este `conteudo.md` e o `index.html`.
 
 > **Base desta versão:** mescla do material de 2026.1 (`slides/aula-5/index.md`, Parte I — Revolução de Santo Domingo) com o material de 2025.2 (`aulas/5/index.qmd` — blocos de C. L. R. James, cronologia detalhada, discussão do texto de Soares e Silva). Decisões docentes de 02/09/2026: dois blocos James no meio da aula; vídeo de abertura substituído (Emicida, "Haiti/Dedo Na Ferida"); sem link Prezi; retratos dos três líderes agrupados em um único slide; notas docentes preservadas como notas (invisíveis nos slides).
 
