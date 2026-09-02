@@ -327,3 +327,4 @@ O Haiti não é aqui
 - Retratos agrupados em um único slide (decisão docente de 02/09/2026); a fonte original das imagens não estava indicada nos legados.
 - Notas docentes (`::: notes`) preservadas como "Notas docentes" (invisíveis nos slides), conforme decisão docente de 02/09/2026.
 - Letra de "Haiti/Dedo Na Ferida" incluída no slide de abertura musical (vídeo + letra em 3 colunas simultâneos), fornecida pelo docente em 02/09/2026.
+- Embed do vídeo corrigido (03/09/2026): iframe no formato padrão do YouTube — `src="https://www.youtube.com/embed/3aJrmuY-Yo0?si=mx-rZakBfO42F9gJ"`, com `allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"` e `referrerpolicy="strict-origin-when-cross-origin"` — após erro de configuração do player relatado pelo docente na verificação local.
