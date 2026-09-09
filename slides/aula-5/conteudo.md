@@ -56,13 +56,9 @@ A música foi deslocada da abertura da Aula 4 para o início desta aula, conform
 
 ---
 
-## Slide 4 — Letra: Haiti/Dedo Na Ferida
+## Slide 4 — Letra: Haiti/Dedo Na Ferida (1/3)
 
-**Mídia:** letra da música em três colunas.
-
-**Autores:** Caetano Veloso (estrofes 1–3 e refrão) e Emicida (estrofes 4–5 e refrão final). Letra fornecida pelo docente em 02/09/2026 (mesma base da Aula 4).
-
-**Refrão:** "O Haiti é aqui / O Haiti não é aqui"
+**Mídia:** letra em três colunas, fonte ampliada para leitura em sala.
 
 > (Caetano Veloso)
 > Quando você for convidado pra subir no adro
@@ -75,6 +71,13 @@ A música foi deslocada da abertura da Aula 4 para o início desta aula, conform
 > (E são quase todos pretos)
 > Como é que pretos, pobres e mulatos
 > E quase brancos quase pretos de tão pobres são tratados
+
+---
+
+## Slide 5 — Letra: Haiti/Dedo Na Ferida (2/3)
+
+**Mídia:** letra em três colunas, fonte ampliada para leitura em sala.
+
 > (Emicida)
 > E não importa se os olhos do mundo inteiro
 > Possam estar por um momento
@@ -95,7 +98,13 @@ A música foi deslocada da abertura da Aula 4 para o início desta aula, conform
 >
 > O Haiti é aqui
 > O Haiti não é aqui
->
+
+---
+
+## Slide 6 — Letra: Haiti/Dedo Na Ferida (3/3)
+
+**Mídia:** letra em três colunas, fonte ampliada para leitura em sala.
+
 > Vi condomínios rasgarem mananciais
 > A mando de quem fala de Deus e age como satanás
 > (Uma lei) quem pode menos, chora mais,
@@ -124,7 +133,7 @@ A música foi deslocada da abertura da Aula 4 para o início desta aula, conform
 
 ---
 
-## Slide 5 — Objetivos da aula
+## Slide 7 — Objetivos da aula
 
 - Discutir os desdobramentos da Revolução Haitiana.
 
@@ -132,7 +141,7 @@ A música foi deslocada da abertura da Aula 4 para o início desta aula, conform
 
 ---
 
-## Slide 6 — Percurso da aula
+## Slide 8 — Percurso da aula
 
 - Transformações econômicas e reconfiguração agrária após a independência.
 - Relações de trabalho, cidadania e participação política.
@@ -140,13 +149,13 @@ A música foi deslocada da abertura da Aula 4 para o início desta aula, conform
 
 ---
 
-## Slide 7 — A Construção da Nação Haitiana (1804–1850)
+## Slide 9 — A Construção da Nação Haitiana (1804–1850)
 
 **Parte II** do percurso iniciado na Aula 4: a construção política, econômica e social do Haiti independente.
 
 ---
 
-## Slide 8 — Aspectos Econômicos
+## Slide 10 — Aspectos Econômicos
 
 - **Diminuição da Produção de Açúcar e Café**: Após a independência, a produção das principais commodities do Haiti, como o açúcar e o café, caiu drasticamente.
 - **Reconfiguração Agrícola**: A economia se voltou para a agricultura de subsistência, com pequenas propriedades familiares tomando o lugar das grandes plantações coloniais.
@@ -156,7 +165,7 @@ A música foi deslocada da abertura da Aula 4 para o início desta aula, conform
 
 ---
 
-## Slide 9 — Relações de Trabalho
+## Slide 11 — Relações de Trabalho
 
 - **Abolição da Escravidão**: O fim da escravidão trouxe novas formas de trabalho, com a transição para o sistema de *cultivadores*, que restringia a liberdade de movimento dos ex-escravos.
 - **Código Rural (1826)**: Criado por Boyer, o código rural obrigava os trabalhadores a permanecerem nas plantações, criando condições de trabalho semelhantes às da escravidão.
@@ -166,7 +175,7 @@ A música foi deslocada da abertura da Aula 4 para o início desta aula, conform
 
 ---
 
-## Slide 10 — Participação Política e Cidadania
+## Slide 12 — Participação Política e Cidadania
 
 - **Direitos Limitados**: A maioria da população ex-escravizada não teve participação política efetiva, com o controle do Estado concentrado nas elites.
 - **Influência dos Antigos Livres**: A cidadania era uma questão central, mas as tensões entre os *anciens libres* (antigos livres) e os recém-libertados criaram barreiras políticas.
@@ -176,7 +185,7 @@ A música foi deslocada da abertura da Aula 4 para o início desta aula, conform
 
 ---
 
-## Slide 11 — Disputas Políticas entre Coloureds e Blacks
+## Slide 13 — Disputas Políticas entre Coloureds e Blacks
 
 - **Tensões Internas**: A elite mulata (*gens de couleur*) e a população negra recém-liberta tinham interesses divergentes, criando tensões políticas internas.
 - **Divisão Norte e Sul**: As tensões levaram à formação de dois Estados, um no norte, liderado por Christophe, e outro no sul, liderado por Pétion.
@@ -186,7 +195,7 @@ A música foi deslocada da abertura da Aula 4 para o início desta aula, conform
 
 ---
 
-## Slide 12 — Formação de Dois Estados: Norte e Sul
+## Slide 14 — Formação de Dois Estados: Norte e Sul
 
 - **Estado no Norte**: Liderado por Henry Christophe, que se proclamou Rei Henry I em 1811, estabelecendo uma monarquia autoritária e militarizada.
 - **Estado no Sul**: Governado por Alexandre Pétion, que estabeleceu uma república no sul com uma abordagem mais democrática e focada em reformas agrárias.
@@ -196,7 +205,7 @@ A música foi deslocada da abertura da Aula 4 para o início desta aula, conform
 
 ---
 
-## Slide 13 — Para a discussão
+## Slide 15 — Para a discussão
 
 **Base de leitura:** FICK (2004); GRAFENSTEIN (2011).
 
@@ -207,7 +216,7 @@ A música foi deslocada da abertura da Aula 4 para o início desta aula, conform
 
 ---
 
-## Slide 14 — Bibliografia da aula
+## Slide 16 — Bibliografia da aula
 
 **Leituras discutidas na aula**
 
@@ -223,7 +232,7 @@ A música foi deslocada da abertura da Aula 4 para o início desta aula, conform
 
 ---
 
-## Slide 15 — Próxima aula
+## Slide 17 — Próxima aula
 
 **Aula 6 — 24/09/2026**
 
@@ -235,7 +244,7 @@ A música foi deslocada da abertura da Aula 4 para o início desta aula, conform
 
 # Ponto de corte editorial
 
-**Último slide incluído:** Slide 15 — Próxima aula.
+**Último slide incluído:** Slide 17 — Próxima aula.
 
 **Primeiro slide reservado à aula seguinte:** Independências da América Hispânica.
 
@@ -243,7 +252,8 @@ A música foi deslocada da abertura da Aula 4 para o início desta aula, conform
 
 ## Notas editoriais
 
-- Revisão docente de 09/09/2026: (1) o vídeo da abertura musical ficou centralizado em slide próprio, com a legenda da fonte, sem a letra; (2) a letra passou para um slide próprio, em três colunas; (3) as notas docentes dos slides de conteúdo (8–12) foram tornadas invisíveis na apresentação (speaker notes), permanecendo nesta fonte editorial; (4) inserido o slide "Para a discussão" (13) antes da bibliografia, com base em Fick (2004) e Grafenstein (2011).
-- Fick (2004) foi acrescentada à bibliografia da aula por ser a base do debate final; as questões de apoio correspondentes já existiam em `bibliografia/apoio/` e têm cabeçalho "Aula 5". Reverter se necessário.
-- A letra de "Haiti/Dedo Na Ferida" foi fornecida pelo docente em 02/09/2026 (mesma base utilizada na Aula 4).
+- Revisão docente de 09/09/2026 (1ª rodada): vídeo centralizado em slide próprio com legenda da fonte; letra em slide próprio; notas docentes dos slides de conteúdo tornadas invisíveis (speaker notes); slide "Para a discussão" inserido antes da bibliografia, com base em Fick (2004) e Grafenstein (2011).
+- Revisão docente de 09/09/2026 (2ª rodada): linha de crédito de autoria removida do slide da letra (a proveniência permanece registrada aqui); letra dividida em três slides (4–6) com fonte ampliada, para leitura em sala.
+- A letra foi fornecida pelo docente em 02/09/2026 (mesma base da Aula 4): Caetano Veloso (estrofes 1–3, refrão) e Emicida (estrofes 4–5, refrão final). Os marcadores "(Caetano Veloso)" e "(Emicida)" integram o texto fornecido e foram preservados.
 - A música foi deslocada da abertura da Aula 4 (não houve tempo de exibi-la) para o início desta aula, conforme orientação docente de 09/09/2026.
+- Fick (2004) foi acrescentada à bibliografia da aula por ser a base do debate final; as questões de apoio correspondentes já existiam em `bibliografia/apoio/` e têm cabeçalho "Aula 5". Reverter se necessário.
