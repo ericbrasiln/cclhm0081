@@ -140,23 +140,13 @@ Pela primeira vez, representantes coloniais participaram de um processo legislat
 
 ---
 
-## Slide 11 — # Para discussão
-
-## Para discussão
-
-> Como a Constituição de Cádiz articulou inclusão e exclusão?
-
-> Em que medida sua revogação em 1814 acelerou a ruptura com a Espanha?
-
----
-
-## Slide 12 — Parte II — Revolução ou não?
+## Slide 11 — Parte II — Revolução ou não?
 
 # Parte II — Revolução ou não?
 
 ---
 
-## Slide 13 — # Por que importa o conceito?
+## Slide 12 — # Por que importa o conceito?
 
 ## Por que importa o conceito?
 
@@ -172,7 +162,7 @@ A discussão central da aula: as lutas de independência foram revoluções? Dif
 
 ---
 
-## Slide 14 — # 1. Consenso liberal-nacionalista
+## Slide 13 — # 1. Consenso liberal-nacionalista
 
 ## 1. Consenso liberal-nacionalista
 
@@ -188,7 +178,7 @@ Historiografia liberal tradicional: independência como revolução no sentido e
 
 ---
 
-## Slide 15 — # 2. Revolução atlântica
+## Slide 14 — # 2. Revolução atlântica
 
 ## 2. Revolução atlântica
 
@@ -201,7 +191,7 @@ Historiografia liberal tradicional: independência como revolução no sentido e
 
 ---
 
-## Slide 16 — # 3. Chaunu e a crítica marxista
+## Slide 15 — # 3. Chaunu e a crítica marxista
 
 ## 3. Chaunu e a crítica marxista
 
@@ -216,7 +206,7 @@ Marxismo nega o caráter revolucionário ao apontar pouca transformação nas es
 
 ---
 
-## Slide 17 — # François-Xavier Guerra
+## Slide 16 — # François-Xavier Guerra
 
 ## François-Xavier Guerra
 
@@ -231,7 +221,7 @@ Para Guerra, o processo hispano-americano é parte de um fenômeno maior — a m
 
 ---
 
-## Slide 18 — # 1808–1810: ponto de mutação
+## Slide 17 — # 1808–1810: ponto de mutação
 
 ## 1808–1810: ponto de mutação
 
@@ -246,7 +236,7 @@ Guerra destaca este período como ponto de mutação ideológica decisivo. Dispu
 
 ---
 
-## Slide 19 — # Um "laboratório político"
+## Slide 18 — # Um "laboratório político"
 
 ## Um "laboratório político"
 
@@ -261,23 +251,13 @@ A crise dinástica e as guerras criaram um verdadeiro laboratório político nas
 
 ---
 
-## Slide 20 — # Para discussão
-
-## Para discussão
-
-> Foram as independências hispano-americanas **revoluções**?
-
-> Qual das três leituras historiográficas melhor explica o processo — ou elas se complementam?
-
----
-
-## Slide 21 — Parte III — As campanhas de independência
+## Slide 19 — Parte III — As campanhas de independência
 
 # Parte III — As campanhas de independência
 
 ---
 
-## Slide 22 — # Panorama: 1808–1824
+## Slide 20 — # Panorama: 1808–1824
 
 ## Panorama: 1808–1824
 
@@ -295,7 +275,7 @@ Processos longos e não lineares. Conflitos armados entre 1810 e 1825 envolvendo
 
 ---
 
-## Slide 23 — # Ideias ou estruturas?
+## Slide 21 — # Ideias ou estruturas?
 
 ## Ideias ou estruturas?
 
@@ -305,7 +285,7 @@ Processos longos e não lineares. Conflitos armados entre 1810 e 1825 envolvendo
 
 ---
 
-## Slide 24 — # José de San Martín
+## Slide 22 — # José de San Martín
 
 ## José de San Martín
 
@@ -321,7 +301,7 @@ Oficial do exército espanhol antes de retornar ao Prata. Perfil mais conservado
 
 ---
 
-## Slide 25 — # Simón Bolívar
+## Slide 23 — # Simón Bolívar
 
 ## Simón Bolívar
 
@@ -337,7 +317,7 @@ Sonhou com uma federação latino-americana unida sob princípios republicanos e
 
 ---
 
-## Slide 26 — # Bolívar desiludido
+## Slide 24 — # Bolívar desiludido
 
 ## Bolívar desiludido
 
@@ -353,7 +333,7 @@ O Congresso do Panamá (1826) simbolizou a tentativa fracassada de unidade — d
 
 ---
 
-## Slide 27 — # México: singularidade popular
+## Slide 25 — # México: singularidade popular
 
 ## México: singularidade popular
 
@@ -369,7 +349,7 @@ Hidalgo confere ao movimento dimensão social e racial explícita — abolição
 
 ---
 
-## Slide 28 — # Morelos e o medo das elites
+## Slide 26 — # Morelos e o medo das elites
 
 ## Morelos e o medo das elites
 
@@ -384,23 +364,13 @@ Morelos mantém o projeto popular. As elites crioulas, temerosas da dimensão ra
 
 ---
 
-## Slide 29 — # Para discussão
-
-## Para discussão
-
-> O que diferencia Bolívar e San Martín como líderes e como projetos políticos?
-
-> Por que o caso mexicano é singular entre as independências hispano-americanas?
-
----
-
-## Slide 30 — Parte IV — Quem fez as independências?
+## Slide 27 — Parte IV — Quem fez as independências?
 
 # Parte IV — Quem fez as independências?
 
 ---
 
-## Slide 31 — # Pluralidade de sujeitos
+## Slide 28 — # Pluralidade de sujeitos
 
 ## Pluralidade de sujeitos
 
@@ -415,7 +385,7 @@ Seguindo Di Meglio: a participação popular foi massiva, diversa e decisiva —
 
 ---
 
-## Slide 32 — # Indígenas em armas
+## Slide 29 — # Indígenas em armas
 
 ## Indígenas em armas
 
@@ -430,7 +400,7 @@ Muitos grupos populares mudaram de lado — a adesão a insurgentes ou realistas
 
 ---
 
-## Slide 33 — # Padres na insurgência
+## Slide 30 — # Padres na insurgência
 
 ## Padres na insurgência
 
@@ -445,7 +415,7 @@ Circulavam ideias de igualdade e justiça divina ("Dios nos dotó con la liberta
 
 ---
 
-## Slide 34 — # Mulheres nas guerras
+## Slide 31 — # Mulheres nas guerras
 
 ## Mulheres nas guerras
 
@@ -460,7 +430,7 @@ Presença feminina significativa e multifacetada — de lideranças guerrilheira
 
 ---
 
-## Slide 35 — # Afrodescendentes em armas
+## Slide 32 — # Afrodescendentes em armas
 
 ## Afrodescendentes em armas
 
@@ -475,7 +445,7 @@ Com Rodrigues (2023) e Guzmán (2013): afrodescendentes como atores ativos da re
 
 ---
 
-## Slide 36 — # Cidadania e exclusão
+## Slide 33 — # Cidadania e exclusão
 
 ## Cidadania e exclusão
 
@@ -490,23 +460,13 @@ Poucos afrodescendentes foram reconhecidos como cidadãos plenos. O "patriotismo
 
 ---
 
-## Slide 37 — # Para discussão
-
-## Para discussão
-
-> Por que a memória oficial apagou a participação de indígenas, mulheres e afrodescendentes?
-
-> O que significa falar em **agência política** desses sujeitos?
-
----
-
-## Slide 38 — Parte V — O horizonte republicano
+## Slide 34 — Parte V — O horizonte republicano
 
 # Parte V — O horizonte republicano
 
 ---
 
-## Slide 39 — # Tarefas da república
+## Slide 35 — # Tarefas da república
 
 ## Tarefas da república
 
@@ -523,7 +483,7 @@ Após a ruptura, os novos Estados enfrentaram simultaneamente desafios imensos. 
 
 ---
 
-## Slide 40 — # Fragmentação territorial
+## Slide 36 — # Fragmentação territorial
 
 ## Fragmentação territorial
 
@@ -538,7 +498,7 @@ O sonho bolivariano de unidade deu lugar à fragmentação em meio a guerras civ
 
 ---
 
-## Slide 41 — # Federalistas × Centralistas
+## Slide 37 — # Federalistas × Centralistas
 
 ## Federalistas × Centralistas
 
@@ -553,7 +513,7 @@ Eixo estruturante dos conflitos pós-independência. Bolívar recusa o federalis
 
 ---
 
-## Slide 42 — # Argentina em guerra civil
+## Slide 38 — # Argentina em guerra civil
 
 ## Argentina em guerra civil
 
@@ -568,7 +528,7 @@ Caso paradigmático das guerras internas pós-independência. A consolidação a
 
 ---
 
-## Slide 43 — # Echeverría: democracia sob tutela
+## Slide 39 — # Echeverría: democracia sob tutela
 
 ## Echeverría: democracia sob tutela
 
@@ -583,7 +543,7 @@ Liberalismo tutelar típico da elite letrada: democracia entendida como soberani
 
 ---
 
-## Slide 44 — # Mora e a refutação de Rousseau
+## Slide 40 — # Mora e a refutação de Rousseau
 
 ## Mora e a refutação de Rousseau
 
@@ -598,7 +558,7 @@ Mora refuta Rousseau ao pensar a Câmara como corpo passivo da razão representa
 
 ---
 
-## Slide 45 — # "Perigosa e funesta igualdade"
+## Slide 41 — # "Perigosa e funesta igualdade"
 
 ## "Perigosa e funesta igualdade"
 
@@ -613,23 +573,13 @@ Temor compartilhado por liberais e conservadores: o "quadro social sólido" sign
 
 ---
 
-## Slide 46 — # Para discussão
-
-## Para discussão
-
-> Que noção de "povo" cabia no liberalismo hispano-americano?
-
-> Por que a exclusão das classes populares se tornou a marca das novas repúblicas?
-
----
-
-## Slide 47 — Encerramento
+## Slide 42 — Encerramento
 
 # Encerramento
 
 ---
 
-## Slide 48 — # Independências e suas contradições
+## Slide 43 — # Independências e suas contradições
 
 ## Independências e suas contradições
 
@@ -644,7 +594,7 @@ Síntese da aula: as guerras foram processos múltiplos, não lineares. Independ
 
 ---
 
-## Slide 49 — # Os dois textos em diálogo
+## Slide 44 — # Os dois textos em diálogo
 
 ## Os dois textos em diálogo
 
@@ -659,7 +609,7 @@ Mäder dá o mapa das interpretações — o "o quê" da revolução. Prado & Pe
 
 ---
 
-## Slide 50 — # Bibliografia da aula
+## Slide 45 — # Bibliografia da aula
 
 ## Bibliografia da aula
 
@@ -671,7 +621,7 @@ Mäder dá o mapa das interpretações — o "o quê" da revolução. Prado & Pe
 
 # Ponto de corte editorial
 
-**Último slide incluído:** Slide 50 — Bibliografia da aula.
+**Último slide incluído:** Slide 45 — Bibliografia da aula.
 
 **Primeiro slide reservado à aula seguinte:** Formação dos Estados Nacionais da América Latina (01/10/2026).
 
