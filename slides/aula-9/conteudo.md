@@ -36,21 +36,17 @@ ponto_de_corte: "Aula 8 completa do legado; próximo tema: Era das Abolições I
 
 ## Os caminhos da abolição no Caribe britânico {.center}
 
-::: {.incremental}
 1. **1807** — Abolição do tráfico transatlântico de escravos pelo Parlamento britânico.
 2. **1816** — Revolta escrava na Barbados (Bussa's Rebellion).
 3. **1823** — Revolta escrava na Demerara (Guiana Britânica).
-:::
 
 ## Slide 4 — Os caminhos da abolição no Caribe britânico
 
 ## Os caminhos da abolição no Caribe britânico {.center}
 
-::: {.incremental}
 4. **1831–1832** — Grande revolta na Jamaica (Baptist War / Christmas Rebellion).
 5. **1833** — *Slavery Abolition Act* — abolição com sistema de Aprendizado.
 6. **1838** — Fim do Aprendizado — abolição definitiva.
-:::
 
 ## Slide 5 — Revoltas escravas e pressão abolicionista
 
@@ -162,7 +158,7 @@ Segundo Bridget Brereton:
 - **Crioulo** (*Creole*): nascido em Trinidad de ascendência europeia e africana.
 - **French Creole**: ascendência europeia (normalmente francesa), considerado "branco puro".
 
-## Slide 18 — Acesse a apresentação
+## Slide 18 — Sociedade Crioula e categorias raciais
 
 ## {.center}
 
@@ -193,7 +189,7 @@ Segundo Bridget Brereton:
 - Regulamentações policiais logo após a conquista britânica (1797) já **controlavam estritamente** danças e reuniões negras.
 - Em 1833, o *Port-of-Spain Gazette* relata prisão de mascarados — e represália coletiva das "classes baixas".
 
-## Slide 22 — Acesse a apresentação
+## Slide 22 — Participação negra antes da abolição
 
 ## {.center}
 
@@ -237,7 +233,7 @@ Segundo Lewis Osborn Inniss (1932), o Canboulay de antes de 1858:
 - **Negros acorrentados**, outros bradando chicotes — alegoria dos tempos do cativeiro
 - Mulheres cantando *Bel-airs*, homens lutando com cacetes (*hallé baton*)
 
-## Slide 27 — Acesse a apresentação
+## Slide 27 — Performance negra e memória do cativeiro
 
 ## {.center}
 
@@ -262,7 +258,7 @@ Segundo Lewis Osborn Inniss (1932), o Canboulay de antes de 1858:
 
 # Abolição nas colônias francesas do Caribe {.center}
 
-## Slide 31 — Acesse a apresentação
+## Slide 31 — Abolição nas colônias francesas do Caribe
 
 ## {.center}
 
@@ -290,21 +286,17 @@ Segundo Lewis Osborn Inniss (1932), o Canboulay de antes de 1858:
 
 ## Monarquia de Julho (1830–1848): mudanças legislativas {.center}
 
-::: {.incremental}
 1. **1831** — Extinção do imposto sobre alforrias; início da regularização dos *patrocinados*.
 2. **1832** — Ordenação Real sobre alforrias: todo *livre de facto* pode solicitar título oficial → **presunção de liberdade**.
 3. **1833** — Lei de 24 de abril: direitos civis e políticos aos libertos, independentemente da cor.
-:::
 
 ## Slide 35 — Monarquia de Julho (1830–1848): mudanças legislativas
 
 ## Monarquia de Julho (1830–1848): mudanças legislativas {.center}
 
-::: {.incremental}
 4. **1836** — Lei de 29 de abril: regulamenta sobrenomes dos libertos nas colônias.
 5. **1839** — Ordenação de 11 de junho: escravo que casa com pessoa livre torna-se **"livre de direito"**.
 6. **1845** — **Lei Mackau**: reconhece escravos como "pessoas não livres", institui o *resgate forçado*.
-:::
 
 ## Slide 36 — A resistência dos colonos
 
