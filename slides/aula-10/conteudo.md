@@ -156,7 +156,7 @@ ponto_de_corte: "Aula 10 completa do legado; próximo tema: Era das Abolições 
 
 
 
-## Slide 15 — ## {.center}
+## Slide 15 — Mapa da expansão da escravidão nos EUA (1789–1861)
 
 ## {.center}
 
@@ -224,7 +224,7 @@ ponto_de_corte: "Aula 10 completa do legado; próximo tema: Era das Abolições 
 
 
 
-## Slide 22 — Mathew Brady's Portrait of Abraham Lincoln, 1860
+## Slide 22 — Retrato de Abraham Lincoln, 1860
 
 ## {.center}
 
@@ -261,7 +261,7 @@ ponto_de_corte: "Aula 10 completa do legado; próximo tema: Era das Abolições 
 
 
 
-## Slide 26 — Battle of Antietam — Thure de Thulstrup, 1862
+## Slide 26 — Batalha de Antietam, 1862
 
 ## {.center}
 
@@ -318,7 +318,7 @@ ponto_de_corte: "Aula 10 completa do legado; próximo tema: Era das Abolições 
 
 
 
-## Slide 32 — ## {.center}
+## Slide 32 — Frederick Douglass sobre o alistamento afro-americano
 
 ## {.center}
 
@@ -350,7 +350,7 @@ Frederick Douglass, maio de 1861:
 
 
 
-## Slide 35 — ## {.center}
+## Slide 35 — Susie King Taylor e a expectativa de liberdade
 
 ## {.center}
 
@@ -393,7 +393,7 @@ Susie King Taylor, ex-escravizada da Carolina do Sul:
 
 
 
-## Slide 39 — Come and Join Us Brothers, by the Supervisory Committee For Recruiting Colored Regiments
+## Slide 39 — Come and Join Us Brothers: recrutamento de regimentos afro-americanos
 
 ## {.center}
 
@@ -403,7 +403,7 @@ Susie King Taylor, ex-escravizada da Carolina do Sul:
 
 
 
-## Slide 40 — Men of Color Civil War Recruitment Broadside, 1863
+## Slide 40 — Cartaz de recrutamento de homens afro-americanos, 1863
 
 ## {.center}
 
@@ -413,7 +413,7 @@ Susie King Taylor, ex-escravizada da Carolina do Sul:
 
 
 
-## Slide 41 — Sgt. Samuel Smith, soldado afro-americano em uniforme da União, com esposa e duas filhas
+## Slide 41 — Sgt. Samuel Smith e sua família
 
 ## {.center}
 
@@ -457,135 +457,13 @@ Susie King Taylor, ex-escravizada da Carolina do Sul:
 
 
 
-## Slide 45 — Parte V — Discussão da bibliografia
+## Slide 45 — Recursos audiovisuais
 
-# Parte V — Discussão da bibliografia {.center}
+- [A guerra dia a dia](https://www.youtube.com/watch?v=pDEK4gJBKW0)
+- [Harriet Tubman e a estrada para a liberdade](https://www.youtube.com/watch?v=Dv7YhVKFqbQ)
+- [Frederick Douglass](https://www.youtube.com/watch?v=7QOTexnD-NE)
 
-
-
-## Slide 46 — Drescher (2011) — questão para debate
-
-## Drescher (2011) — questão para debate {.center}
-
-- A tese: a escravidão estadunidense **não era moribunda** quando foi destruída.
-- Foi necessário "esmagador poder político ou militar" para encerrá-la.
-
-. . .
-
-**Pergunta:** se a escravidão era economicamente robusta às vésperas da guerra, **o que explica seu fim**? Que peso atribuir à expansão territorial, ao abolicionismo, à ação dos próprios escravizados?
-
-
-
-## Slide 47 — Drescher (2011) — eixo transatlântico
-
-## Drescher (2011) — eixo transatlântico {.center}
-
-> A combinação do acesso dos abolicionistas ao governo britânico com a afirmação do reiterado interesse de Aberdeen na abolição "em todos os lugares" deu ao governo dos Estados Unidos em Washington um atrativo muito vantajoso para que o Congresso aprovasse a anexação do Texas. (DRESCHER, 2011, p. 454)
-
-. . .
-
-**Pergunta:** como o **abolicionismo britânico** funcionou como variável estratégica do debate político estadunidense entre 1840 e 1860?
-
-
-
-## Slide 48 — Izecksohn (2017) — protagonismo afro-americano
-
-## Izecksohn (2017) — protagonismo afro-americano {.center}
-
-> A despeito do papel crucial desempenhado pelo governo federal no desmantelamento da escravidão, foram os próprios escravos que fizeram a maior contribuição. (IZECKSOHN, 2017, p. 204)
-
-. . .
-
-**Pergunta:** como o conceito de **"votar com os pés"** redefine quem são os agentes da emancipação? O que muda em uma narrativa centrada em Lincoln e os generais brancos?
-
-
-
-## Slide 49 — Izecksohn (2017) — limites do recrutamento
-
-## Izecksohn (2017) — limites do recrutamento {.center}
-
-- Recrutamento *forçado* em Port Royal e na Louisiana.
-- "Caçada humana" familiar a brasileiros da mesma época.
-- Salários desiguais, oficialato negro proibido, alta mortalidade por doenças.
-
-. . .
-
-**Pergunta:** em que medida o serviço militar foi caminho para a cidadania e em que medida reproduziu, internamente, as hierarquias raciais que a guerra supostamente combatia?
-
-
-
-## Slide 50 — Miranda (2015) — repercussões no Brasil
-
-## Miranda (2015) — repercussões no Brasil {.center}
-
-- Silvério da Mota, no Senado brasileiro (1861):
-
-> "se acaso os Estados do Sul da Confederação Norte Americana tivessem seguido esse sistema de ir melhorando a condição legal dos seus escravos, talvez senhores, não víssemos hoje em perigo a União Norte Americana." (MOTA apud MIRANDA, 2015, p. 4)
-
-
-
-## Slide 51 — ## {.center}
-
-## {.center}
-
-**Pergunta:** como o **exemplo da Guerra Civil** foi mobilizado, no debate político brasileiro, para justificar uma abolição "lenta, gradual e sem conflitos"?
-
-
-
-## Slide 52 — Miranda (2015) — imaginário comparado
-
-## Miranda (2015) — imaginário comparado {.center}
-
-- O contraste com a violência da Guerra Civil ajudou a construir o mito de uma escravidão brasileira "branda" e de relações raciais "harmoniosas".
-
-. . .
-
-**Pergunta:** que efeitos esse imaginário comparado produz **até hoje** sobre como pensamos as relações raciais no Brasil?
-
-
-
-## Slide 53 — Síntese
-
-## Síntese {.center}
-
-- Guerra Civil = guerra contra a escravidão **só quando o conflito está bem avançado** (Drescher).
-- Afro-americanos foram **agentes**, não apenas beneficiários (Izecksohn).
-- O exemplo estadunidense ressoou em outras sociedades escravistas — inclusive no Brasil (Miranda).
-- A 13ª Emenda (1865) **aboliu a escravidão**, mas não removeu a continuidade da privação de direitos no Sul.
-
-
-
-## Slide 54 — Recursos audiovisuais
-
-# Recursos audiovisuais {.center}
-
-
-
-## Slide 55 — A guerra dia a dia
-
-## A guerra dia a dia {.center}
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pDEK4gJBKW0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-## Slide 56 — Harriet Tubman e a estrada para liberdade
-
-## Harriet Tubman e a estrada para liberdade {.center}
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dv7YhVKFqbQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-## Slide 57 — Frederick Douglass
-
-## Frederick Douglass {.center}
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7QOTexnD-NE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-## Slide 58 — Bibliografia da aula
+## Slide 46 — Bibliografia da aula
 
 ## Bibliografia da aula {.center}
 
@@ -596,7 +474,7 @@ Susie King Taylor, ex-escravizada da Carolina do Sul:
 
 
 
-## Slide 59 — Bibliografia da aula
+## Slide 47 — Bibliografia da aula
 
 ## Bibliografia da aula {.center}
 
