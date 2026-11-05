@@ -52,7 +52,7 @@ A crise do sistema colonial; Processos de independência e formação dos Estado
 - Não haverá aula em **17/09/2026**, durante o **Festival das Culturas**.
 - Não haverá aula em **15/10/2026**, em razão do feriado.
 - Não haverá aula em **22/10/2026**, durante a **Semana Universitária**.
-- As atividades de **08/10**, **12/11** e **10/12/2026** serão realizadas remotamente.
+- As atividades de **08/10**, **19/11** e **10/12/2026** serão realizadas remotamente.
 :::
 
 ***
@@ -267,7 +267,13 @@ O conteúdo programático, assim como cronograma e leituras previstas, estão em
 
 - MIRANDA, Clícea Maria. Repercussões da Guerra Civil Americana no debate político sobre a abolição no Brasil, 1861-1888. *Anais do VII Encontro Escravidão e Liberdade no Brasil Meridional*, p. 13, 2015.
 
-### AULA 11 (12/11/2026)
+### 12/11/2026 — SEM AULA
+
+::: {.callout-warning}
+Não haverá aula nesta data.
+:::
+
+### AULA 11 (19/11/2026)
 
 **Tema**: Era das abolições III: Cuba, abolição e independência
 
@@ -288,7 +294,7 @@ O conteúdo programático, assim como cronograma e leituras previstas, estão em
 - FERRER, Ada. Cuba, 1898: Rethinking Race, Nation, and Empire. *Radical History Review*, v. 1999, n. 73, p. 22–46, 1999.
 - HELG, Aline. Sentido e impacto de la participación negra en la guerra de independencia de Cuba. *Revista de Indias*, v. 58, n. 212, p. 47–63, 1998.
 
-### AULA 12 (19/11/2026)
+### AULA 12 (26/11/2026)
 
 **Tema**: Pós-abolição, cidadania e direitos nas Américas
 
@@ -314,7 +320,7 @@ O conteúdo programático, assim como cronograma e leituras previstas, estão em
 
 ## Módulo III – Revoluções, Estado e Democracia no Século XX
 
-### AULA 13 (26/11/2026)
+### AULA 13 (03/12/2026)
 
 **Tema**: Revolução Mexicana de 1910
 
@@ -328,7 +334,7 @@ O conteúdo programático, assim como cronograma e leituras previstas, estão em
 - BRUIT, Hector. *Revoluções na América Latina*. São Paulo: Atual, 1988. “Introdução” e “1. A Revolução Mexicana”.
 - Aguilar Camín, Héctor & Meyer, Lorenzo. *À Sombra da Revolução Mexicana: História mexicana contemporãnea, 1910-1989.* São Paulo: EdUSP, 2000. [Trechos selecionados]
 
-### AULA 14 (03/12/2026)
+### AULA 14 (10/12/2026)
 
 **Tema**: Revolução Cubana de 1959
 
