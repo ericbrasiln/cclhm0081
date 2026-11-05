@@ -59,8 +59,9 @@ format:
 | —    | 22/10/2026 | —      | Semana Universitária                                                      | —  | Dia não letivo              |
 | 9    | 29/10/2026 | II     | Era das Abolições I: Caribe                                             | 4  | Presencial                  |
 | 10   | 05/11/2026 | II     | Era das Abolições II: Guerra Civil e Abolição nos EUA (1861–1865)       | 4  | Presencial                  |
-| 11   | 12/11/2026 | II     | Era das Abolições III: Cuba, abolição e independência (1870–1900)       | 4  | Aula remota                 |
-| 12   | 19/11/2026 | II     | Pós-abolição, cidadania e direitos nas Américas                         | 4  | Presencial                  |
-| 13   | 26/11/2026 | III    | Revolução Mexicana de 1910                                              | 4  | Presencial                  |
-| 14   | 03/12/2026 | III    | Revolução Cubana de 1959                                                | 4  | Presencial                  |
+| —    | 12/11/2026 | —      | Sem aula                                                                  | —  | Não haverá aula             |
+| 11   | 19/11/2026 | II     | Era das Abolições III: Cuba, abolição e independência (1870–1900)       | 4  | Aula remota                 |
+| 12   | 26/11/2026 | II     | Pós-abolição, cidadania e direitos nas Américas                         | 4  | Presencial                  |
+| 13   | 03/12/2026 | III    | Revolução Mexicana de 1910                                              | 4  | Presencial                  |
+| 14   | 10/12/2026 | III    | Revolução Cubana de 1959                                                | 4  | Presencial                  |
 | 15   | 10/12/2026 | —      | Trabalho final                                                             | 4  | Atividade remota            |

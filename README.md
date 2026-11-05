@@ -31,10 +31,11 @@ Repositório da disciplina **História da América Independente**, ministrada pe
 | — | 22/10/2026 | *Semana Universitária — dia não letivo* | — |
 | 9 | 29/10/2026 | Era das Abolições I: Caribe | [Acessar](https://ericbrasil.com.br/cclhm0081/slides/aula-8/) |
 | 10 | 05/11/2026 | Era das Abolições II: Guerra Civil e Abolição nos EUA (1861–1865) | [Acessar](https://ericbrasil.com.br/cclhm0081/slides/aula-9/) |
-| 11 | 12/11/2026 | Era das Abolições III: Cuba, abolição e independência *(aula remota)* | [Acessar](https://ericbrasil.com.br/cclhm0081/slides/aula-10/) |
-| 12 | 19/11/2026 | Pós-abolição, cidadania e direitos nas Américas | — |
-| 13 | 26/11/2026 | Revolução Mexicana de 1910 | [Acessar](https://ericbrasil.com.br/cclhm0081/slides/aula-12/) |
-| 14 | 03/12/2026 | Revolução Cubana de 1959 | [Acessar](https://ericbrasil.com.br/cclhm0081/slides/aula-14/) |
+| — | 12/11/2026 | *Sem aula* | — |
+| 11 | 19/11/2026 | Era das Abolições III: Cuba, abolição e independência *(aula remota)* | [Acessar](https://ericbrasil.com.br/cclhm0081/slides/aula-10/) |
+| 12 | 26/11/2026 | Pós-abolição, cidadania e direitos nas Américas | — |
+| 13 | 03/12/2026 | Revolução Mexicana de 1910 | [Acessar](https://ericbrasil.com.br/cclhm0081/slides/aula-12/) |
+| 14 | 10/12/2026 | Revolução Cubana de 1959 | [Acessar](https://ericbrasil.com.br/cclhm0081/slides/aula-14/) |
 | 15 | 10/12/2026 | Trabalho final *(atividade remota)* | — |
 
 ---
