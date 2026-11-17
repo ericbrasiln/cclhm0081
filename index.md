@@ -48,18 +48,18 @@ A disciplina propõe um estudo comparado das experiências de independência nas
 | 1 | 13/08/2026 | Quem escreve a história das Américas? E que disciplina é essa? | [slides](https://ericbrasil.com.br/cclhm0081/slides/aula-1/) |
 | 2 | 20/08/2026 | Revolução Americana | [slides](https://ericbrasil.com.br/cclhm0081/slides/aula-2/) |
 | 3 | 27/08/2026 | Formação da República dos EUA | [slides](https://ericbrasil.com.br/cclhm0081/slides/aula-3/) |
-| 4 | 03/09/2026 | Revolução de Santo Domingo | [material conjunto das Aulas 4–5](https://ericbrasil.com.br/cclhm0081/slides/aula-5/) |
-| 5 | 10/09/2026 | Construção da nação haitiana | [material conjunto das Aulas 4–5](https://ericbrasil.com.br/cclhm0081/slides/aula-5/) |
+| 4 | 03/09/2026 | Revolução de Santo Domingo | [slides](https://ericbrasil.com.br/cclhm0081/slides/aula-4/) |
+| 5 | 10/09/2026 | Construção da nação haitiana | [slides](https://ericbrasil.com.br/cclhm0081/slides/aula-5/) |
 | — | 17/09/2026 | *Festival das Culturas — dia não letivo* | — |
 | 6 | 24/09/2026 | Independências da América Hispânica | [slides](https://ericbrasil.com.br/cclhm0081/slides/aula-6/) |
 | 7 | 01/10/2026 | Formação dos Estados Nacionais da América Latina | [slides](https://ericbrasil.com.br/cclhm0081/slides/aula-7/) |
 | 8 | 08/10/2026 | Análise de fontes *(atividade remota — AT1)* | — |
 | — | 15/10/2026 | *Feriado — sem aula* | — |
 | — | 22/10/2026 | *Semana Universitária — dia não letivo* | — |
-| 9 | 29/10/2026 | Era das Abolições I: Caribe | [slides](https://ericbrasil.com.br/cclhm0081/slides/aula-8/) |
-| 10 | 05/11/2026 | Era das Abolições II: Guerra Civil e Abolição nos EUA (1861–1865) | [slides](https://ericbrasil.com.br/cclhm0081/slides/aula-9/) |
+| 9 | 29/10/2026 | Era das Abolições I: Caribe | [slides](https://ericbrasil.com.br/cclhm0081/slides/aula-9/) |
+| 10 | 05/11/2026 | Era das Abolições II: Guerra Civil e Abolição nos EUA (1861–1865) | [slides](https://ericbrasil.com.br/cclhm0081/slides/aula-10/) |
 | — | 12/11/2026 | *Sem aula* | — |
-| 11 | 19/11/2026 | Era das Abolições III: Cuba, abolição e independência *(aula remota)* | [slides](https://ericbrasil.com.br/cclhm0081/slides/aula-10/) |
+| 11 | 19/11/2026 | Era das Abolições III: Cuba, abolição e independência *(aula remota)* | [slides](https://ericbrasil.com.br/cclhm0081/slides/11/) |
 | 12 | 26/11/2026 | Pós-abolição, cidadania e direitos nas Américas | — |
 | 13 | 03/12/2026 | Revolução Mexicana de 1910 | [slides](https://ericbrasil.com.br/cclhm0081/slides/aula-12/) |
 | 14 | 10/12/2026 | Revolução Cubana de 1959 | [slides](https://ericbrasil.com.br/cclhm0081/slides/aula-14/) |
