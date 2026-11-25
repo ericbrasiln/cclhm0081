@@ -5,7 +5,7 @@ codigo: "CCLHM0081"
 semestre: "2026.2"
 aula: 12
 data: "2026-11-26"
-status: "aprovado para montagem"
+status: "em revisão"
 qmd: "index.qmd"
 html: "index.html"
 fonte_legada: "slides/aula-12/index.qmd (legado substituído após aprovação da nova estrutura)"
@@ -33,8 +33,6 @@ ponto_de_corte: "Aula 12 completa; próxima aula: Revolução Mexicana de 1910 (
 ## Slide 3 — Pergunta de abertura
 
 ## Pós-abolição, cidadania e direitos nas Américas {.center}
-
-> **O que mudou — e o que permaneceu — depois da abolição da escravidão nas Américas?**
 
 - Que significados os libertos atribuíram à liberdade?
 - Quais condições materiais eram necessárias para transformar liberdade jurídica em autonomia?
@@ -260,37 +258,28 @@ ponto_de_corte: "Aula 12 completa; próxima aula: Revolução Mexicana de 1910 (
 
 ## Slide 29 — Atividade de análise comparada
 
-## Atividade de análise comparada {.center}
+## Atividade: leitura de trechos {.center}
 
-Em grupos, analisem um dos casos:
+Em grupos, leiam os trechos selecionados para a aula:
 
-- Brasil — Rios e Mattos;
-- Estados Unidos — Foner e Brito;
-- Barbados ou Rio de Janeiro/Port-of-Spain — Rocha ou Brasil.
+- Rios e Mattos — o pós-abolição como problema histórico;
+- Eric Foner — liberdade e Reconstruction;
+- Flávio Gomes e Petrônio Domingues — experiências, instituições e movimentos sociais.
 
-Respondam:
-
-- Qual era o principal significado de liberdade?
-- Que obstáculos limitavam a autonomia?
-- Que estratégias de ação foram mobilizadas?
-- Que tipo de cidadania estava em disputa?
+> A seleção dos excertos será inserida nesta apresentação depois da preparação do material impresso ou digital para a turma.
 
 ## Slide 30 — Quadro de síntese
 
-## Quadro de síntese {.center}
+## Perguntas para os trechos {.center}
 
-Organizem a análise em quatro campos:
-
-- **Direito ou expectativa**
-- **Obstáculo**
-- **Forma de mobilização**
-- **Resultado ou limite**
+- O que cada trecho permite compreender sobre a liberdade?
+- Quais limites materiais, sociais ou políticos restringiam a autonomia?
+- Que sentidos de cidadania aparecem em disputa?
+- Como os autores definem ou problematizam o termo **pós-abolição**?
 
 ## Slide 31 — Síntese da aula
 
 ## Síntese da aula {.center}
-
-> A abolição mudou o estatuto jurídico das pessoas escravizadas, mas os sentidos efetivos da liberdade foram definidos em disputas posteriores.
 
 - Liberdade jurídica não significava igualdade social.
 - Cidadania era uma prática, não apenas uma concessão estatal.
@@ -325,3 +314,12 @@ Organizem a análise em quatro campos:
 - ROCHA, Elaine P. “Um lugar para chamar de seu: a luta dos negros barbadianos pela moradia no Pós-Abolição”. *Revista Eletrônica da ANPHLAC*, n. 27, p. 37–65, 2019.
 - ROCHA, Fábio Dantas. “Entre embates e contendas: um balanço historiográfico sobre a cidadania no pós-Abolição”. *Revista Latino-Americana de História*, v. 2, n. 9, p. 50–74, 2013.
 - SILVEIRA, Priscila Valverde. *Entre o Pós-Abolição e a História Digital: usos e sentidos do termo pós-abolição nos Simpósios Nacionais de História da ANPUH (2013–2019)*. TCC, UNILAB, 2022.
+
+## Slide 35 — Síntese final: o termo pós-abolição
+
+## O que significa “pós-abolição”? {.center}
+
+- **Marco cronológico** — período aberto pelo fim jurídico da escravidão, sem se reduzir ao dia da emancipação.
+- **Problema histórico** — investigação das permanências, transformações e reconfigurações das hierarquias raciais.
+- **Disputa por cidadania** — campo de reivindicação por trabalho, terra, moradia, circulação, educação, direitos e reconhecimento.
+- **Agência negra** — experiências, organizações e estratégias que produziram novos sentidos para a liberdade.
