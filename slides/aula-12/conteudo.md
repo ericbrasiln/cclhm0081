@@ -266,8 +266,6 @@ Em grupos, leiam os trechos selecionados para a aula:
 - Eric Foner — liberdade e Reconstruction;
 - Flávio Gomes e Petrônio Domingues — experiências, instituições e movimentos sociais.
 
-> A seleção dos excertos será inserida nesta apresentação depois da preparação do material impresso ou digital para a turma.
-
 ## Slide 30 — Quadro de síntese
 
 ## Perguntas para os trechos {.center}
@@ -285,7 +283,23 @@ Em grupos, leiam os trechos selecionados para a aula:
 - Cidadania era uma prática, não apenas uma concessão estatal.
 - Estratégias negras responderam a dilemas compartilhados em condições históricas diferentes.
 
-## Slide 32 — Para a próxima aula
+## Slide 32 — Síntese final: o termo pós-abolição
+
+## O que significa “pós-abolição”? {.center}
+
+- **Marco cronológico** — período aberto pelo fim jurídico da escravidão, sem se reduzir ao dia da emancipação.
+- **Problema histórico** — investigação das permanências, transformações e reconfigurações das hierarquias raciais.
+- **Disputa por cidadania** — campo de reivindicação por trabalho, terra, moradia, circulação, educação, direitos e reconhecimento.
+- **Agência negra** — experiências, organizações e estratégias que produziram novos sentidos para a liberdade.
+
+## Slide 33 — Indicações
+
+## Indicações para assistir {.center}
+
+- [*A última abolição*](https://www.netflix.com/br/title/80091741)
+- [*13ª Emenda*](https://www.netflix.com/br/title/80091741)
+
+## Slide 34 — Para a próxima aula
 
 ## Para a próxima aula {.center}
 
@@ -297,7 +311,7 @@ Em grupos, leiam os trechos selecionados para a aula:
 - Estado;
 - cidadania.
 
-## Slide 33 — Bibliografia da aula (1/2)
+## Slide 35 — Bibliografia da aula (1/2)
 
 ## Bibliografia da aula (1/2) {.center}
 
@@ -306,7 +320,7 @@ Em grupos, leiam os trechos selecionados para a aula:
 - FONER, Eric. *Reconstruction: America’s Unfinished Revolution, 1863–1877*. New York: HarperCollins, 1988.
 - NASCIMENTO, Álvaro Pereira. “Trabalhadores negros e o ‘paradigma da ausência’: contribuições à História Social do Trabalho no Brasil”. *Estudos Históricos*, v. 29, n. 59, p. 607–626, 2016.
 
-## Slide 34 — Bibliografia da aula (2/2)
+## Slide 36 — Bibliografia da aula (2/2)
 
 ## Bibliografia da aula (2/2) {.center}
 
@@ -314,12 +328,3 @@ Em grupos, leiam os trechos selecionados para a aula:
 - ROCHA, Elaine P. “Um lugar para chamar de seu: a luta dos negros barbadianos pela moradia no Pós-Abolição”. *Revista Eletrônica da ANPHLAC*, n. 27, p. 37–65, 2019.
 - ROCHA, Fábio Dantas. “Entre embates e contendas: um balanço historiográfico sobre a cidadania no pós-Abolição”. *Revista Latino-Americana de História*, v. 2, n. 9, p. 50–74, 2013.
 - SILVEIRA, Priscila Valverde. *Entre o Pós-Abolição e a História Digital: usos e sentidos do termo pós-abolição nos Simpósios Nacionais de História da ANPUH (2013–2019)*. TCC, UNILAB, 2022.
-
-## Slide 35 — Síntese final: o termo pós-abolição
-
-## O que significa “pós-abolição”? {.center}
-
-- **Marco cronológico** — período aberto pelo fim jurídico da escravidão, sem se reduzir ao dia da emancipação.
-- **Problema histórico** — investigação das permanências, transformações e reconfigurações das hierarquias raciais.
-- **Disputa por cidadania** — campo de reivindicação por trabalho, terra, moradia, circulação, educação, direitos e reconhecimento.
-- **Agência negra** — experiências, organizações e estratégias que produziram novos sentidos para a liberdade.
